@@ -34,7 +34,7 @@ public class LambdaFunctionHandler implements RequestHandler<S3Event, String> {
         	
         	switch (feed.toLowerCase()) {
         		case "iettv" :
-        			feedProcessed = DataFeed.IetTv(key);
+        			feedProcessed = DataFeed.IetTv(bucket, key);
         			break;
         		default:
         			break;
