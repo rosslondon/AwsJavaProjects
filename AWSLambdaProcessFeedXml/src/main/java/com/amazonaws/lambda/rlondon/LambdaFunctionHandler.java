@@ -26,26 +26,29 @@ public class LambdaFunctionHandler implements RequestHandler<S3Event, String> {
         // Get the object from the event and show its content type
         String bucket = event.getRecords().get(0).getS3().getBucket().getName();
         String key = event.getRecords().get(0).getS3().getObject().getKey();
+        String feed = key.substring(0,key.indexOf("/"));
+    	String file = key.substring(key.indexOf("/")+1);
+        String contentBody = String.format("Feed: %s, File: %s, Bucket: %s", feed, file, bucket);
         
-        boolean feedProcessed; 
+        s3.putObject("rlondon-importfile", "feed_info.txt", contentBody);
+    	
+        boolean feedProcessed = false; 
         
         try {
-        	String feed = key.substring(0,key.indexOf("/"));
-        	
+        	DataFeed dataFeed = new DataFeed();
+        	s3.putObject("rlondon-importfile", key.replace(".xml", ".txt"), bucket);
         	switch (feed.toLowerCase()) {
         		case "iettv" :
-        			feedProcessed = DataFeed.IetTv(bucket, key);
+        			feedProcessed = dataFeed.IetTv(bucket, key);
         			break;
         		default:
         			break;
         	}
         	
         	
-        	String file = key.substring(key.indexOf("/")+1);
-            S3Object response = s3.getObject(new GetObjectRequest(bucket, key));
+        	S3Object response = s3.getObject(new GetObjectRequest(bucket, key));
             String contentType = response.getObjectMetadata().getContentType();
-            String contentBody = String.format("Feed: %s, File: %s, Bucket: %s", feed, file, bucket);
-            String newKey = key.replace(".xml", ".txt");
+                        String newKey = key.replace(".xml", ".txt");
             s3.putObject("rlondon-importfile", newKey, contentBody);
             
             context.getLogger().log("CONTENT TYPE: " + contentType);
