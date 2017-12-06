@@ -1,0 +1,2712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="introduction" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">SDTYAE</journal-id>
+<journal-title-group>
+<journal-title>Structural Dynamics</journal-title>
+<abbrev-journal-title>Struct. Dyn.</abbrev-journal-title></journal-title-group>
+<issn pub-type="epub">2329-7778</issn>
+<publisher>
+<publisher-name>American Crystallographic Association</publisher-name>
+<publisher-name specific-use="short-name">ACA</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1063/1.4998243</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4998243</article-id>
+<article-id pub-id-type="publisher-id:aipid">036795SDY</article-id>
+<article-id pub-id-type="manuscript">SD-AZWL17-00107</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>ULTRAFAST STRUCTURAL DYNAMICS—A TRIBUTE TO AHMED H. ZEWAIL</subject><subj-group><subject>Preface</subject></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>From structure to structural dynamics: Ahmed Zewail's legacy</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Chergui</surname>
+<given-names>Majed</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<contrib contrib-type="author"><name><surname>Thomas</surname>
+<given-names>John Meurig</given-names></name><xref ref-type="aff" rid="a2">2</xref><xref ref-type="author-note" rid="n2">b)</xref></contrib>
+<aff id="a1">
+<label>1</label><institution>Ecole Polytechnique Fédérale de Lausanne, Laboratoire de Spectroscopie Ultrarapide and Lausanne Centre for Ultrafast Science (LACUS), ISIC, Faculté des Sciences de Base</institution>, Station 6, CH-1015 Lausanne, <country>Switzerland</country></aff>
+<aff id="a2">
+<label>2</label><institution>Department of Materials Science and Metallurgy, University of Cambridge</institution>, 27 Charles Babbage Road, Cambridge CB30FS, <country>United Kingdom</country></aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p><ext-link ext-link-type="email" xlink:href="mailto:Majed.chergui@epfl.ch">Majed.chergui@epfl.ch</ext-link></p></fn><fn id="n2">
+<label>b)</label>
+<p><ext-link ext-link-type="email" xlink:href="mailto:jmt2@cam.ac.uk">jmt2@cam.ac.uk</ext-link></p></fn></author-notes>
+<pub-date pub-type="ppub"><month>07</month><year>2017</year></pub-date>
+<volume>4</volume><issue>4</issue><elocation-id seq="1">043802</elocation-id>
+<history>
+<date date-type="received"><day>29</day><month>07</month><year>2017</year></date>
+<date date-type="accepted"><day>08</day><month>08</month><year>2017</year></date>
+<date date-type="published"><day>18</day><month>08</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 Author(s).</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>Author(s)</copyright-holder>
+<license license-type="ccc">
+<license-p>2329-7778/2017/4(4)/043802/14</license-p>
+</license>
+
+<license license-type="open"><license-p>All article content, except where otherwise noted, is licensed under a Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract>
+<p>In this brief tribute to Ahmed Zewail, we highlight and place in the historical context, several of the major achievements that he and his colleagues have made in Femtochemistry (of which he was the principal instigator) and his introduction of ultrafast electron scattering, diffraction, microscopy and spectroscopy. By achieving a sub-picosecond temporal resolution, coupled with a picometer spatial resolution, he revolutionised our understanding of the corpus of chemical, physical, biological and materials science systems.</p>
+</abstract>
+
+
+
+<funding-group specific-use="FundRef"><award-group><funding-source><named-content content-type="funder_name">National Institutes of Health</named-content><named-content content-type="funder_identifier">http://dx.doi.org/10.13039/100000002</named-content></funding-source></award-group></funding-group>
+<counts>
+<page-count count="14"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. G.</given-names> <surname>Barkla</surname>
+</string-name> and 
+<string-name>
+<given-names>C. A.</given-names> <surname>Sadler</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>80</bold></volume>, <fpage>37</fpage>–<lpage>37</lpage> (<year>1909</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/080037a0</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. G.</given-names> <surname>Barkla</surname>
+</string-name> and 
+<string-name>
+<given-names>V.</given-names> <surname>Collier</surname>
+</string-name>, <source>Philos. Mag.</source> 
+<volume><bold>23</bold></volume>(<issue>138</issue>), <fpage>987</fpage>–<lpage>997</lpage> (<year>1912</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/14786440608637302</pub-id></mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W.</given-names> <surname>Friedrich</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Knipping</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names> <surname>Laue</surname>
+</string-name>, <source>Ann. Phys.-Berlin</source> 
+<volume><bold>41</bold></volume>(<issue>10</issue>), <fpage>971</fpage>–<lpage>988</lpage> (<year>1913</year>).</mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W.</given-names> <surname>Friedrich</surname>
+</string-name>, <source>Phys. Z.</source> 
+<volume><bold>14</bold></volume>, <fpage>317</fpage>–<lpage>319</lpage> (<year>1913</year>).</mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. H.</given-names> <surname>Bragg</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>90</bold></volume>, <fpage>219</fpage>–<lpage>219</lpage> (<year>1912</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/090219a0</pub-id></mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. H.</given-names> <surname>Bragg</surname>
+</string-name> and 
+<string-name>
+<given-names>W. L.</given-names> <surname>Bragg</surname>
+</string-name>, <source>Z. Anorg. Chem.</source> 
+<volume><bold>90</bold></volume>(<issue>2/3</issue>), <fpage>169</fpage>–<lpage>181</lpage> (<year>1914</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/zaac.19140900108</pub-id></mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. H.</given-names> <surname>Bragg</surname>
+</string-name>, <source>Z. Anorg. Chem.</source> 
+<volume><bold>90</bold></volume>(<issue>2/3</issue>), <fpage>182</fpage>–<lpage>184</lpage> (<year>1914</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/zaac.19140900109</pub-id></mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Debye</surname>
+</string-name>, <source>Ann. Phys.-Berlin</source> 
+<volume><bold>43</bold></volume>(<issue>1</issue>), <fpage>49</fpage>–<lpage>95</lpage> (<year>1913</year>).</mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. G.</given-names> <surname>Moseley</surname>
+</string-name>, <source>London, Edinburgh, Dublin Philos. Mag. J. Sci.</source> 
+<volume><bold>26</bold></volume>(<issue>156</issue>), <fpage>1024</fpage>–<lpage>1034</lpage> (<year>1913</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/14786441308635052</pub-id></mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Siegbahn</surname>
+</string-name>, <source>C. R. Hebd. Seances Acad. Sci.</source> 
+<volume><bold>165</bold></volume>, <fpage>59</fpage>–<lpage>59</lpage> (<year>1917</year>).</mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Siegbahn</surname>
+</string-name>, <source>Philos. Mag.</source> 
+<volume><bold>38</bold></volume>(<issue>227</issue>), <fpage>639</fpage>–<lpage>646</lpage> (<year>1919</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/14786441108635992</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Siegbahn</surname>
+</string-name> and 
+<string-name>
+<given-names>E.</given-names> <surname>Jonsson</surname>
+</string-name>, <source>Phys. Z.</source> 
+<volume><bold>20</bold></volume>, <fpage>251</fpage>–<lpage>256</lpage> (<year>1919</year>).</mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Siegbahn</surname>
+</string-name>, 
+<string-name>
+<given-names>A. E.</given-names> <surname>Lindh</surname>
+</string-name>, and 
+<string-name>
+<given-names>N.</given-names> <surname>Stensson</surname>
+</string-name>, <source>Z. Phys.</source> 
+<volume><bold>4</bold></volume>, <fpage>61</fpage>–<lpage>67</lpage> (<year>1921</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/BF01328043</pub-id></mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Stumm von Bordwehr</surname>
+</string-name>, <source>Ann. Phys. Fr.</source> 
+<volume><bold>14</bold></volume>(<issue>4</issue>), <fpage>377</fpage>–<lpage>465</lpage> (<year>1989</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1051/anphys:01989001404037700</pub-id></mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D. E.</given-names> <surname>Sayers</surname>
+</string-name>, 
+<string-name>
+<given-names>E. A.</given-names> <surname>Stern</surname>
+</string-name>, and 
+<string-name>
+<given-names>F. W.</given-names> <surname>Lytle</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>27</bold></volume>(<issue>18</issue>), <fpage>1204</fpage> (<year>1971</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.27.1204</pub-id></mixed-citation>
+</ref>
+<ref id="c16">
+<label>16.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>D. C.</given-names> <surname>Koningsberger</surname>
+</string-name> and 
+<string-name>
+<given-names>R.</given-names> <surname>Prins</surname>
+</string-name>, <source><italic>X-Ray Absorption: Principles, Applications, Techniques of EXAFS, SEXAFS, and XANES</italic></source> (
+<publisher-name>Wiley</publisher-name>, 
+<publisher-loc>New York</publisher-loc>, <year>1988</year>).</mixed-citation>
+</ref>
+<ref id="c17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Mark</surname>
+</string-name> and 
+<string-name>
+<given-names>R.</given-names> <surname>Wierl</surname>
+</string-name>, <source>Naturwissenschaften</source> 
+<volume><bold>18</bold></volume>(<issue>9</issue>), <fpage>205</fpage>–<lpage>205</lpage> (<year>1930</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/BF01494849</pub-id></mixed-citation>
+</ref>
+<ref id="c18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Debye</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Bewilogua</surname>
+</string-name>, and 
+<string-name>
+<given-names>F.</given-names> <surname>Ehrhardt</surname>
+</string-name>, <source>Phys. Z.</source> 
+<volume><bold>30</bold></volume>, <fpage>84</fpage>–<lpage>87</lpage> (<year>1929</year>).</mixed-citation>
+</ref>
+<ref id="c19">
+<label>19.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Debye</surname>
+</string-name> and 
+<string-name>
+<given-names>L.</given-names> <surname>Bewilogua</surname>
+</string-name>, <source>Akad. Wiss.</source> 
+<volume><bold>81</bold></volume>, <fpage>29</fpage> (<year>1929</year>).</mixed-citation>
+</ref>
+<ref id="c20">
+<label>20.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>D.</given-names> <surname>Mathys</surname>
+</string-name>, <source><italic>Die Entwicklung der Elektronenmikroskopie vom Bild über die Analyse zum Nanolabor</italic></source> (
+<publisher-name>University of Basel</publisher-name>, 2004), p. <fpage>8</fpage>.</mixed-citation>
+</ref>
+<ref id="c21">
+<label>21.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Knoll</surname>
+</string-name> and 
+<string-name>
+<given-names>E.</given-names> <surname>Ruska</surname>
+</string-name>, <source>Z. Phys. A Hadrons Nucl.</source> 
+<volume><bold>78</bold></volume>(<issue>5</issue>), <fpage>318</fpage>–<lpage>339</lpage> (<year>1932</year>).</mixed-citation>
+</ref>
+<ref id="c22">
+<label>22.</label>
+<mixed-citation publication-type="other">
+<string-name>
+<given-names>E.</given-names> <surname>Ruska</surname>
+</string-name>, Nobel Foundation, <year>1986</year>.</mixed-citation>
+</ref>
+<ref id="c23">
+<label>23.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Kruger</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Schneck</surname>
+</string-name>, and 
+<string-name>
+<given-names>H.</given-names> <surname>Gelderblom</surname>
+</string-name>, <source>Lancet</source> 
+<volume><bold>355</bold></volume>(<issue>9216</issue>), <fpage>1713</fpage>–<lpage>1717</lpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0140-6736(00)02250-9</pub-id></mixed-citation>
+</ref>
+<ref id="c24">
+<label>24.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Von Ardenne</surname>
+</string-name> and 
+<string-name>
+<given-names>D.</given-names> <surname>Beischer</surname>
+</string-name>, <source>Ber. Bunsengesellschaft Phys. Chem.</source> 
+<volume><bold>46</bold></volume>(<issue>4</issue>), <fpage>270</fpage>–<lpage>277</lpage> (<year>1940</year>).</mixed-citation>
+</ref>
+<ref id="c25">
+<label>25.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Gabor</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>161</bold></volume>(<issue>4098</issue>), <fpage>777</fpage>–<lpage>778</lpage> (<year>1948</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/161777a0</pub-id></mixed-citation>
+</ref>
+<ref id="c26">
+<label>26.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Jacoby</surname>
+</string-name>, <source>Chem. Eng. News</source> 
+<volume><bold>83</bold></volume>(<issue>48</issue>), <fpage>13</fpage>–<lpage>16</lpage> (<year>2005</year>).</mixed-citation>
+</ref>
+<ref id="c27">
+<label>27.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names> <surname>Landau</surname>
+</string-name>, <source>Phys. Z. Sowjetunion</source> 
+<volume><bold>1</bold></volume>, <fpage>88</fpage>–<lpage>51</lpage> (<year>1932</year>).</mixed-citation>
+</ref>
+<ref id="c28">
+<label>28.</label>
+<mixed-citation publication-type="confproc">
+<string-name>
+<given-names>C.</given-names> <surname>Zener</surname>
+</string-name>, paper presented at the <conf-name>Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences</conf-name> (<year>1932</year>).</mixed-citation>
+</ref>
+<ref id="c29">
+<label>29.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>E. K. G.</given-names> <surname>Stueckelberg</surname>
+</string-name>, <source><italic>Theorie Der Unelastischen Stösse Zwischen Atomen</italic></source> (
+<publisher-name>Birkhäuser</publisher-name>, <year>1933</year>).</mixed-citation>
+</ref>
+<ref id="c30">
+<label>30.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Di Giacomo</surname>
+</string-name> and 
+<string-name>
+<given-names>E. E.</given-names> <surname>Nikitin</surname>
+</string-name>, <source>Phys.-Usp.</source> 
+<volume><bold>48</bold></volume>(<issue>5</issue>), <fpage>515</fpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1070/PU2005v048n05ABEH002804</pub-id></mixed-citation>
+</ref>
+<ref id="c31">
+<label>31.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Eyring</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names> <surname>Polanyi</surname>
+</string-name>, <source>Z. Phys. Chem. Abt. B</source> 
+<volume><bold>12</bold></volume>(<issue>4</issue>), <fpage>279</fpage>–<lpage>311</lpage> (<year>1931</year>).</mixed-citation>
+</ref>
+<ref id="c32">
+<label>32.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Polanyi</surname>
+</string-name>, <source>Trans. Faraday Soc.</source> 
+<volume><bold>28</bold></volume>, <fpage>0316</fpage>–<lpage>0332</lpage> (<year>1932</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/TF9322800316</pub-id></mixed-citation>
+</ref>
+<ref id="c33">
+<label>33.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Hirschfelder</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Eyring</surname>
+</string-name>, and 
+<string-name>
+<given-names>B.</given-names> <surname>Topley</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>4</bold></volume>(<issue>3</issue>), <fpage>170</fpage>–<lpage>176</lpage> (<year>1936</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1749815</pub-id></mixed-citation>
+</ref>
+<ref id="c34">
+<label>34.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Eyring</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>3</bold></volume>(<issue>2</issue>), <fpage>107</fpage>–<lpage>115</lpage> (<year>1935</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1749604</pub-id></mixed-citation>
+</ref>
+<ref id="c35">
+<label>35.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. F. K.</given-names> <surname>Wynne-Jones</surname>
+</string-name> and 
+<string-name>
+<given-names>H.</given-names> <surname>Eyring</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>3</bold></volume>(<issue>8</issue>), <fpage>492</fpage>–<lpage>502</lpage> (<year>1935</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1749713</pub-id></mixed-citation>
+</ref>
+<ref id="c36">
+<label>36.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. G.</given-names> <surname>Evans</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names> <surname>Polanyi</surname>
+</string-name>, <source>Trans. Faraday Soc.</source> 
+<volume><bold>31</bold></volume>(<issue>1</issue>), <fpage>0875</fpage>–<lpage>0893</lpage> (<year>1935</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/tf9353100875</pub-id></mixed-citation>
+</ref>
+<ref id="c37">
+<label>37.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. G.</given-names> <surname>Evans</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names> <surname>Polanyi</surname>
+</string-name>, <source>Trans. Faraday Soc.</source> 
+<volume><bold>33</bold></volume>(<issue>1</issue>), <fpage>0448</fpage>–<lpage>0452</lpage> (<year>1937</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/tf9373300448</pub-id></mixed-citation>
+</ref>
+<ref id="c38">
+<label>38.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source> 
+<volume><bold>39</bold></volume>(<issue>15</issue>), <fpage>2587</fpage>–<lpage>2631</lpage> (<year>2000</year>).</mixed-citation>
+</ref>
+<ref id="c39">
+<label>39.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.</given-names> <surname>Schrodinger</surname>
+</string-name>, <source>Ann. Phys.-Berlin</source> 
+<volume><bold>79</bold></volume>(<issue>6</issue>), <fpage>489</fpage>–<lpage>527</lpage> (<year>1926</year>).</mixed-citation>
+</ref>
+<ref id="c40">
+<label>40.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Ehrenfest</surname>
+</string-name>, <source>Z. Phys.</source> 
+<volume><bold>45</bold></volume>(<issue>7</issue>), <fpage>455</fpage>–<lpage>457</lpage> (<year>1927</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/BF01329203</pub-id></mixed-citation>
+</ref>
+<ref id="c41">
+<label>41.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.-J.</given-names> <surname>Marrey</surname>
+</string-name>, <source>La Nature</source> 
+<volume><bold>1894</bold></volume>, <fpage>1119</fpage>.</mixed-citation>
+</ref>
+<ref id="c42">
+<label>42.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.-J.</given-names> <surname>Marrey</surname>
+</string-name>, <source>Rev. Sci.</source> 
+<volume><bold>14</bold></volume>, <fpage>252</fpage> (<year>1869</year>).</mixed-citation>
+</ref>
+<ref id="c43">
+<label>43.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. G. W.</given-names> <surname>Norrish</surname>
+</string-name> and 
+<string-name>
+<given-names>G.</given-names> <surname>Porter</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>164</bold></volume>(<issue>4172</issue>), <fpage>658</fpage>–<lpage>658</lpage> (<year>1949</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/164658a0</pub-id></mixed-citation>
+</ref>
+<ref id="c44">
+<label>44.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source><italic>Femtochemistry, Atomic Scale Dynamics of the Chemical Bond Using Ultrafast Lasers</italic></source> (
+<publisher-name>World Scientific</publisher-name>, 
+<publisher-loc>Singapore</publisher-loc>, <year>2003</year>).</mixed-citation>
+</ref>
+<ref id="c45">
+<label>45.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Abraham</surname>
+</string-name> and 
+<string-name>
+<given-names>T.</given-names> <surname>Lemoine</surname>
+</string-name>, <source>C. R. Seances Acad. Sci.</source> 
+<volume><bold>129</bold></volume>, <fpage>206</fpage> (<year>1899</year>).</mixed-citation>
+</ref>
+<ref id="c46">
+<label>46.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Eigen</surname>
+</string-name>, <source>Discuss Faraday Soc.</source> 
+<volume><bold>17</bold></volume>, <fpage>194</fpage>–<lpage>205</lpage> (<year>1954</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/DF9541700194</pub-id></mixed-citation>
+</ref>
+<ref id="c47">
+<label>47.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Javan</surname>
+</string-name>, <source>Phys. Rev.</source> 
+<volume><bold>107</bold></volume>(<issue>6</issue>), <fpage>1579</fpage>–<lpage>1589</lpage> (<year>1957</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRev.107.1579</pub-id></mixed-citation>
+</ref>
+<ref id="c48">
+<label>48.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Javan</surname>
+</string-name>, <source>J. Phys. Radium</source> 
+<volume><bold>19</bold></volume>(<issue>11</issue>), <fpage>806</fpage>–<lpage>808</lpage> (<year>1958</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1051/jphysrad:019580019011080600</pub-id></mixed-citation>
+</ref>
+<ref id="c49">
+<label>49.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>N. G.</given-names> <surname>Basov</surname>
+</string-name>, 
+<string-name>
+<given-names>O. N.</given-names> <surname>Krokhin</surname>
+</string-name>, and 
+<string-name>
+<given-names>I. M.</given-names> <surname>Popov</surname>
+</string-name>, <source>Usp. Fiz. Nauk.</source> 
+<volume><bold>72</bold></volume>(<issue>2</issue>), <fpage>161</fpage>–<lpage>209</lpage> (<year>1960</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.3367/UFNr.0072.196010a.0161</pub-id></mixed-citation>
+</ref>
+<ref id="c50">
+<label>50.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Prokhorov</surname>
+</string-name> and 
+<string-name>
+<given-names>N.</given-names> <surname>Basov</surname>
+</string-name>, <source>Usp. Fiz. Nauk</source> 
+<volume><bold>57</bold></volume>(<issue>3</issue>), <fpage>485</fpage>–<lpage>501</lpage> (<year>1955</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.3367/UFNr.0057.195511d.0485</pub-id></mixed-citation>
+</ref>
+<ref id="c51">
+<label>51.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. L.</given-names> <surname>Schawlow</surname>
+</string-name> and 
+<string-name>
+<given-names>C. H.</given-names> <surname>Townes</surname>
+</string-name>, <source>Phys. Rev.</source> 
+<volume><bold>112</bold></volume>(<issue>6</issue>), <fpage>1940</fpage> (<year>1958</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRev.112.1940</pub-id></mixed-citation>
+</ref>
+<ref id="c52">
+<label>52.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. E.</given-names> <surname>Hargrove</surname>
+</string-name>, 
+<string-name>
+<given-names>R. L.</given-names> <surname>Fork</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. A.</given-names> <surname>Pollack</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>5</bold></volume>(<issue>1</issue>), <fpage>4</fpage> (<year>1964</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1754025</pub-id></mixed-citation>
+</ref>
+<ref id="c53">
+<label>53.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>O. P.</given-names> <surname>Mcduff</surname>
+</string-name> and 
+<string-name>
+<given-names>S. E.</given-names> <surname>Harris</surname>
+</string-name>, <source>IEEE J. Quantum Electron</source>
+<volume><bold>.3</bold></volume>(<issue>3</issue>), <fpage>101</fpage> (<year>1967</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/JQE.1967.1074459</pub-id></mixed-citation>
+</ref>
+<ref id="c54">
+<label>54.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. V.</given-names> <surname>Shank</surname>
+</string-name>, 
+<string-name>
+<given-names>R. L.</given-names> <surname>Fork</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Yen</surname>
+</string-name>, 
+<string-name>
+<given-names>R. H.</given-names> <surname>Stolen</surname>
+</string-name>, and 
+<string-name>
+<given-names>W. J.</given-names> <surname>Tomlinson</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>40</bold></volume>(<issue>9</issue>), <fpage>761</fpage>–<lpage>763</lpage> (<year>1982</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.93276</pub-id></mixed-citation>
+</ref>
+<ref id="c55">
+<label>55.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. V.</given-names> <surname>Shank</surname>
+</string-name>, 
+<string-name>
+<given-names>R. L.</given-names> <surname>Fork</surname>
+</string-name>, and 
+<string-name>
+<given-names>F.</given-names> <surname>Beisser</surname>
+</string-name>, <source>Laser Focus World</source> 
+<volume><bold>19</bold></volume>(<issue>6</issue>), <fpage>59</fpage>–<lpage>62</lpage> (<year>1983</year>).</mixed-citation>
+</ref>
+<ref id="c56">
+<label>56.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. L.</given-names> <surname>Fork</surname>
+</string-name>, 
+<string-name>
+<given-names>C. V.</given-names> <surname>Shank</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Hirlimann</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Yen</surname>
+</string-name>, and 
+<string-name>
+<given-names>W. J.</given-names> <surname>Tomlinson</surname>
+</string-name>, <source>Opt. Lett.</source> 
+<volume><bold>8</bold></volume>(<issue>1</issue>), <fpage>1</fpage>–<lpage>3</lpage> (<year>1983</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1364/OL.8.000001</pub-id></mixed-citation>
+</ref>
+<ref id="c57">
+<label>57.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Fork</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Shank</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Yen</surname>
+</string-name>, and 
+<string-name>
+<given-names>C.</given-names> <surname>Hirlimann</surname>
+</string-name>, <source>IEEE J. Quantum Electron.</source> 
+<volume><bold>19</bold></volume>(4), <fpage>500</fpage>–<lpage>506</lpage> (<year>1983</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/JQE.1983.1071898</pub-id></mixed-citation>
+</ref>
+<ref id="c58">
+<label>58.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Parker</surname>
+</string-name> and 
+<string-name>
+<given-names>C.</given-names> <surname>Stroud</surname>, <suffix>Jr.</suffix>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>56</bold></volume>(<issue>7</issue>), <fpage>716</fpage> (<year>1986</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.56.716</pub-id></mixed-citation>
+</ref>
+<ref id="c59">
+<label>59.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. A.</given-names> <surname>Yeazell</surname>
+</string-name> and 
+<string-name>
+<given-names>C.</given-names> <surname>Stroud</surname>, <suffix>Jr.</suffix>
+</string-name>, <source>Phys. Rev. A</source> 
+<volume><bold>35</bold></volume>(<issue>7</issue>), <fpage>2806</fpage> (<year>1987</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevA.35.2806</pub-id></mixed-citation>
+</ref>
+<ref id="c60">
+<label>60.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. A.</given-names> <surname>Yeazell</surname>
+</string-name> and 
+<string-name>
+<given-names>C.</given-names> <surname>Stroud</surname>, <suffix>Jr.</suffix>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>60</bold></volume>(<issue>15</issue>), <fpage>1494</fpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.60.1494</pub-id></mixed-citation>
+</ref>
+<ref id="c61">
+<label>61.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names> <surname>Alber</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Ritsch</surname>
+</string-name>, and 
+<string-name>
+<given-names>P.</given-names> <surname>Zoller</surname>
+</string-name>, <source>Phys. Rev. A</source> 
+<volume><bold>34</bold></volume>(<issue>2</issue>), <fpage>1058</fpage> (<year>1986</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevA.34.1058</pub-id></mixed-citation>
+</ref>
+<ref id="c62">
+<label>62.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Ten Wolde</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Noordam</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Lagendijk</surname>
+</string-name>, and 
+<string-name>
+<given-names>H. V. L.</given-names> <surname>van Den Heuvell</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>61</bold></volume>(<issue>18</issue>), <fpage>2099</fpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.61.2099</pub-id></mixed-citation>
+</ref>
+<ref id="c63">
+<label>63.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Feldmann</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Meier</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Von Plessen</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Koch</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>Göbel</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Thomas</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Bacher</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Hartmann</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Schweizer</surname>
+</string-name>, and 
+<string-name>
+<given-names>W.</given-names> <surname>Schäfer</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>70</bold></volume>(<issue>20</issue>), <fpage>3027</fpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.70.3027</pub-id></mixed-citation>
+</ref>
+<ref id="c64">
+<label>64.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names> <surname>Porter</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>160</bold></volume>(<issue>3834</issue>), <fpage>1299</fpage> (<year>1968</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.160.3834.1299</pub-id></mixed-citation>
+</ref>
+<ref id="c65">
+<label>65.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. L.</given-names> <surname>Fragnito</surname>
+</string-name>, 
+<string-name>
+<given-names>J. Y.</given-names> <surname>Bigot</surname>
+</string-name>, 
+<string-name>
+<given-names>P. C.</given-names> <surname>Becker</surname>
+</string-name>, and 
+<string-name>
+<given-names>C. V.</given-names> <surname>Shank</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>160</bold></volume>(<issue>2</issue>), <fpage>101</fpage>–<lpage>104</lpage> (<year>1989</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(89)87564-5</pub-id></mixed-citation>
+</ref>
+<ref id="c66">
+<label>66.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. W.</given-names> <surname>Petrich</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Poyart</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. L.</given-names> <surname>Martin</surname>
+</string-name>, <source>Biochemistry</source> 
+<volume><bold>27</bold></volume>(<issue>11</issue>), <fpage>4049</fpage>–<lpage>4060</lpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/bi00411a022</pub-id></mixed-citation>
+</ref>
+<ref id="c67">
+<label>67.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. R.</given-names> <surname>Khundkar</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Annu. Rev. Phys. Chem.</source> 
+<volume><bold>41</bold></volume>(<issue>1</issue>), <fpage>15</fpage>–<lpage>60</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1146/annurev.pc.41.100190.000311</pub-id></mixed-citation>
+</ref>
+<ref id="c68">
+<label>68.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Sci. Am.</source> 
+<volume><bold>263</bold></volume>(<issue>12</issue>), <fpage>76</fpage>–<lpage>82</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/scientificamerican1290-76</pub-id></mixed-citation>
+</ref>
+<ref id="c69">
+<label>69.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Dantus</surname>
+</string-name>, 
+<string-name>
+<given-names>M. J.</given-names> <surname>Rosker</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>87</bold></volume>(<issue>4</issue>), <fpage>2395</fpage>–<lpage>2397</lpage> (<year>1987</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.453122</pub-id></mixed-citation>
+</ref>
+<ref id="c70">
+<label>70.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Dantus</surname>
+</string-name>, 
+<string-name>
+<given-names>M. J.</given-names> <surname>Rosker</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>89</bold></volume>(<issue>10</issue>), <fpage>6128</fpage>–<lpage>6140</lpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.455428</pub-id></mixed-citation>
+</ref>
+<ref id="c71">
+<label>71.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V.</given-names> <surname>Engel</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Metiu</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Almeida</surname>
+</string-name>, 
+<string-name>
+<given-names>R. A.</given-names> <surname>Marcus</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>152</bold></volume>(<issue>1</issue>), <fpage>1</fpage>–<lpage>7</lpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(88)87319-6</pub-id></mixed-citation>
+</ref>
+<ref id="c72">
+<label>72.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. M.</given-names> <surname>Bowman</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Dantus</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>161</bold></volume>(<issue>4-5</issue>), <fpage>297</fpage>–<lpage>302</lpage> (<year>1989</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(89)85088-2</pub-id></mixed-citation>
+</ref>
+<ref id="c73">
+<label>73.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Gruebele</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Roberts</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Dantus</surname>
+</string-name>, 
+<string-name>
+<given-names>R. M.</given-names> <surname>Bowman</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>166</bold></volume>(<issue>5-6</issue>), <fpage>459</fpage>–<lpage>469</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(90)87134-D</pub-id></mixed-citation>
+</ref>
+<ref id="c74">
+<label>74.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. R.</given-names> <surname>Khundkar</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>92</bold></volume>(<issue>1</issue>), <fpage>231</fpage>–<lpage>242</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.458469</pub-id></mixed-citation>
+</ref>
+<ref id="c75">
+<label>75.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>N.</given-names> <surname>Scherer</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Sipes</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Bernstein</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>92</bold></volume>(<issue>9</issue>), <fpage>5239</fpage>–<lpage>5259</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.458531</pub-id></mixed-citation>
+</ref>
+<ref id="c76">
+<label>76.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Pedersen</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Herek</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>266</bold></volume>(<issue>5189</issue>), <fpage>1359</fpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.266.5189.1359</pub-id></mixed-citation>
+</ref>
+<ref id="c77">
+<label>77.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names> <surname>Horn</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Herek</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source> 
+<volume><bold>118</bold></volume>(<issue>36</issue>), <fpage>8755</fpage>–<lpage>8756</lpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja9620696</pub-id></mixed-citation>
+</ref>
+<ref id="c78">
+<label>78.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>E. W.-G.</given-names> <surname>Diau</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>De Feyter</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>304</bold></volume>(<issue>3</issue>), <fpage>134</fpage>–<lpage>144</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0009-2614(99)00315-2</pub-id></mixed-citation>
+</ref>
+<ref id="c79">
+<label>79.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. K.</given-names> <surname>Kim</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Pedersen</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>103</bold></volume>(<issue>1</issue>), <fpage>477</fpage>–<lpage>480</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.469614</pub-id></mixed-citation>
+</ref>
+<ref id="c80">
+<label>80.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Cheng</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Zhong</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>237</bold></volume>(<issue>5-6</issue>), <fpage>399</fpage>–<lpage>405</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(95)00364-A</pub-id></mixed-citation>
+</ref>
+<ref id="c81">
+<label>81.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Cheng</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Zhong</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem.</source> 
+<volume><bold>99</bold></volume>(<issue>43</issue>), <fpage>15733</fpage>–<lpage>15737</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/j100043a009</pub-id></mixed-citation>
+</ref>
+<ref id="c82">
+<label>82.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. K.</given-names> <surname>Kim</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Pedersen</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>233</bold></volume>(<issue>5-6</issue>), <fpage>500</fpage>–<lpage>508</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(95)00050-E</pub-id></mixed-citation>
+</ref>
+<ref id="c83">
+<label>83.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Cheng</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Zhong</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>242</bold></volume>(<issue>4</issue>), <fpage>369</fpage>–<lpage>379</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(95)00780-8</pub-id></mixed-citation>
+</ref>
+<ref id="c84">
+<label>84.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Breen</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Peng</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Willberg</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Heikal</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Cong</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>92</bold></volume>(<issue>1</issue>), <fpage>805</fpage>–<lpage>807</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.458384</pub-id></mixed-citation>
+</ref>
+<ref id="c85">
+<label>85.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Kim</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Breen</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Willberg</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Peng</surname>
+</string-name>, 
+<string-name>
+<given-names>l. A.</given-names> <surname>Heikal</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Syage</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem.</source> 
+<volume><bold>99</bold></volume>(<issue>19</issue>), <fpage>7421</fpage>–<lpage>7435</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/j100019a027</pub-id></mixed-citation>
+</ref>
+<ref id="c86">
+<label>86.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Heikal</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Chong</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Baskin</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>242</bold></volume>(<issue>4-5</issue>), <fpage>380</fpage>–<lpage>389</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(95)00781-X</pub-id></mixed-citation>
+</ref>
+<ref id="c87">
+<label>87.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Zhong</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Ahmad</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source> 
+<volume><bold>119</bold></volume>(<issue>25</issue>), <fpage>5978</fpage>–<lpage>5979</lpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja9710013</pub-id></mixed-citation>
+</ref>
+<ref id="c88">
+<label>88.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Baskin</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Chachisvilis</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Gupta</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem. A</source> 
+<volume><bold>102</bold></volume>(<issue>23</issue>), <fpage>4158</fpage>–<lpage>4171</lpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp9803384</pub-id></mixed-citation>
+</ref>
+<ref id="c89">
+<label>89.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Q.</given-names> <surname>Liu</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Wan</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem.</source> 
+<volume><bold>100</bold></volume>(<issue>48</issue>), <fpage>18666</fpage>–<lpage>18682</lpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp962432v</pub-id></mixed-citation>
+</ref>
+<ref id="c90">
+<label>90.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Zadoyan</surname>
+</string-name>, 
+<string-name>
+<given-names>Z.</given-names> <surname>Li</surname>
+</string-name>, 
+<string-name>
+<given-names>C. C.</given-names> <surname>Martens</surname>
+</string-name>, and 
+<string-name>
+<given-names>V. A.</given-names> <surname>Apkarian</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>101</bold></volume>(<issue>8</issue>), <fpage>6648</fpage>–<lpage>6657</lpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.468359</pub-id></mixed-citation>
+</ref>
+<ref id="c91">
+<label>91.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>U.</given-names> <surname>Banin</surname>
+</string-name> and 
+<string-name>
+<given-names>S.</given-names> <surname>Ruhman</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>99</bold></volume>(<issue>11</issue>), <fpage>9318</fpage>–<lpage>9321</lpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.465501</pub-id></mixed-citation>
+</ref>
+<ref id="c92">
+<label>92.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>U.</given-names> <surname>Banin</surname>
+</string-name> and 
+<string-name>
+<given-names>S.</given-names> <surname>Ruhman</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>98</bold></volume>(<issue>6</issue>), <fpage>4391</fpage>–<lpage>4403</lpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.465066</pub-id></mixed-citation>
+</ref>
+<ref id="c93">
+<label>93.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>N.</given-names> <surname>Pugliano</surname>
+</string-name>, 
+<string-name>
+<given-names>A. Z.</given-names> <surname>Szarka</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Gnanakaran</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Triechel</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. M.</given-names> <surname>Hochstrasser</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>103</bold></volume>(<issue>15</issue>), <fpage>6498</fpage>–<lpage>6511</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.470376</pub-id></mixed-citation>
+</ref>
+<ref id="c94">
+<label>94.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>N.</given-names> <surname>Pugliano</surname>
+</string-name>, 
+<string-name>
+<given-names>A. Z.</given-names> <surname>Szarka</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. M.</given-names> <surname>Hochstrasser</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>104</bold></volume>(<issue>13</issue>), <fpage>5062</fpage>–<lpage>5079</lpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.471136</pub-id></mixed-citation>
+</ref>
+<ref id="c95">
+<label>95.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. Z.</given-names> <surname>Szarka</surname>
+</string-name>, 
+<string-name>
+<given-names>N.</given-names> <surname>Pugliano</surname>
+</string-name>, 
+<string-name>
+<given-names>D. K.</given-names> <surname>Palit</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. M.</given-names> <surname>Hochstrasser</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>240</bold></volume>(<issue>1-3</issue>), <fpage>25</fpage>–<lpage>30</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(95)00491-L</pub-id></mixed-citation>
+</ref>
+<ref id="c96">
+<label>96.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. W.</given-names> <surname>Schoenlein</surname>
+</string-name>, 
+<string-name>
+<given-names>L. A.</given-names> <surname>Peteanu</surname>
+</string-name>, 
+<string-name>
+<given-names>R. A.</given-names> <surname>Mathies</surname>
+</string-name>, and 
+<string-name>
+<given-names>C. V.</given-names> <surname>Shank</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>254</bold></volume>(<issue>5030</issue>), <fpage>412</fpage>–<lpage>415</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1925597</pub-id></mixed-citation>
+</ref>
+<ref id="c97">
+<label>97.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. H.</given-names> <surname>Vos</surname>
+</string-name>, 
+<string-name>
+<given-names>J. C.</given-names> <surname>Lambry</surname>
+</string-name>, 
+<string-name>
+<given-names>S. J.</given-names> <surname>Robles</surname>
+</string-name>, 
+<string-name>
+<given-names>D. C.</given-names> <surname>Youvan</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Breton</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. L.</given-names> <surname>Martin</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>89</bold></volume>(<issue>2</issue>), <fpage>613</fpage>–<lpage>617</lpage> (<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.89.2.613</pub-id></mixed-citation>
+</ref>
+<ref id="c98">
+<label>98.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names> <surname>Fiebig</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Chachisvilis</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Manger</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Douhal</surname>
+</string-name>, 
+<string-name>
+<given-names>I.</given-names> <surname>Garcia-Ochoa</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>de La Hoz Ayuso</surname>
+</string-name>, <source>J. Phys. Chem. A</source> 
+<volume><bold>103</bold></volume>(<issue>37</issue>), <fpage>7419</fpage>–<lpage>7431</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp991822p</pub-id></mixed-citation>
+</ref>
+<ref id="c99">
+<label>99.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Douhal</surname>
+</string-name>, 
+<string-name>
+<given-names>S. K.</given-names> <surname>Kim</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>378</bold></volume>(<issue>6554</issue>), <fpage>260</fpage>–<lpage>263</lpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/378260a0</pub-id></mixed-citation>
+</ref>
+<ref id="c100">
+<label>100.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Peon</surname>
+</string-name>, 
+<string-name>
+<given-names>S. K.</given-names> <surname>Pal</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci.</source> 
+<volume><bold>99</bold></volume>(<issue>17</issue>), <fpage>10964</fpage>–<lpage>10969</lpage> (<year>2002</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.162366099</pub-id></mixed-citation>
+</ref>
+<ref id="c101">
+<label>101.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. K.</given-names> <surname>Pal</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Peon</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Bagchi</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem. B</source> 
+<volume><bold>106</bold></volume>(<issue>48</issue>), <fpage>12376</fpage>–<lpage>12395</lpage> (<year>2002</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp0213506</pub-id></mixed-citation>
+</ref>
+<ref id="c102">
+<label>102.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. A.</given-names> <surname>Kamal</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Zhao</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>101</bold></volume>(<issue>37</issue>), <fpage>13411</fpage>–<lpage>13416</lpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.0405724101</pub-id></mixed-citation>
+</ref>
+<ref id="c103">
+<label>103.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Laage</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Elsaesser</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. T.</given-names> <surname>Hynes</surname>
+</string-name>, <source>Struct. Dyn.</source> 
+<volume><bold>4</bold></volume>(<issue>4</issue>), <fpage>044018</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4981019</pub-id></mixed-citation>
+</ref>
+<ref id="c104">
+<label>104.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. L.</given-names> <surname>Johnson</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Beaud</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>Vorobeva</surname>
+</string-name>, 
+<string-name>
+<given-names>C. J.</given-names> <surname>Milne</surname>
+</string-name>, 
+<string-name>
+<given-names>E. D.</given-names> <surname>Murray</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Fahy</surname>
+</string-name>, and 
+<string-name>
+<given-names>G.</given-names> <surname>Ingold</surname>
+</string-name>, <source>Acta Crystallogr. A</source> 
+<volume><bold>66</bold></volume>, <fpage>157</fpage>–<lpage>167</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1107/S0108767309053859</pub-id></mixed-citation>
+</ref>
+<ref id="c105">
+<label>105.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names> <surname>Elsaesser</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names> <surname>Woerner</surname>
+</string-name>, <source>Acta Crystallogr. A</source> 
+<volume><bold>66</bold></volume>, <fpage>168</fpage>–<lpage>178</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1107/S0108767309048181</pub-id></mixed-citation>
+</ref>
+<ref id="c106">
+<label>106.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Chergui</surname>
+</string-name>, <source>Acta Crystallogr. A</source> 
+<volume><bold>66</bold></volume>, <fpage>229</fpage>–<lpage>239</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1107/S010876730904968X</pub-id></mixed-citation>
+</ref>
+<ref id="c107">
+<label>107.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Coppens</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Benedict</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Messerschmidt</surname>
+</string-name>, 
+<string-name>
+<given-names>I.</given-names> <surname>Novozhilova</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Graber</surname>
+</string-name>, 
+<string-name>
+<given-names>Y. S.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>I.</given-names> <surname>Vorontsov</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Scheins</surname>
+</string-name>, and 
+<string-name>
+<given-names>S. L.</given-names> <surname>Zheng</surname>
+</string-name>, <source>Acta Crystallogr. A</source> 
+<volume><bold>66</bold></volume>, <fpage>179</fpage>–<lpage>188</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1107/S0108767309055342</pub-id></mixed-citation>
+</ref>
+<ref id="c108">
+<label>108.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Henderson</surname>
+</string-name>, <source>Proc. R. Soc. B</source> 
+<volume><bold>241</bold></volume>(<issue>1300</issue>), <fpage>6</fpage>–<lpage>8</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspb.1990.0057</pub-id></mixed-citation>
+</ref>
+<ref id="c109">
+<label>109.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Henderson</surname>
+</string-name>, <source>Quart. Rev. Biophys.</source> 
+<volume><bold>28</bold></volume>, <fpage>171</fpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1017/S003358350000305X</pub-id></mixed-citation>
+</ref>
+<ref id="c110">
+<label>110.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Chergui</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>ChemPhysChem</source> 
+<volume><bold>10</bold></volume>(<issue>1</issue>), <fpage>28</fpage>–<lpage>43</lpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/cphc.200800667</pub-id></mixed-citation>
+</ref>
+<ref id="c111">
+<label>111.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. C.</given-names> <surname>Williamson</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>88</bold></volume>(<issue>11</issue>), <fpage>5021</fpage>–<lpage>5025</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.88.11.5021</pub-id></mixed-citation>
+</ref>
+<ref id="c112">
+<label>112.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. C.</given-names> <surname>Williamson</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Dantus</surname>
+</string-name>, 
+<string-name>
+<given-names>S. B.</given-names> <surname>Kim</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>196</bold></volume>(<issue>6</issue>), <fpage>529</fpage>–<lpage>534</lpage> (<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(92)85988-M</pub-id></mixed-citation>
+</ref>
+<ref id="c113">
+<label>113.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Dantus</surname>
+</string-name>, 
+<string-name>
+<given-names>S. B.</given-names> <surname>Kim</surname>
+</string-name>, 
+<string-name>
+<given-names>J. C.</given-names> <surname>Williamson</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem.</source> 
+<volume><bold>98</bold></volume>(<issue>11</issue>), <fpage>2782</fpage>–<lpage>2796</lpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/j100062a011</pub-id></mixed-citation>
+</ref>
+<ref id="c114">
+<label>114.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. C.</given-names> <surname>Williamson</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem.</source> 
+<volume><bold>98</bold></volume>(<issue>11</issue>), <fpage>2766</fpage>–<lpage>2781</lpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/j100062a010</pub-id></mixed-citation>
+</ref>
+<ref id="c115">
+<label>115.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. C.</given-names> <surname>Williamson</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names> <surname>Cao</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Ihee</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Frey</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>386</bold></volume>(<issue>6621</issue>), <fpage>159</fpage>–<lpage>162</lpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/386159a0</pub-id></mixed-citation>
+</ref>
+<ref id="c116">
+<label>116.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Ihee</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Cao</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>281</bold></volume>(<issue>1-3</issue>), <fpage>10</fpage>–<lpage>19</lpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0009-2614(97)01167-6</pub-id></mixed-citation>
+</ref>
+<ref id="c117">
+<label>117.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Ihee</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names> <surname>Cao</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source> 
+<volume><bold>40</bold></volume>(<issue>8</issue>), <fpage>1532</fpage> (<year>2001</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/1521-3773(20010417)40:8&lt;1532::AID-ANIE1532&gt;3.0.CO;2-E</pub-id></mixed-citation>
+</ref>
+<ref id="c118">
+<label>118.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Feenstra</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>124</bold></volume>(<issue>17</issue>), <fpage>174707</fpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.2194017</pub-id></mixed-citation>
+</ref>
+<ref id="c119">
+<label>119.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names> <surname>Cao</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Bolivar</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>McCall</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. E.</given-names> <surname>Crow</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>57</bold></volume>, <fpage>R11039</fpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.57.R11039</pub-id></mixed-citation>
+</ref>
+<ref id="c120">
+<label>120.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F. L. H.</given-names> <surname>Brown</surname>
+</string-name>, 
+<string-name>
+<given-names>K. R.</given-names> <surname>Wilson</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. S.</given-names> <surname>Cao</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>111</bold></volume>(<issue>14</issue>), <fpage>6238</fpage>–<lpage>6246</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.479928</pub-id></mixed-citation>
+</ref>
+<ref id="c121">
+<label>121.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Ihee</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Feenstra</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names> <surname>Cao</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>353</bold></volume>(<issue>5-6</issue>), <fpage>325</fpage>–<lpage>334</lpage> (<year>2002</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0009-2614(01)01476-2</pub-id></mixed-citation>
+</ref>
+<ref id="c122">
+<label>122.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Minitti</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Budarz</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Kirrander</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Robinson</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Ratner</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Lane</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Zhu</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Glownia</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Kozina</surname>
+</string-name>, and 
+<string-name>
+<given-names>H.</given-names> <surname>Lemke</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>114</bold></volume>(<issue>25</issue>), <fpage>255501</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.114.255501</pub-id></mixed-citation>
+</ref>
+<ref id="c123">
+<label>123.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. M.</given-names> <surname>Thomas</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>351</bold></volume>(<issue>6329</issue>), <fpage>694</fpage>–<lpage>695</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/351694a0</pub-id></mixed-citation>
+</ref>
+<ref id="c124">
+<label>124.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. M.</given-names> <surname>Thomas</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source> 
+<volume><bold>43</bold></volume>(<issue>20</issue>), <fpage>2606</fpage>–<lpage>2610</lpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/anie.200301746</pub-id></mixed-citation>
+</ref>
+<ref id="c125">
+<label>125.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. M.</given-names> <surname>Thomas</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source> 
+<volume><bold>44</bold></volume>(<issue>35</issue>), <fpage>5563</fpage>–<lpage>5566</lpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/anie.200501466</pub-id></mixed-citation>
+</ref>
+<ref id="c126">
+<label>126.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. M.</given-names> <surname>Thomas</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source> 
+<volume><bold>48</bold></volume>(<issue>47</issue>), <fpage>8824</fpage>–<lpage>8826</lpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/anie.200904052</pub-id></mixed-citation>
+</ref>
+<ref id="c127">
+<label>127.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name> and 
+<string-name>
+<given-names>J. M.</given-names> <surname>Thomas</surname>
+</string-name>, <source><italic>4D Electron Microscopy Imaging in Space and Time</italic></source> (
+<publisher-name>Imperial College Press</publisher-name>, 
+<publisher-loc>London</publisher-loc>, <year>2010</year>).</mixed-citation>
+</ref>
+<ref id="c128">
+<label>128.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. Y.</given-names> <surname>Ruan</surname>
+</string-name>, 
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Srinivasan</surname>
+</string-name>, 
+<string-name>
+<given-names>B. M.</given-names> <surname>Goodson</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Ihee</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>98</bold></volume>(<issue>13</issue>), <fpage>7117</fpage>–<lpage>7122</lpage> (<year>2001</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.131192898</pub-id></mixed-citation>
+</ref>
+<ref id="c129">
+<label>129.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B. M.</given-names> <surname>Goodson</surname>
+</string-name>, 
+<string-name>
+<given-names>C. Y.</given-names> <surname>Ruan</surname>
+</string-name>, 
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Srinivasan</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>374</bold></volume>(<issue>5-6</issue>), <fpage>417</fpage>–<lpage>424</lpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0009-2614(03)00803-0</pub-id></mixed-citation>
+</ref>
+<ref id="c130">
+<label>130.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Ihee</surname>
+</string-name>, 
+<string-name>
+<given-names>B. M.</given-names> <surname>Goodson</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Srinivasan</surname>
+</string-name>, 
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem. A</source> 
+<volume><bold>106</bold></volume>(<issue>16</issue>), <fpage>4087</fpage>–<lpage>4103</lpage> (<year>2002</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp014144r</pub-id></mixed-citation>
+</ref>
+<ref id="c131">
+<label>131.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. S.</given-names> <surname>Feenstra</surname>
+</string-name>, 
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>123</bold></volume>(<issue>22</issue>), <fpage>221104</fpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.2140700</pub-id></mixed-citation>
+</ref>
+<ref id="c132">
+<label>132.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Shorokhov</surname>
+</string-name>, 
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>ChemPhysChem</source> 
+<volume><bold>6</bold></volume>(<issue>11</issue>), <fpage>2228</fpage>–<lpage>2250</lpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/cphc.200500330</pub-id></mixed-citation>
+</ref>
+<ref id="c133">
+<label>133.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Srinivasan</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Feenstra</surname>
+</string-name>, 
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, 
+<string-name>
+<given-names>S. J.</given-names> <surname>Xu</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>307</bold></volume>(<issue>5709</issue>), <fpage>558</fpage>–<lpage>563</lpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1107291</pub-id></mixed-citation>
+</ref>
+<ref id="c134">
+<label>134.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Srinivasan</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Feenstra</surname>
+</string-name>, 
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, 
+<string-name>
+<given-names>S. J.</given-names> <surname>Xu</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Am. Chem. Soc.</source> 
+<volume><bold>126</bold></volume>(<issue>8</issue>), <fpage>2266</fpage>–<lpage>2267</lpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja031927c</pub-id></mixed-citation>
+</ref>
+<ref id="c135">
+<label>135.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Xu</surname>
+</string-name>, 
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Feenstra</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Srinivasan</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem. A</source> 
+<volume><bold>108</bold></volume>(<issue>32</issue>), <fpage>6650</fpage>–<lpage>6655</lpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp0403689</pub-id></mixed-citation>
+</ref>
+<ref id="c136">
+<label>136.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y. G.</given-names> <surname>He</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Gahlmann</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Feenstra</surname>
+</string-name>, 
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem.– Asian J.</source> 
+<volume><bold>1</bold></volume>(<issue>1-2</issue>), <fpage>56</fpage>–<lpage>63</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/asia.200600107</pub-id></mixed-citation>
+</ref>
+<ref id="c137">
+<label>137.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. Y.</given-names> <surname>Ruan</surname>
+</string-name>, 
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names> <surname>Vigliotti</surname>
+</string-name>, 
+<string-name>
+<given-names>S. Y.</given-names> <surname>Chen</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>304</bold></volume>(<issue>5667</issue>), <fpage>80</fpage>–<lpage>84</lpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1094818</pub-id></mixed-citation>
+</ref>
+<ref id="c138">
+<label>138.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. Y.</given-names> <surname>Ruan</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names> <surname>Vigliotti</surname>
+</string-name>, 
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, 
+<string-name>
+<given-names>S. Y.</given-names> <surname>Chen</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>101</bold></volume>(<issue>5</issue>), <fpage>1123</fpage>–<lpage>1128</lpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.0307302101</pub-id></mixed-citation>
+</ref>
+<ref id="c139">
+<label>139.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Vigliotti</surname>
+</string-name>, 
+<string-name>
+<given-names>S. Y.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>C. Y.</given-names> <surname>Ruan</surname>
+</string-name>, 
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source> 
+<volume><bold>43</bold></volume>(<issue>20</issue>), <fpage>2705</fpage>–<lpage>2709</lpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/anie.200453983</pub-id></mixed-citation>
+</ref>
+<ref id="c140">
+<label>140.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>M. T.</given-names> <surname>Seidel</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Angew. Chem. Int. Ed.</source> 
+<volume><bold>45</bold></volume>(<issue>31</issue>), <fpage>5154</fpage>–<lpage>5158</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/anie.200601778</pub-id></mixed-citation>
+</ref>
+<ref id="c141">
+<label>141.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>M. T.</given-names> <surname>Seidel</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>102</bold></volume>(<issue>25</issue>), <fpage>8854</fpage>–<lpage>8859</lpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.0504022102</pub-id></mixed-citation>
+</ref>
+<ref id="c142">
+<label>142.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. T.</given-names> <surname>Seidel</surname>
+</string-name>, 
+<string-name>
+<given-names>S. Y.</given-names> <surname>Chen</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem. C</source> 
+<volume><bold>111</bold></volume>(<issue>13</issue>), <fpage>4920</fpage>–<lpage>4938</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp0674672</pub-id></mixed-citation>
+</ref>
+<ref id="c143">
+<label>143.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. S.</given-names> <surname>Grinolds</surname>
+</string-name>, 
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Weissenrieder</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>103</bold></volume>(<issue>49</issue>), <fpage>18427</fpage>–<lpage>18431</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.0609233103</pub-id></mixed-citation>
+</ref>
+<ref id="c144">
+<label>144.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Baum</surname>
+</string-name>, 
+<string-name>
+<given-names>D. S.</given-names> <surname>Yang</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>318</bold></volume>(<issue>5851</issue>), <fpage>788</fpage>–<lpage>792</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1147724</pub-id></mixed-citation>
+</ref>
+<ref id="c145">
+<label>145.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Weissenrieder</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Tang</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nano Lett.</source> 
+<volume><bold>7</bold></volume>(<issue>9</issue>), <fpage>2552</fpage>–<lpage>2558</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/nl071341e</pub-id></mixed-citation>
+</ref>
+<ref id="c146">
+<label>146.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>N.</given-names> <surname>Gedik</surname>
+</string-name>, 
+<string-name>
+<given-names>D. S.</given-names> <surname>Yang</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Logvenov</surname>
+</string-name>, 
+<string-name>
+<given-names>I.</given-names> <surname>Bozovic</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>316</bold></volume>(<issue>5823</issue>), <fpage>425</fpage>–<lpage>429</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1138834</pub-id></mixed-citation>
+</ref>
+<ref id="c147">
+<label>147.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D. S.</given-names> <surname>Yang</surname>
+</string-name>, 
+<string-name>
+<given-names>N.</given-names> <surname>Gedik</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Phys. Chem. C</source> 
+<volume><bold>111</bold></volume>(<issue>13</issue>), <fpage>4889</fpage>–<lpage>4919</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp067466+</pub-id></mixed-citation>
+</ref>
+<ref id="c148">
+<label>148.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. S.</given-names> <surname>Park</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Baskin</surname>
+</string-name>, 
+<string-name>
+<given-names>O. H.</given-names> <surname>Kwon</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nano Lett.</source> 
+<volume><bold>7</bold></volume>(<issue>9</issue>), <fpage>2545</fpage>–<lpage>2551</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/nl071369q</pub-id></mixed-citation>
+</ref>
+<ref id="c149">
+<label>149.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names> <surname>Yang</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names> <surname>Okuda</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Kobayashi</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Nozaki</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Tanabe</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Ishii</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. A.</given-names> <surname>Haga</surname>
+</string-name>, <source>Inorg. Chem.</source> 
+<volume><bold>47</bold></volume>(<issue>16</issue>), <fpage>7154</fpage>–<lpage>7165</lpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ic800196s</pub-id></mixed-citation>
+</ref>
+<ref id="c150">
+<label>150.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Carbone</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Baum</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Rudolf</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>1</bold></volume>(<issue>3</issue>), <fpage>035501</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.100.035501</pub-id></mixed-citation>
+</ref>
+<ref id="c151">
+<label>151.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. A.</given-names> <surname>Lobastov</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Srinivasan</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>102</bold></volume>(<issue>20</issue>), <fpage>7069</fpage>–<lpage>7073</lpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.0502607102</pub-id></mixed-citation>
+</ref>
+<ref id="c152">
+<label>152.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Annu. Rev. Phys. Chem.</source> 
+<volume><bold>57</bold></volume>, <fpage>65</fpage>–<lpage>103</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1146/annurev.physchem.57.032905.104748</pub-id></mixed-citation>
+</ref>
+<ref id="c153">
+<label>153.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Shorokhov</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Phys. Chem. Chem. Phys.</source> 
+<volume><bold>10</bold></volume>(<issue>20</issue>), <fpage>2879</fpage>–<lpage>2893</lpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/b801626g</pub-id></mixed-citation>
+</ref>
+<ref id="c154">
+<label>154.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Shorokhov</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>144</bold></volume>(<issue>8</issue>), <fpage>080901</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4941375</pub-id></mixed-citation>
+</ref>
+<ref id="c155">
+<label>155.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names> <surname>Barwick</surname>
+</string-name>, 
+<string-name>
+<given-names>D. J.</given-names> <surname>Flannigan</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>462</bold></volume>(<issue>7275</issue>), <fpage>902</fpage>–<lpage>906</lpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nature08662</pub-id></mixed-citation>
+</ref>
+<ref id="c156">
+<label>156.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.-K.</given-names> <surname>Yoo</surname>
+</string-name>, 
+<string-name>
+<given-names>Z.</given-names> <surname>Su</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names> <surname>Thomas</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci.</source> 
+<volume><bold>113</bold></volume>(<issue>3</issue>), <fpage>503</fpage>–<lpage>508</lpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.1522869113</pub-id></mixed-citation>
+</ref>
+<ref id="c157">
+<label>157.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F. G.</given-names> <surname>Santomauro</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Lubcke</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Rittmann</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>Baldini</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Ferrer</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Silatani</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Zimmermann</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Grubel</surname>
+</string-name>, 
+<string-name>
+<given-names>J. A.</given-names> <surname>Johnson</surname>
+</string-name>, 
+<string-name>
+<given-names>S. O.</given-names> <surname>Mariager</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Beaud</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Grolimund</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Borca</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Ingold</surname>
+</string-name>, 
+<string-name>
+<given-names>S. L.</given-names> <surname>Johnson</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names> <surname>Chergui</surname>
+</string-name>, <source>Sci. Rep.</source> 
+<volume><bold>5</bold></volume>, <fpage>14834</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/srep14834</pub-id></mixed-citation>
+</ref>
+<ref id="c158">
+<label>158.</label>
+<mixed-citation publication-type="book">H. Gray, in <source><italic>Personal and Scientific Reminiscences: Tributes to Ahmed Zewail</italic></source>, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>M.</given-names> <surname>Chergui</surname>
+</string-name>, 
+<string-name>
+<given-names>R. A.</given-names> <surname>Marcus</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names> <surname>Thomas</surname>
+</string-name>, and 
+<string-name>
+<given-names>D.-P.</given-names> <surname>Zhong</surname>
+</string-name></person-group> (
+<publisher-name>World Scientific</publisher-name>, <year>2017</year>), p. 25.</mixed-citation>
+</ref>
+<ref id="c159">
+<label>159.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source><italic>4D Visualization of Matter: Recent Collected Works</italic></source> (
+<publisher-name>World Scientific</publisher-name>, <year>2014</year>).</mixed-citation>
+</ref>
+<ref id="c160">
+<label>160.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Carbone</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Barwick</surname>
+</string-name>, 
+<string-name>
+<given-names>O. H.</given-names> <surname>Kwon</surname>
+</string-name>, 
+<string-name>
+<given-names>H. S.</given-names> <surname>Park</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Baskin</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>468</bold></volume>(<issue>4-6</issue>), <fpage>107</fpage>–<lpage>111</lpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.cplett.2008.12.027</pub-id></mixed-citation>
+</ref>
+<ref id="c161">
+<label>161.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Carbone</surname>
+</string-name>, 
+<string-name>
+<given-names>O. H.</given-names> <surname>Kwon</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>325</bold></volume>(<issue>5937</issue>), <fpage>181</fpage>–<lpage>184</lpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1175005</pub-id></mixed-citation>
+</ref>
+<ref id="c162">
+<label>162.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. M.</given-names> <surname>van der Veen</surname>
+</string-name>, 
+<string-name>
+<given-names>T. J.</given-names> <surname>Penfold</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Struct. Dyn.</source> 
+<volume><bold>2</bold></volume>(<issue>2</issue>), <fpage>024302</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4916897</pub-id></mixed-citation>
+</ref>
+<ref id="c163">
+<label>163.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D. J.</given-names> <surname>Flannigan</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Barwick</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci.</source> 
+<volume><bold>107</bold></volume>(<issue>22</issue>), <fpage>9933</fpage>–<lpage>9937</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.1005653107</pub-id></mixed-citation>
+</ref>
+<ref id="c164">
+<label>164.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Yurtsever</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nano Lett.</source> 
+<volume><bold>12</bold></volume>(<issue>6</issue>), <fpage>3334</fpage>–<lpage>3338</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/nl301643k</pub-id></mixed-citation>
+</ref>
+<ref id="c165">
+<label>165.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Yurtsever</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Baskin</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nano Lett.</source> 
+<volume><bold>12</bold></volume>(<issue>9</issue>), <fpage>5027</fpage>–<lpage>5032</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/nl302824f</pub-id></mixed-citation>
+</ref>
+<ref id="c166">
+<label>166.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Chem. Phys. Lett.</source> 
+<volume><bold>521</bold></volume>, <fpage>1</fpage>–<lpage>6</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.cplett.2011.11.031</pub-id></mixed-citation>
+</ref>
+<ref id="c167">
+<label>167.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. T.</given-names> <surname>Park</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Yurtsever</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Baskin</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci.</source> 
+<volume><bold>110</bold></volume>(<issue>23</issue>), <fpage>9277</fpage>–<lpage>9282</lpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.1306661110</pub-id></mixed-citation>
+</ref>
+<ref id="c168">
+<label>168.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names> <surname>Piazza</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Lummen</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>Quinonez</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Murooka</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Reed</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Barwick</surname>
+</string-name>, and 
+<string-name>
+<given-names>F.</given-names> <surname>Carbone</surname>
+</string-name>, <source>Nat. Commun.</source> 
+<volume><bold>6</bold></volume>, <fpage>6407</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/ncomms7407</pub-id></mixed-citation>
+</ref>
+<ref id="c169">
+<label>169.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Baum</surname>
+</string-name> and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci. U.S.A.</source> 
+<volume><bold>103</bold></volume>(<issue>44</issue>), <fpage>16105</fpage>–<lpage>16110</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.0607451103</pub-id></mixed-citation>
+</ref>
+<ref id="c170">
+<label>170.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. T.</given-names> <surname>Hassan</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Liu</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Baskin</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. H.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Proc. Natl. Acad. Sci.</source> 
+<volume><bold>112</bold></volume>(<issue>42</issue>), <fpage>12944</fpage>–<lpage>12949</lpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1073/pnas.1517942112</pub-id></mixed-citation>
+</ref>
+<ref id="c171">
+<label>171.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. T.</given-names> <surname>Hassan</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Baskin</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Liao</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Zewail</surname>
+</string-name>, <source>Nat. Photonics</source> 
+<volume><bold>11</bold></volume>, <fpage>425</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nphoton.2017.79</pub-id></mixed-citation>
+</ref>
+<ref id="c172">
+<label>172.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P. B.</given-names> <surname>Corkum</surname>
+</string-name> and 
+<string-name>
+<given-names>F.</given-names> <surname>Krausz</surname>
+</string-name>, <source>Nat. Phys.</source> 
+<volume><bold>3</bold></volume>(<issue>6</issue>), <fpage>381</fpage>–<lpage>387</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nphys620</pub-id></mixed-citation>
+</ref>
+<ref id="c173">
+<label>173.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Krausz</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names> <surname>Ivanov</surname>
+</string-name>, <source>Rev. Mod. Phys.</source> 
+<volume><bold>81</bold></volume>(<issue>1</issue>), <fpage>163</fpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/RevModPhys.81.163</pub-id></mixed-citation>
+</ref>
+<ref id="c174">
+<label>174.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L.</given-names> <surname>Gallmann</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Cirelli</surname>
+</string-name>, and 
+<string-name>
+<given-names>U.</given-names> <surname>Keller</surname>
+</string-name>, <source>Annu. Rev. Phys. Chem.</source> 
+<volume><bold>63</bold></volume>, <fpage>447</fpage>–<lpage>469</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1146/annurev-physchem-032511-143702</pub-id></mixed-citation>
+</ref>
+<ref id="c175">
+<label>175.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Gao</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Lu</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Jean-Ruel</surname>
+</string-name>, 
+<string-name>
+<given-names>L. C.</given-names> <surname>Liu</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Marx</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Onda</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Koshihara</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Nakano</surname>
+</string-name>, 
+<string-name>
+<given-names>X. F.</given-names> <surname>Shao</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Hiramatsu</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Saito</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Yamochi</surname>
+</string-name>, 
+<string-name>
+<given-names>R. R.</given-names> <surname>Cooney</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Moriena</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Sciaini</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. J. D.</given-names> <surname>Miller</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>496</bold></volume>(<issue>7445</issue>), <fpage>343</fpage>–<lpage>346</lpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nature12044</pub-id></mixed-citation>
+</ref>
+<ref id="c176">
+<label>176.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D. S.</given-names> <surname>Badali</surname>
+</string-name>, 
+<string-name>
+<given-names>R. Y.</given-names> <surname>Gengler</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names> <surname>Miller</surname>
+</string-name>, <source>Struct. Dyn.</source> 
+<volume><bold>3</bold></volume>(<issue>3</issue>), <fpage>034302</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4949538</pub-id></mixed-citation>
+</ref>
+<ref id="c177">
+<label>177.</label>
+<mixed-citation publication-type="other">
+<string-name>
+<given-names>A. A.</given-names> <surname>Ischenko</surname>
+</string-name>, 
+<string-name>
+<given-names>P. M.</given-names> <surname>Weber</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. D.</given-names> <surname>Miller</surname>
+</string-name>, <source>Chem. Rev.</source> (published online).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.chemrev.6b00770</pub-id></mixed-citation>
+</ref>
+<ref id="c178">
+<label>178.</label>
+<mixed-citation publication-type="other">
+<string-name>
+<given-names>M.</given-names> <surname>Chergui</surname>
+</string-name> and 
+<string-name>
+<given-names>E.</given-names> <surname>Collet</surname>
+</string-name>, <source>Chem. Rev.</source> (published online).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.chemrev.6b00831</pub-id></mixed-citation>
+</ref>
+<ref id="c179">
+<label>179.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. C. H.</given-names> <surname>Spence</surname>
+</string-name> and 
+<string-name>
+<given-names>H. N.</given-names> <surname>Chapman</surname>
+</string-name>, <source>Philos. Trans. R. Soc. B</source> 
+<volume><bold>369</bold></volume>(<issue>1647</issue>), <fpage>20130309</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rstb.2013.0309</pub-id></mixed-citation>
+</ref>
+<ref id="c180">
+<label>180.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Chergui</surname>
+</string-name>, <source>Struct. Dyn.</source> 
+<volume><bold>3</bold></volume>(<issue>3</issue>), <fpage>031001</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4953104</pub-id></mixed-citation>
+</ref>
+<ref id="c181">
+<label>181.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. C. H.</given-names> <surname>Spence</surname>
+</string-name>, <source>Struct. Dyn.</source> 
+<volume><bold>4</bold></volume>(<issue>4</issue>), <fpage>044027</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4984606</pub-id></mixed-citation>
+</ref>
+<ref id="c182">
+<label>182.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Yang</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Beck</surname>
+</string-name>, 
+<string-name>
+<given-names>C. J.</given-names> <surname>Uiterwaal</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names> <surname>Centurion</surname>
+</string-name>, <source>Nat. Commun.</source> 
+<volume><bold>6</bold></volume>, <fpage>8172</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/ncomms9172</pub-id></mixed-citation>
+</ref>
+<ref id="c183">
+<label>183.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Zhu</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Zhu</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Hidaka</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Wu</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Cao</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Berger</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Geck</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Kraus</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Pjerov</surname>
+</string-name>, and 
+<string-name>
+<given-names>Y.</given-names> <surname>Shen</surname>
+</string-name>, <source>New J. Phys.</source> 
+<volume><bold>17</bold></volume>(<issue>6</issue>), <fpage>063004</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1088/1367-2630/17/6/063004</pub-id></mixed-citation>
+</ref>
+<ref id="c184">
+<label>184.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Carbone</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Musumeci</surname>
+</string-name>, 
+<string-name>
+<given-names>O. J.</given-names> <surname>Luiten</surname>
+</string-name>, and 
+<string-name>
+<given-names>C.</given-names> <surname>Hebert</surname>
+</string-name>, <source>Chem. Phys.</source> 
+<volume><bold>392</bold></volume>(<issue>1</issue>), <fpage>1</fpage>–<lpage>9</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.chemphys.2011.10.010</pub-id></mixed-citation>
+</ref></ref-list></back></article>

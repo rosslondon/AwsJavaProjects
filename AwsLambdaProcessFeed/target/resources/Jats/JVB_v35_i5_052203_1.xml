@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">JVTBD9</journal-id>
+<journal-title-group>
+<journal-title>Journal of Vacuum Science &amp; Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena</journal-title>
+<abbrev-journal-title>J. Vac. Sci. Technol. B</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">2166-2746</issn>
+<issn pub-type="epub">2166-2754</issn>
+<publisher>
+<publisher-name>American Vacuum Society</publisher-name>
+<publisher-name specific-use="short-name">AVS</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1116/1.4997900</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4997900</article-id>
+<article-id pub-id-type="publisher-id:aipid">309705JVB</article-id>
+<article-id pub-id-type="manuscript">JVSTB-A-17-028RR</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>Microelectronic &amp; Nanoelectronic Devices</subject></subj-group></article-categories>
+<title-group>
+<article-title>Electrical analyses of GaN PIN diodes grown on patterned sapphire substrates</article-title>
+<alt-title alt-title-type="short-title">Electrical analyses of GaN PIN diodes</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Shan</surname>
+<given-names>Li-Wei</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Liu</surname>
+<given-names>Zhe-Yu</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Lin</surname>
+<given-names>Min-Pang</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Yu</surname>
+<given-names>Chia-Jui</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Hsieh</surname>
+<given-names>Kuang-Chien</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Wu</surname>
+<given-names>Meng-Chyi</given-names></name><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<aff><institution>Department of Electrical Engineering, National Tsing Hua University</institution>, Hsinchu 30013, <country>Taiwan</country></aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:mcwu@ee.nthu.edu.tw">mcwu@ee.nthu.edu.tw</ext-link></p></fn></author-notes>
+<pub-date pub-type="ppub"><month>09</month><year>2017</year></pub-date>
+<volume>35</volume><issue>5</issue><elocation-id seq="1">052203</elocation-id>
+<history>
+<date date-type="received"><day>22</day><month>01</month><year>2017</year></date>
+<date date-type="revised"><day>05</day><month>05</month><year>2017</year></date>
+<date date-type="accepted"><day>25</day><month>07</month><year>2017</year></date>
+<date date-type="published"><day>18</day><month>08</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 American Vacuum Society.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>American Vacuum Society</copyright-holder>
+<license license-type="ccc">
+<license-p>2166-2746/2017/35(5)/052203/4/<price>$30.00</price></license-p>
+</license>
+</permissions><abstract>
+<p>In this article, the authors report the fabrication and characterization of quasivertical GaN p-i-n diodes with a 3 <italic>μ</italic>m I-layer grown on different sizes of patterned sapphire substrates (PSSs). The diodes were characterized by current–voltage, capacitance–voltage, and deep-level transient spectroscopy. The PIN diodes grown on the smaller-size PSS showed a reverse breakdown voltage of ∼610 V and a defect concentration of 1.0 × 10<sup>16 </sup>cm<sup>−3</sup>, both of which are superior to the corresponding measurements of ∼410 V and 1.4 × 10<sup>17 </sup>cm<sup>−3</sup> for the diodes grown on the larger-size PSS. These results indicate that the GaN PIN diodes grown on smaller-size PSS have a better quality of epitaxial layers than those grown on larger-size PSS.</p>
+</abstract>
+
+
+
+
+<funding-group specific-use="FundRef">
+<award-group>
+<funding-source>
+<named-content content-type="funder_name">Ministry of Science and Technology, Taiwan (MOST)</named-content>
+<named-content content-type="funder_identifier">http://dx.doi.org/10.13039/501100004663</named-content>
+</funding-source>
+<award-id award-type="contract">105-2218-E-007-017</award-id>
+<award-id award-type="contract">105-2622-E-007-004 -CC2</award-id>
+</award-group>
+</funding-group>
+<counts>
+<page-count count="4"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. J.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>Y. K.</given-names> <surname>Su</surname>
+</string-name>, 
+<string-name>
+<given-names>C. L.</given-names> <surname>Lin</surname>
+</string-name>, 
+<string-name>
+<given-names>S. M.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>W. L.</given-names> <surname>Li</surname>
+</string-name>, and 
+<string-name>
+<given-names>C. C.</given-names> <surname>Kao</surname>
+</string-name>, <source>IEEE Photonics Technol. Lett.</source> 
+<volume><bold>20</bold></volume>, <fpage>1193</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/LPT.2008.924900</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. G.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>T. S.</given-names> <surname>Ko</surname>
+</string-name>, 
+<string-name>
+<given-names>S. C.</given-names> <surname>Ling</surname>
+</string-name>, 
+<string-name>
+<given-names>T. C.</given-names> <surname>Lu</surname>
+</string-name>, 
+<string-name>
+<given-names>H. C.</given-names> <surname>Kuo</surname>
+</string-name>, 
+<string-name>
+<given-names>S. C.</given-names> <surname>Wang</surname>
+</string-name>, 
+<string-name>
+<given-names>Y. H.</given-names> <surname>Wu</surname>
+</string-name>, and 
+<string-name>
+<given-names>L.</given-names> <surname>Chang</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>91</bold></volume>, <fpage>021914</fpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.2754643</pub-id></mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. J.</given-names> <surname>Wang</surname>
+</string-name>, 
+<string-name>
+<given-names>C. L.</given-names> <surname>Liao</surname>
+</string-name>, 
+<string-name>
+<given-names>Y. F.</given-names> <surname>Chang</surname>
+</string-name>, 
+<string-name>
+<given-names>Y. L.</given-names> <surname>Lee</surname>
+</string-name>, 
+<string-name>
+<given-names>C. L.</given-names> <surname>Ho</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. C.</given-names> <surname>Wu</surname>
+</string-name>, <source>IEEE Electron Device Lett.</source> 
+<volume><bold>34</bold></volume>, <fpage>1376</fpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/LED.2013.2281456</pub-id></mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. B.</given-names> <surname>Lee</surname>
+</string-name>, 
+<string-name>
+<given-names>T. W.</given-names> <surname>Kwon</surname>
+</string-name>, 
+<string-name>
+<given-names>S. H.</given-names> <surname>Lee</surname>
+</string-name>, 
+<string-name>
+<given-names>J. W.</given-names> <surname>Park</surname>
+</string-name>, and 
+<string-name>
+<given-names>W. J.</given-names> <surname>Choi</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>99</bold></volume>, <fpage>211901</fpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.3658451</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Nagai</surname>
+</string-name>, 
+<string-name>
+<given-names>Q. S.</given-names> <surname>Zhu</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Kawaguchi</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Hiramatsu</surname>
+</string-name>, and 
+<string-name>
+<given-names>N.</given-names> <surname>Sawaki</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>73</bold></volume>, <fpage>2024</fpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.122356</pub-id></mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Hacke</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Nakayama</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Detchprohm</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Hiramatsu</surname>
+</string-name>, and 
+<string-name>
+<given-names>N.</given-names> <surname>Sawaki</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>68</bold></volume>, <fpage>1362</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.116080</pub-id></mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Kozodoy</surname>
+</string-name>, 
+<string-name>
+<given-names>J. P.</given-names> <surname>Ibbetson</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Marchand</surname>
+</string-name>, 
+<string-name>
+<given-names>P. T.</given-names> <surname>Fini</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Keller</surname>
+</string-name>, 
+<string-name>
+<given-names>J. S.</given-names> <surname>Speck</surname>
+</string-name>, 
+<string-name>
+<given-names>S. P.</given-names> <surname>DenBaars</surname>
+</string-name>, and 
+<string-name>
+<given-names>U. K.</given-names> <surname>Mishra</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>73</bold></volume>, <fpage>975</fpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.122057</pub-id></mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>E. J.</given-names> <surname>Miller</surname>
+</string-name>, 
+<string-name>
+<given-names>E. T.</given-names> <surname>Yu</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Waltereit</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. S.</given-names> <surname>Speck</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>84</bold></volume>, <fpage>535</fpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1644029</pub-id></mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names> <surname>Pernot</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Hiraon</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Amano</surname>
+</string-name>, and 
+<string-name>
+<given-names>I.</given-names> <surname>Akasaki</surname>
+</string-name>, <source>J. Appl. Phys., Part 2</source> 
+<volume><bold>37</bold></volume>, <fpage>L1202</fpage> (<year>1998</year>)<pub-id pub-id-type="doi" specific-use="metadata">10.1143/JJAP.37.L1202</pub-id>.</mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P.</given-names> <surname>Boguslawski</surname>
+</string-name>, 
+<string-name>
+<given-names>E. L.</given-names> <surname>Briggs</surname>
+</string-name>, and 
+<string-name>
+<given-names>J.</given-names> <surname>Bernholc</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>51</bold></volume>, <fpage>17255</fpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.51.17255</pub-id></mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Z. Q.</given-names> <surname>Fang</surname>
+</string-name>, 
+<string-name>
+<given-names>D. C.</given-names> <surname>Look</surname>
+</string-name>, 
+<string-name>
+<given-names>X. L.</given-names> <surname>Wang</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Han</surname>
+</string-name>, 
+<string-name>
+<given-names>F. A.</given-names> <surname>Khan</surname>
+</string-name>, and 
+<string-name>
+<given-names>I.</given-names> <surname>Adesida</surname>
+</string-name>, <source>Appl. Phys. Lett.</source> 
+<volume><bold>82</bold></volume>, <fpage>1562</fpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1560562</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Z. Q.</given-names> <surname>Fang</surname>
+</string-name>, 
+<string-name>
+<given-names>D. C.</given-names> <surname>Look</surname>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Lu</surname>
+</string-name>, and 
+<string-name>
+<given-names>H.</given-names> <surname>Morkoc</surname>
+</string-name>, <source>J. Electron. Mater.</source> 
+<volume><bold>29</bold></volume>, <fpage>L19</fpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s11664-004-0274-8</pub-id></mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y.</given-names> <surname>Tokudaa</surname>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Matsuokaa</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Uedab</surname>
+</string-name>, 
+<string-name>
+<given-names>O.</given-names> <surname>Ishigurob</surname>
+</string-name>, 
+<string-name>
+<given-names>N.</given-names> <surname>Soejima</surname>
+</string-name>, and 
+<string-name>
+<given-names>T.</given-names> <surname>Kachi</surname>
+</string-name>, <source>Superlattices Microstruct.</source> 
+<volume><bold>40</bold></volume>, <fpage>268</fpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.spmi.2006.07.025</pub-id></mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H. M.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>Y. F.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>M. C.</given-names> <surname>Lee</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. S.</given-names> <surname>Feng</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>56</bold></volume>, <fpage>6942</fpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.56.6942</pub-id></mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.</given-names> <surname>Calleja</surname>
+</string-name>, 
+<string-name>
+<given-names>F. J.</given-names> <surname>Sánchez</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Basak</surname>
+</string-name>, 
+<string-name>
+<given-names>M. A.</given-names> <surname>Sánchez-García</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>Muñoz</surname>
+</string-name>, 
+<string-name>
+<given-names>I.</given-names> <surname>Izpura</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names> <surname>Calle</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M. G.</given-names> <surname>Tijero</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. L.</given-names> <surname>Sánchez-Rojas</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>55</bold></volume>, <fpage>4689</fpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.55.4689</pub-id></mixed-citation>
+</ref></ref-list></back></article>

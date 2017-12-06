@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="editorial" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">AJPIAS</journal-id>
+<journal-title-group>
+<journal-title>American Journal of Physics</journal-title>
+<abbrev-journal-title>Am. J. Phys.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">0002-9505</issn>
+<issn pub-type="epub">1943-2909</issn>
+<publisher>
+<publisher-name>American Association of Physics Teachers</publisher-name>
+<publisher-name specific-use="short-name">AAPT</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1119/1.4999911</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4999911</article-id>
+<article-id pub-id-type="publisher-id:aipid">016709AJP</article-id>
+<article-id pub-id-type="manuscript">29871</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>EDITORIAL</subject></subj-group></article-categories>
+<title-group>
+<article-title>Publication statistics, an invitation, and farewell</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="editor"><name><surname>Jackson</surname>
+<given-names>David P.</given-names></name><role>Editor</role></contrib></contrib-group>
+<pub-date pub-type="ppub"><month>09</month><year>2017</year></pub-date>
+<volume>85</volume><issue>9</issue><fpage seq="1">645</fpage><lpage>647</lpage>
+<history>
+<date date-type="received"><day>11</day><month>08</month><year>2017</year></date>
+<date date-type="accepted"><day>11</day><month>08</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 American Association of Physics Teachers.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>American Association of Physics Teachers</copyright-holder>
+<license license-type="ccc">
+<license-p>0002-9505/2017/85(9)/645/3/<price>$30.00</price></license-p>
+</license>
+
+<license license-type="free"><license-p/></license></permissions>
+
+<counts>
+<page-count count="3"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="other">Note that by publishing fewer articles, AJP is currently publishing slightly fewer pages than in the past.</mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="website">“
+<article-title><italic>Physical Review Letters</italic> Editorial Policies and Practices</article-title>,” &lt;<ext-link ext-link-type="uri" xlink:href="https://journals.aps.org/prl/authors/editorial-policies-practices">https://journals.aps.org/prl/authors/editorial-policies-practices</ext-link>&gt;.</mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="website">“
+<article-title>The <italic>Science</italic> Contributors FAQ</article-title>,” &lt;<ext-link ext-link-type="uri" xlink:href="http://www.sciencemag.org/site/feature/contribinfo/faq/#pct_faq">http://www.sciencemag.org/site/feature/contribinfo/faq/#pct_faq</ext-link>&gt;.</mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="website">“
+<article-title>Getting Published in <italic>Nature</italic>: The Editorial Process</article-title>,” &lt;<ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nature/authors/get_published/index.html">http://www.nature.com/nature/authors/get_published/index.html</ext-link>&gt;.</mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="website">“
+<article-title>American Journal of Physics Statement of Editorial Policy</article-title>,” &lt;<ext-link ext-link-type="uri" xlink:href="http://ajp.dickinson.edu/edPolicy.html">http://ajp.dickinson.edu/edPolicy.html</ext-link>&gt;.</mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="other">It is worth noting that <italic>Physical Review Letters</italic>, <italic>Science</italic>, and <italic>Nature</italic> all receive many more (by roughly an order of magnitude) submissions than AJP.</mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="website">“
+<article-title><italic>Physical Review Letters</italic> Editorial: Early Decisions by Editors</article-title>,” &lt;<ext-link ext-link-type="uri" xlink:href="https://journals.aps.org/prl/edannounce/PRLv95i7.html">https://journals.aps.org/prl/edannounce/PRLv95i7.html</ext-link>&gt;.</mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="website">“
+<article-title>Overview: Nature's peer review trial</article-title>,” &lt;<ext-link ext-link-type="uri" xlink:href="http://www.nature.com/nature/peerreview/debate/nature05535.html">http://www.nature.com/nature/peerreview/debate/nature05535.html</ext-link>&gt;.</mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D. V.</given-names> <surname>Schroeder</surname>
+</string-name>, “
+<article-title>An apology from the former associate editor</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>85</bold></volume>, <fpage>405</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.4981790</pub-id></mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. S.</given-names> <surname>Taylor</surname>
+</string-name>, 
+<string-name>
+<given-names>Alexander R.</given-names> <surname>Hyde</surname>
+</string-name>, and 
+<string-name>
+<given-names>Oleg V.</given-names> <surname>Batishchev</surname>
+</string-name>, “
+<article-title>Zeeman effect experiment with high-resolution spectroscopy for advanced physics laboratory</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>85</bold></volume>, <fpage>565</fpage>–<lpage>574</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.4984809</pub-id></mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Pantaleone</surname>
+</string-name>, “
+<article-title>A quantitative analysis of the chain fountain</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>85</bold></volume>, <fpage>414</fpage>–<lpage>421</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.4980071</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Sack</surname>
+</string-name> and 
+<string-name>
+<given-names>T.</given-names> <surname>Pöschel</surname>
+</string-name>, “
+<article-title>Dripping faucet in extreme spatial and temporal resolution</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>85</bold></volume>, <fpage>649</fpage>–<lpage>654</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.4979657</pub-id></mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. A.</given-names> <surname>Nurge</surname>
+</string-name>, 
+<string-name>
+<given-names>R. C.</given-names> <surname>Youngquist</surname>
+</string-name>, 
+<string-name>
+<given-names>R. A.</given-names> <surname>Caracciolo</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Peck</surname>
+</string-name>, and 
+<string-name>
+<given-names>F. A.</given-names> <surname>Leve</surname>
+</string-name>, “
+<article-title>A thick-walled sphere rotating in a uniform magnetic field: The next step to de-spin a space object</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>85</bold></volume>, <fpage>596</fpage>–<lpage>610</lpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.4984810</pub-id></mixed-citation>
+</ref></ref-list></back></article>

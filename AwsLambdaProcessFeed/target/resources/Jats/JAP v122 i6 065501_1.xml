@@ -1,0 +1,1950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+    <journal-meta>
+      <journal-id journal-id-type="coden">JAPIAU</journal-id>
+      <journal-title-group>
+        <journal-title>Journal of Applied Physics</journal-title>
+        <abbrev-journal-title>J. Appl. Phys.</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="ppub">0021-8979</issn>
+      <issn pub-type="epub">1089-7550</issn>
+      <publisher>
+        <publisher-name>AIP Publishing LLC</publisher-name>
+        <publisher-name specific-use="short-name">AIP Publishing</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1063/1.4990802</article-id>
+      <article-id pub-id-type="publisher-id:aipkey">1.4990802</article-id>
+      <article-id pub-id-type="publisher-id:aipid">043730JAP</article-id>
+      <article-id pub-id-type="manuscript">JR17-3535R</article-id>
+      <article-categories><subj-group subj-group-type="toc-heading">
+          <subject>ARTICLES</subject>
+          <subj-group>
+            <subject>Organic-Inorganic Systems, including Organic Electronics</subject>
+          </subj-group>
+        </subj-group></article-categories>
+      <title-group>
+        <article-title>Recombination at high carrier density in methylammonium lead iodide studied
+          using time-resolved microwave conductivity</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Labram</surname>
+            <given-names>John G.</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4641-3508</contrib-id>
+          <name>
+            <surname>Chabinyc</surname>
+            <given-names>Michael L.</given-names>
+          </name>
+          <xref ref-type="author-note" rid="n1">a)</xref>
+        </contrib>
+        <aff><institution>Department of Materials and California NanoSystems Institute (CNSI),
+            University of California Santa Barbara, Santa Barbara, California</institution>
+          93106-5050, <country>USA</country></aff>
+      </contrib-group>
+      <author-notes>
+        <fn id="n1">
+          <label>a)</label>
+          <p>Author to whom correspondence should be addressed: <ext-link ext-link-type="email" xlink:href="mailto:mchabinyc@engineering.ucsb.edu">mchabinyc@engineering.ucsb.edu</ext-link></p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <day>14</day>
+        <month>08</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>122</volume>
+      <issue>6</issue>
+      <elocation-id seq="1">065501</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>18</day>
+          <month>06</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>07</month>
+          <year>2017</year>
+        </date>
+        <date date-type="published">
+          <day>10</day>
+          <month>08</month>
+          <year>2017</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-year>2017</copyright-year>
+        <copyright-holder>Author(s)</copyright-holder>
+        <license license-type="licensed-commercial-use">
+          <license-p>Published by AIP Publishing.</license-p>
+        </license>
+        <license license-type="ccc">
+          <license-p>0021-8979/2017/122(6)/065501/7/<price>$30.00</price></license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>Time-resolved microwave conductivity (TRMC) is a highly versatile method to rapidly
+          evaluate the electronic properties of semiconducting compounds without the need to
+          construct and optimize electronic devices. In this report, we study how bimolecular and
+          Auger recombination mechanisms affect TRMC measurements. In particular, we investigate how
+          recombination reduces the measured value of the TRMC figure-of-merit:
+          <italic>ϕΣμ</italic>, at a high incident optical fluence. Using a numerical model, we
+          calculate how these higher-order recombination processes reduce experimentally measured
+          values of <italic>ϕΣμ</italic> relative to a regime of low carrier concentration with
+          little recombination. By fitting this model to experimentally obtained data for the hybrid
+          halide perovskite compound, methylammonium lead iodide, we are able to extract the
+          bimolecular and Auger rate constants and provide a clear determination of the sum of the
+          hole and electron mobilities for these films.</p>
+      </abstract>
+      
+      
+      
+
+      <funding-group specific-use="FundRef">
+        <award-group>
+          <funding-source>
+            <named-content content-type="funder_name">Defense Threat Reduction Agency
+              (DTRA)</named-content>
+            <named-content content-type="funder_identifier">http://dx.doi.org/10.13039/100000774</named-content>
+          </funding-source>
+          <award-id award-type="contract">HDTRA1-15-1-0023</award-id>
+        </award-group>
+      </funding-group>
+      <counts>
+        <page-count count="7"/>
+      </counts>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>crossmark</meta-name>
+          <meta-value/>
+        </custom-meta>
+      </custom-meta-group>
+    </article-meta>
+  </front><back><ref-list>
+      <ref id="c1">
+        <label>1.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. A.</given-names>
+            <surname>Green</surname>
+          </string-name> and <string-name>
+            <given-names>S. P.</given-names>
+            <surname>Bremner</surname>
+          </string-name>, <source>Nat. Mater.</source>
+          <volume><bold>16</bold></volume>, <fpage>23</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nmat4676</pub-id></mixed-citation>
+      </ref>
+      <ref id="c2">
+        <label>2.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. A.</given-names>
+            <surname>Green</surname>
+          </string-name>, <string-name>
+            <given-names>K.</given-names>
+            <surname>Emery</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Hishikawa</surname>
+          </string-name>, <string-name>
+            <given-names>W.</given-names>
+            <surname>Warta</surname>
+          </string-name>, <string-name>
+            <given-names>E. D.</given-names>
+            <surname>Dunlop</surname>
+          </string-name>, <string-name>
+            <given-names>D. H.</given-names>
+            <surname>Levi</surname>
+          </string-name>, and <string-name>
+            <given-names>A. W. Y.</given-names>
+            <surname>Ho-Baillie</surname>
+          </string-name>, <source>Prog. Photovoltaics</source>
+          <volume><bold>25</bold></volume>, <fpage>3</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/pip.2855</pub-id></mixed-citation>
+      </ref>
+      <ref id="c3">
+        <label>3.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Hagfeldt</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Boschloo</surname>
+          </string-name>, <string-name>
+            <given-names>L.</given-names>
+            <surname>Sun</surname>
+          </string-name>, <string-name>
+            <given-names>L.</given-names>
+            <surname>Kloo</surname>
+          </string-name>, and <string-name>
+            <given-names>H.</given-names>
+            <surname>Pettersson</surname>
+          </string-name>, <source>Chem. Rev.</source>
+          <volume><bold>110</bold></volume>, <fpage>6595</fpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/cr900356p</pub-id></mixed-citation>
+      </ref>
+      <ref id="c4">
+        <label>4.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>C. J.</given-names>
+            <surname>Brabec</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Gowrisanker</surname>
+          </string-name>, <string-name>
+            <given-names>J. J. M.</given-names>
+            <surname>Halls</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Laird</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Jia</surname>
+          </string-name>, and <string-name>
+            <given-names>S. P.</given-names>
+            <surname>Williams</surname>
+          </string-name>, <source>Adv. Mater.</source>
+          <volume><bold>22</bold></volume>, <fpage>3839</fpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adma.200903697</pub-id></mixed-citation>
+      </ref>
+      <ref id="c5">
+        <label>5.</label>
+        <mixed-citation publication-type="book">
+          <string-name>
+            <given-names>R.</given-names>
+            <surname>Scheer</surname>
+          </string-name> and <string-name>
+            <given-names>H.-W.</given-names>
+            <surname>Schock</surname>
+          </string-name>, <source><italic>Chalcogenide Photovoltaics: Physics, Technologies, and
+              Thin Film Devices</italic></source> ( <publisher-name>John Wiley &amp;
+            Sons</publisher-name>, <year>2011</year>).</mixed-citation>
+      </ref>
+      <ref id="c6">
+        <label>6.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>R. A. J.</given-names>
+            <surname>Janssen</surname>
+          </string-name> and <string-name>
+            <given-names>J.</given-names>
+            <surname>Nelson</surname>
+          </string-name>, <source>Adv. Mater.</source>
+          <volume><bold>25</bold></volume>, <fpage>1847</fpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adma.201202873</pub-id></mixed-citation>
+      </ref>
+      <ref id="c7">
+        <label>7.</label>
+        <mixed-citation publication-type="book">
+          <string-name>
+            <given-names>C. L.</given-names>
+            <surname>Chien</surname>
+          </string-name> and <string-name>
+            <given-names>C. R.</given-names>
+            <surname>Westgate</surname>
+          </string-name>, <source><italic>The Hall Effect and Its Applications</italic></source> (
+            <publisher-name>Plenum Press</publisher-name>, <year>1980</year>).</mixed-citation>
+      </ref>
+      <ref id="c8">
+        <label>8.</label>
+        <mixed-citation publication-type="book">
+          <string-name>
+            <given-names>M. A.</given-names>
+            <surname>Lampert</surname>
+          </string-name> and <string-name>
+            <given-names>P.</given-names>
+            <surname>Mark</surname>
+          </string-name>, <source><italic>Current Injection in Solids</italic></source> (
+            <publisher-name>Academic Press</publisher-name>, <year>1970</year>).</mixed-citation>
+      </ref>
+      <ref id="c9">
+        <label>9.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Zaumseil</surname>
+          </string-name> and <string-name>
+            <given-names>H.</given-names>
+            <surname>Sirringhaus</surname>
+          </string-name>, <source>Chem. Rev.</source>
+          <volume><bold>107</bold></volume>, <fpage>1296</fpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/cr0501543</pub-id></mixed-citation>
+      </ref>
+      <ref id="c10">
+        <label>10.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>L.</given-names>
+            <surname>Petti</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Münzenrieder</surname>
+          </string-name>, <string-name>
+            <given-names>C.</given-names>
+            <surname>Vogt</surname>
+          </string-name>, <string-name>
+            <given-names>H.</given-names>
+            <surname>Faber</surname>
+          </string-name>, <string-name>
+            <given-names>L.</given-names>
+            <surname>Büthe</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Cantarella</surname>
+          </string-name>, <string-name>
+            <given-names>F.</given-names>
+            <surname>Bottacchi</surname>
+          </string-name>, <string-name>
+            <given-names>T. D.</given-names>
+            <surname>Anthopoulos</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Tröster</surname>
+          </string-name>, <source>Appl. Phys. Rev.</source>
+          <volume><bold>3</bold></volume>, <fpage>21303</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4953034</pub-id></mixed-citation>
+      </ref>
+      <ref id="c11">
+        <label>11.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J. G.</given-names>
+            <surname>Labram</surname>
+          </string-name>, <string-name>
+            <given-names>D. H.</given-names>
+            <surname>Fabini</surname>
+          </string-name>, <string-name>
+            <given-names>E. E.</given-names>
+            <surname>Perry</surname>
+          </string-name>, <string-name>
+            <given-names>A. J.</given-names>
+            <surname>Lehner</surname>
+          </string-name>, <string-name>
+            <given-names>H.</given-names>
+            <surname>Wang</surname>
+          </string-name>, <string-name>
+            <given-names>A. M.</given-names>
+            <surname>Glaudell</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Wu</surname>
+          </string-name>, <string-name>
+            <given-names>H.</given-names>
+            <surname>Evans</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Buck</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Cotta</surname>
+          </string-name>, <string-name>
+            <given-names>L.</given-names>
+            <surname>Echegoyen</surname>
+          </string-name>, <string-name>
+            <given-names>F.</given-names>
+            <surname>Wudl</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Seshadri</surname>
+          </string-name>, and <string-name>
+            <given-names>M. L.</given-names>
+            <surname>Chabinyc</surname>
+          </string-name>, <source>J. Phys. Chem. Lett.</source>
+          <volume><bold>6</bold></volume>, <fpage>3565</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.jpclett.5b01669</pub-id></mixed-citation>
+      </ref>
+      <ref id="c12">
+        <label>12.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Kojima</surname>
+          </string-name>, <string-name>
+            <given-names>K.</given-names>
+            <surname>Teshima</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Shirai</surname>
+          </string-name>, and <string-name>
+            <given-names>T.</given-names>
+            <surname>Miyasaka</surname>
+          </string-name>, <source>J. Am. Chem. Soc.</source>
+          <volume><bold>131</bold></volume>, <fpage>6050</fpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja809598r</pub-id></mixed-citation>
+      </ref>
+      <ref id="c13">
+        <label>13.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. M.</given-names>
+            <surname>Lee</surname>
+          </string-name>, <string-name>
+            <given-names>J.</given-names>
+            <surname>Teuscher</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Miyasaka</surname>
+          </string-name>, <string-name>
+            <given-names>T. N.</given-names>
+            <surname>Murakami</surname>
+          </string-name>, and <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, <source>Science</source>
+          <volume><bold>338</bold></volume>, <fpage>643</fpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1228604</pub-id></mixed-citation>
+      </ref>
+      <ref id="c14">
+        <label>14.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>C. C.</given-names>
+            <surname>Stoumpos</surname>
+          </string-name> and <string-name>
+            <given-names>M. G.</given-names>
+            <surname>Kanatzidis</surname>
+          </string-name>, <source>Adv. Mater.</source>
+          <volume><bold>28</bold></volume>, <fpage>5778</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adma.201600265</pub-id></mixed-citation>
+      </ref>
+      <ref id="c15">
+        <label>15.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>L.</given-names>
+            <surname>Pedesseau</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Sapori</surname>
+          </string-name>, <string-name>
+            <given-names>B.</given-names>
+            <surname>Traore</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Robles</surname>
+          </string-name>, <string-name>
+            <given-names>H.-H.</given-names>
+            <surname>Fang</surname>
+          </string-name>, <string-name>
+            <given-names>M. A.</given-names>
+            <surname>Loi</surname>
+          </string-name>, <string-name>
+            <given-names>H.</given-names>
+            <surname>Tsai</surname>
+          </string-name>, <string-name>
+            <given-names>W.</given-names>
+            <surname>Nie</surname>
+          </string-name>, <string-name>
+            <given-names>J.-C.</given-names>
+            <surname>Blancon</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Neukirch</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Tretiak</surname>
+          </string-name>, <string-name>
+            <given-names>A. D.</given-names>
+            <surname>Mohite</surname>
+          </string-name>, <string-name>
+            <given-names>C.</given-names>
+            <surname>Katan</surname>
+          </string-name>, <string-name>
+            <given-names>J.</given-names>
+            <surname>Even</surname>
+          </string-name>, and <string-name>
+            <given-names>M.</given-names>
+            <surname>Kepenekian</surname>
+          </string-name>, <source>ACS Nano</source>
+          <volume><bold>10</bold></volume>, <fpage>9776</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acsnano.6b05944</pub-id></mixed-citation>
+      </ref>
+      <ref id="c16">
+        <label>16.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>D. H.</given-names>
+            <surname>Fabini</surname>
+          </string-name>, <string-name>
+            <given-names>J. G.</given-names>
+            <surname>Labram</surname>
+          </string-name>, <string-name>
+            <given-names>A. J.</given-names>
+            <surname>Lehner</surname>
+          </string-name>, <string-name>
+            <given-names>J. S.</given-names>
+            <surname>Bechtel</surname>
+          </string-name>, <string-name>
+            <given-names>H. A.</given-names>
+            <surname>Evans</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Van der Ven</surname>
+          </string-name>, <string-name>
+            <given-names>F.</given-names>
+            <surname>Wudl</surname>
+          </string-name>, <string-name>
+            <given-names>M. L.</given-names>
+            <surname>Chabinyc</surname>
+          </string-name>, and <string-name>
+            <given-names>R.</given-names>
+            <surname>Seshadri</surname>
+          </string-name>, <source>Inorg. Chem.</source>
+          <volume><bold>56</bold></volume>, <fpage>11</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.inorgchem.6b01539</pub-id></mixed-citation>
+      </ref>
+      <ref id="c17">
+        <label>17.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Warman</surname>
+          </string-name>, <string-name>
+            <given-names>M. P.</given-names>
+            <surname>De Haas</surname>
+          </string-name>, and <string-name>
+            <given-names>A.</given-names>
+            <surname>Hummel</surname>
+          </string-name>, <source>Chem. Phys. Lett.</source>
+          <volume><bold>22</bold></volume>, <fpage>480</fpage> (<year>1973</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2614(73)87012-5</pub-id></mixed-citation>
+      </ref>
+      <ref id="c18">
+        <label>18.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>P. P.</given-names>
+            <surname>Infelta</surname>
+          </string-name>, <string-name>
+            <given-names>M. P.</given-names>
+            <surname>de Haas</surname>
+          </string-name>, and <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Warman</surname>
+          </string-name>, <source>Radiat. Phys. Chem.</source>
+          <volume><bold>10</bold></volume>, <fpage>353</fpage>–<lpage>1977</lpage>
+            (<year>1977</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0146-5724(77)90044-9</pub-id></mixed-citation>
+      </ref>
+      <ref id="c19">
+        <label>19.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. P.</given-names>
+            <surname>De Haas</surname>
+          </string-name> and <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Warman</surname>
+          </string-name>, <source>Chem. Phys.</source>
+          <volume><bold>73</bold></volume>, <fpage>35</fpage> (<year>1982</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0301-0104(82)85148-3</pub-id></mixed-citation>
+      </ref>
+      <ref id="c20">
+        <label>20.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Kunst</surname>
+          </string-name> and <string-name>
+            <given-names>G.</given-names>
+            <surname>Beck</surname>
+          </string-name>, <source>J. Appl. Phys.</source>
+          <volume><bold>60</bold></volume>, <fpage>3558</fpage> (<year>1986</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.337612</pub-id></mixed-citation>
+      </ref>
+      <ref id="c21">
+        <label>21.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Kunst</surname>
+          </string-name> and <string-name>
+            <given-names>A.</given-names>
+            <surname>Werner</surname>
+          </string-name>, <source>J. Appl. Phys.</source>
+          <volume><bold>58</bold></volume>, <fpage>2236</fpage> (<year>1985</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.335940</pub-id></mixed-citation>
+      </ref>
+      <ref id="c22">
+        <label>22.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Werner</surname>
+          </string-name> and <string-name>
+            <given-names>M.</given-names>
+            <surname>Kunst</surname>
+          </string-name>, <source>Appl. Phys. Lett.</source>
+          <volume><bold>46</bold></volume>, <fpage>69</fpage> (<year>1985</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.95856</pub-id></mixed-citation>
+      </ref>
+      <ref id="c23">
+        <label>23.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Saeki</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Koizumi</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Aida</surname>
+          </string-name>, and <string-name>
+            <given-names>S.</given-names>
+            <surname>Seki</surname>
+          </string-name>, <source>Acc. Chem. Res.</source>
+          <volume><bold>45</bold></volume>, <fpage>1193</fpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ar200283b</pub-id></mixed-citation>
+      </ref>
+      <ref id="c24">
+        <label>24.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>H.</given-names>
+            <surname>Oga</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Saeki</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Ogomi</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Hayase</surname>
+          </string-name>, and <string-name>
+            <given-names>S.</given-names>
+            <surname>Seki</surname>
+          </string-name>, <source>J. Am. Chem. Soc.</source>
+          <volume><bold>136</bold></volume>, <fpage>13818</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja506936f</pub-id></mixed-citation>
+      </ref>
+      <ref id="c25">
+        <label>25.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <string-name>
+            <given-names>A. J.</given-names>
+            <surname>Ferguson</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Kopidakis</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Rumbles</surname>
+          </string-name>, <source>J. Phys. Chem. C</source>
+          <volume><bold>117</bold></volume>, <fpage>24085</fpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp406706u</pub-id></mixed-citation>
+      </ref>
+      <ref id="c26">
+        <label>26.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J. G.</given-names>
+            <surname>Labram</surname>
+          </string-name>, <string-name>
+            <given-names>N. R.</given-names>
+            <surname>Venkatesan</surname>
+          </string-name>, <string-name>
+            <given-names>C. J.</given-names>
+            <surname>Takacs</surname>
+          </string-name>, <string-name>
+            <given-names>H. A.</given-names>
+            <surname>Evans</surname>
+          </string-name>, <string-name>
+            <given-names>E. E.</given-names>
+            <surname>Perry</surname>
+          </string-name>, <string-name>
+            <given-names>F.</given-names>
+            <surname>Wudl</surname>
+          </string-name>, and <string-name>
+            <given-names>M. L.</given-names>
+            <surname>Chabinyc</surname>
+          </string-name>, <source>J. Mater. Chem. C</source>
+          <volume><bold>5</bold></volume>, <fpage>5930</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/C7TC01161J</pub-id></mixed-citation>
+      </ref>
+      <ref id="c27">
+        <label>27.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>K. M.</given-names>
+            <surname>Schindler</surname>
+          </string-name> and <string-name>
+            <given-names>M.</given-names>
+            <surname>Kunst</surname>
+          </string-name>, <source>J. Phys. Chem.</source>
+          <volume><bold>94</bold></volume>, <fpage>8222</fpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/j100384a045</pub-id></mixed-citation>
+      </ref>
+      <ref id="c28">
+        <label>28.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>R. J. O. M.</given-names>
+            <surname>Hoffman</surname>
+          </string-name>, <string-name>
+            <given-names>G. P.</given-names>
+            <surname>van der Laan</surname>
+          </string-name>, <string-name>
+            <given-names>M. P.</given-names>
+            <surname>de Haas</surname>
+          </string-name>, and <string-name>
+            <given-names>K.</given-names>
+            <surname>Tanigaki</surname>
+          </string-name>, <source>Proc. Int. Conf. Sci. Technol., Synth. Met.</source>
+          <volume><bold>86</bold></volume>, <fpage>2355</fpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0379-6779(97)81159-9</pub-id></mixed-citation>
+      </ref>
+      <ref id="c29">
+        <label>29.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Saeki</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Seki</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Takenobu</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Iwasa</surname>
+          </string-name>, and <string-name>
+            <given-names>S.</given-names>
+            <surname>Tagawa</surname>
+          </string-name>, <source>Adv. Mater.</source>
+          <volume><bold>20</bold></volume>, <fpage>920</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adma.200702463</pub-id></mixed-citation>
+      </ref>
+      <ref id="c30">
+        <label>30.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>O. E.</given-names>
+            <surname>Semonin</surname>
+          </string-name>, <string-name>
+            <given-names>G. A.</given-names>
+            <surname>Elbaz</surname>
+          </string-name>, <string-name>
+            <given-names>D. B.</given-names>
+            <surname>Straus</surname>
+          </string-name>, <string-name>
+            <given-names>T. D.</given-names>
+            <surname>Hull</surname>
+          </string-name>, <string-name>
+            <given-names>D. W.</given-names>
+            <surname>Paley</surname>
+          </string-name>, <string-name>
+            <given-names>A. M.</given-names>
+            <surname>van der Zande</surname>
+          </string-name>, <string-name>
+            <given-names>J. C.</given-names>
+            <surname>Hone</surname>
+          </string-name>, <string-name>
+            <given-names>I.</given-names>
+            <surname>Kymissis</surname>
+          </string-name>, <string-name>
+            <given-names>C. R.</given-names>
+            <surname>Kagan</surname>
+          </string-name>, <string-name>
+            <given-names>X.</given-names>
+            <surname>Roy</surname>
+          </string-name>, and <string-name>
+            <given-names>J. S.</given-names>
+            <surname>Owen</surname>
+          </string-name>, <source>J. Phys. Chem. Lett.</source>
+          <volume><bold>7</bold></volume>, <fpage>3510</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.jpclett.6b01308</pub-id></mixed-citation>
+      </ref>
+      <ref id="c31">
+        <label>31.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J. A.</given-names>
+            <surname>Guse</surname>
+          </string-name>, <string-name>
+            <given-names>A. M.</given-names>
+            <surname>Soufiani</surname>
+          </string-name>, <string-name>
+            <given-names>L.</given-names>
+            <surname>Jiang</surname>
+          </string-name>, <string-name>
+            <given-names>J.</given-names>
+            <surname>Kim</surname>
+          </string-name>, <string-name>
+            <given-names>Y.-B.</given-names>
+            <surname>Cheng</surname>
+          </string-name>, <string-name>
+            <given-names>T. W.</given-names>
+            <surname>Schmidt</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Ho-Baillie</surname>
+          </string-name>, and <string-name>
+            <given-names>D. R.</given-names>
+            <surname>McCamey</surname>
+          </string-name>, <source>Phys. Chem. Chem. Phys.</source>
+          <volume><bold>18</bold></volume>, <fpage>12043</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/C5CP07360J</pub-id></mixed-citation>
+      </ref>
+      <ref id="c32">
+        <label>32.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. C.</given-names>
+            <surname>Gélvez-Rueda</surname>
+          </string-name>, <string-name>
+            <given-names>D. H.</given-names>
+            <surname>Cao</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Patwardhan</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Renaud</surname>
+          </string-name>, <string-name>
+            <given-names>C. C.</given-names>
+            <surname>Stoumpos</surname>
+          </string-name>, <string-name>
+            <given-names>G. C.</given-names>
+            <surname>Schatz</surname>
+          </string-name>, <string-name>
+            <given-names>J. T.</given-names>
+            <surname>Hupp</surname>
+          </string-name>, <string-name>
+            <given-names>O. K.</given-names>
+            <surname>Farha</surname>
+          </string-name>, <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <string-name>
+            <given-names>M. G.</given-names>
+            <surname>Kanatzidis</surname>
+          </string-name>, and <string-name>
+            <given-names>F. C.</given-names>
+            <surname>Grozema</surname>
+          </string-name>, <source>J. Phys. Chem. C</source>
+          <volume><bold>120</bold></volume>, <fpage>16577</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.jpcc.6b06722</pub-id></mixed-citation>
+      </ref>
+      <ref id="c33">
+        <label>33.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>N.</given-names>
+            <surname>Ishida</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Wakamiya</surname>
+          </string-name>, and <string-name>
+            <given-names>A.</given-names>
+            <surname>Saeki</surname>
+          </string-name>, <source>ACS Photonics</source>
+          <volume><bold>3</bold></volume>, <fpage>1678</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acsphotonics.6b00331</pub-id></mixed-citation>
+      </ref>
+      <ref id="c34">
+        <label>34.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Nanu</surname>
+          </string-name>, <string-name>
+            <given-names>J.</given-names>
+            <surname>Schoonman</surname>
+          </string-name>, and <string-name>
+            <given-names>A.</given-names>
+            <surname>Goossens</surname>
+          </string-name>, <source>J. Appl. Phys.</source>
+          <volume><bold>101</bold></volume>, <fpage>113718</fpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.2745386</pub-id></mixed-citation>
+      </ref>
+      <ref id="c35">
+        <label>35.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Friedrich</surname>
+          </string-name> and <string-name>
+            <given-names>M.</given-names>
+            <surname>Kunst</surname>
+          </string-name>, <source>J. Phys. Chem. C</source>
+          <volume><bold>115</bold></volume>, <fpage>16657</fpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp200742z</pub-id></mixed-citation>
+      </ref>
+      <ref id="c36">
+        <label>36.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Saeki</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Yamamoto</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Koizumi</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Fukushima</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Aida</surname>
+          </string-name>, and <string-name>
+            <given-names>S.</given-names>
+            <surname>Seki</surname>
+          </string-name>, <source>J. Phys. Chem. Lett.</source>
+          <volume><bold>2</bold></volume>, <fpage>2549</fpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jz201223e</pub-id></mixed-citation>
+      </ref>
+      <ref id="c37">
+        <label>37.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Park</surname>
+          </string-name>, <string-name>
+            <given-names>O. G.</given-names>
+            <surname>Reid</surname>
+          </string-name>, <string-name>
+            <given-names>J. L.</given-names>
+            <surname>Blackburn</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Rumbles</surname>
+          </string-name>, <source>Nat. Commun.</source>
+          <volume><bold>6</bold></volume>, <fpage>8809</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/ncomms9809</pub-id></mixed-citation>
+      </ref>
+      <ref id="c38">
+        <label>38.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>S. D.</given-names>
+            <surname>Stranks</surname>
+          </string-name>, <string-name>
+            <given-names>G. E.</given-names>
+            <surname>Eperon</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Grancini</surname>
+          </string-name>, <string-name>
+            <given-names>C.</given-names>
+            <surname>Menelaou</surname>
+          </string-name>, <string-name>
+            <given-names>M. J. P.</given-names>
+            <surname>Alcocer</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Leijtens</surname>
+          </string-name>, <string-name>
+            <given-names>L. M.</given-names>
+            <surname>Herz</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Petrozza</surname>
+          </string-name>, and <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, <source>Science</source>
+          <volume><bold>342</bold></volume>, <fpage>341</fpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1243982</pub-id></mixed-citation>
+      </ref>
+      <ref id="c39">
+        <label>39.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Wehrenfennig</surname>
+          </string-name>, <string-name>
+            <given-names>G. E.</given-names>
+            <surname>Eperon</surname>
+          </string-name>, <string-name>
+            <given-names>M. B.</given-names>
+            <surname>Johnston</surname>
+          </string-name>, <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, and <string-name>
+            <given-names>L. M.</given-names>
+            <surname>Herz</surname>
+          </string-name>, <source>Adv. Mater.</source>
+          <volume><bold>26</bold></volume>, <fpage>1584</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adma.201305172</pub-id></mixed-citation>
+      </ref>
+      <ref id="c40">
+        <label>40.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Shi</surname>
+          </string-name>, <string-name>
+            <given-names>V.</given-names>
+            <surname>Adinolfi</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Comin</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Yuan</surname>
+          </string-name>, <string-name>
+            <given-names>E.</given-names>
+            <surname>Alarousu</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Buin</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Chen</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Hoogland</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Rothenberger</surname>
+          </string-name>, <string-name>
+            <given-names>K.</given-names>
+            <surname>Katsiev</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Losovyj</surname>
+          </string-name>, <string-name>
+            <given-names>X.</given-names>
+            <surname>Zhang</surname>
+          </string-name>, <string-name>
+            <given-names>P. A.</given-names>
+            <surname>Dowben</surname>
+          </string-name>, <string-name>
+            <given-names>O. F.</given-names>
+            <surname>Mohammed</surname>
+          </string-name>, <string-name>
+            <given-names>E. H.</given-names>
+            <surname>Sargent</surname>
+          </string-name>, and <string-name>
+            <given-names>O. M.</given-names>
+            <surname>Bakr</surname>
+          </string-name>, <source>Science</source>
+          <volume><bold>347</bold></volume>, <fpage>519</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.aaa2725</pub-id></mixed-citation>
+      </ref>
+      <ref id="c41">
+        <label>41.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>C. S.</given-names>
+            <surname>Ponseca</surname>
+          </string-name>, <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Abdellah</surname>
+          </string-name>, <string-name>
+            <given-names>K.</given-names>
+            <surname>Zheng</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Yartsev</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Pascher</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Harlang</surname>
+          </string-name>, <string-name>
+            <given-names>P.</given-names>
+            <surname>Chabera</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Pullerits</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Stepanov</surname>
+          </string-name>, <string-name>
+            <given-names>J.-P.</given-names>
+            <surname>Wolf</surname>
+          </string-name>, and <string-name>
+            <given-names>V.</given-names>
+            <surname>Sundström</surname>
+          </string-name>, <source>J. Am. Chem. Soc.</source>
+          <volume><bold>136</bold></volume>, <fpage>5189</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja412583t</pub-id></mixed-citation>
+      </ref>
+      <ref id="c42">
+        <label>42.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>L. M.</given-names>
+            <surname>Herz</surname>
+          </string-name>, <source>Annu. Rev. Phys. Chem.</source>
+          <volume><bold>67</bold></volume>, <fpage>65</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1146/annurev-physchem-040215-112222</pub-id></mixed-citation>
+      </ref>
+      <ref id="c43">
+        <label>43.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>E. M.</given-names>
+            <surname>Hutter</surname>
+          </string-name>, <string-name>
+            <given-names>G. E.</given-names>
+            <surname>Eperon</surname>
+          </string-name>, <string-name>
+            <given-names>S. D.</given-names>
+            <surname>Stranks</surname>
+          </string-name>, and <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <source>J. Phys. Chem. Lett.</source>
+          <volume><bold>6</bold></volume>, <fpage>3082</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.jpclett.5b01361</pub-id></mixed-citation>
+      </ref>
+      <ref id="c44">
+        <label>44.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>S. D.</given-names>
+            <surname>Stranks</surname>
+          </string-name>, <string-name>
+            <given-names>V. M.</given-names>
+            <surname>Burlakov</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Leijtens</surname>
+          </string-name>, <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Ball</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Goriely</surname>
+          </string-name>, and <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, <source>Phys. Rev. Appl.</source>
+          <volume><bold>2</bold></volume>, <fpage>34007</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevApplied.2.034007</pub-id></mixed-citation>
+      </ref>
+      <ref id="c45">
+        <label>45.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>E. M.</given-names>
+            <surname>Hutter</surname>
+          </string-name>, <string-name>
+            <given-names>M. C.</given-names>
+            <surname>Gélvez-Rueda</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Osherov</surname>
+          </string-name>, <string-name>
+            <given-names>V.</given-names>
+            <surname>Bulović</surname>
+          </string-name>, <string-name>
+            <given-names>F. C.</given-names>
+            <surname>Grozema</surname>
+          </string-name>, <string-name>
+            <given-names>S. D.</given-names>
+            <surname>Stranks</surname>
+          </string-name>, and <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <source>Nat. Mater.</source>
+          <volume><bold>16</bold></volume>, <fpage>115</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nmat4765</pub-id></mixed-citation>
+      </ref>
+      <ref id="c46">
+        <label>46.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Piris</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Kopidakis</surname>
+          </string-name>, <string-name>
+            <given-names>D. C.</given-names>
+            <surname>Olson</surname>
+          </string-name>, <string-name>
+            <given-names>S. E.</given-names>
+            <surname>Shaheen</surname>
+          </string-name>, <string-name>
+            <given-names>D. S.</given-names>
+            <surname>Ginley</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Rumbles</surname>
+          </string-name>, <source>Adv. Funct. Mater.</source>
+          <volume><bold>17</bold></volume>, <fpage>3849</fpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adfm.200700305</pub-id></mixed-citation>
+      </ref>
+      <ref id="c47">
+        <label>47.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>K.</given-names>
+            <surname>Wojciechowski</surname>
+          </string-name>, <string-name>
+            <given-names>S. D.</given-names>
+            <surname>Stranks</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Abate</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Sadoughi</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Sadhanala</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Kopidakis</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Rumbles</surname>
+          </string-name>, <string-name>
+            <given-names>C.-Z.</given-names>
+            <surname>Li</surname>
+          </string-name>, <string-name>
+            <given-names>R. H.</given-names>
+            <surname>Friend</surname>
+          </string-name>, <string-name>
+            <given-names>A. K.-Y.</given-names>
+            <surname>Jen</surname>
+          </string-name>, and <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, <source>ACS Nano</source>
+          <volume><bold>8</bold></volume>, <fpage>12701</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/nn505723h</pub-id></mixed-citation>
+      </ref>
+      <ref id="c48">
+        <label>48.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>W.</given-names>
+            <surname>Dieter</surname>
+          </string-name>, <source>Z. Naturforsch. B</source>
+          <volume><bold>33</bold></volume>, <fpage>1443</fpage> (<year>1978</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1515/znb-1978-1214</pub-id></mixed-citation>
+      </ref>
+      <ref id="c49">
+        <label>49.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J. E.</given-names>
+            <surname>Kroeze</surname>
+          </string-name>, <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <string-name>
+            <given-names>M. J. W.</given-names>
+            <surname>Vermeulen</surname>
+          </string-name>, and <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Warman</surname>
+          </string-name>, <source>J. Phys. Chem. B</source>
+          <volume><bold>107</bold></volume>, <fpage>7696</fpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp0217738</pub-id></mixed-citation>
+      </ref>
+      <ref id="c50">
+        <label>50.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J. W.</given-names>
+            <surname>Jung</surname>
+          </string-name>, <string-name>
+            <given-names>S. T.</given-names>
+            <surname>Williams</surname>
+          </string-name>, and <string-name>
+            <given-names>A. K.-Y.</given-names>
+            <surname>Jen</surname>
+          </string-name>, <source>RSC Adv.</source>
+          <volume><bold>4</bold></volume>, <fpage>62971</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/C4RA13212B</pub-id></mixed-citation>
+      </ref>
+      <ref id="c51">
+        <label>51.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>N. J.</given-names>
+            <surname>Jeon</surname>
+          </string-name>, <string-name>
+            <given-names>J. H.</given-names>
+            <surname>Noh</surname>
+          </string-name>, <string-name>
+            <given-names>Y. C.</given-names>
+            <surname>Kim</surname>
+          </string-name>, <string-name>
+            <given-names>W. S.</given-names>
+            <surname>Yang</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Ryu</surname>
+          </string-name>, and <string-name>
+            <given-names>S. I.</given-names>
+            <surname>Seok</surname>
+          </string-name>, <source>Nat. Mater.</source>
+          <volume><bold>13</bold></volume>, <fpage>897</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nmat4014</pub-id></mixed-citation>
+      </ref>
+      <ref id="c52">
+        <label>52.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <string-name>
+            <given-names>J. E.</given-names>
+            <surname>Kroeze</surname>
+          </string-name>, <string-name>
+            <given-names>M. M.</given-names>
+            <surname>Wienk</surname>
+          </string-name>, <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Kroon</surname>
+          </string-name>, and <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Warman</surname>
+          </string-name>, <source>Phys. Rev. B</source>
+          <volume><bold>69</bold></volume>, <fpage>155205</fpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.69.155205</pub-id></mixed-citation>
+      </ref>
+      <ref id="c53">
+        <label>53.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>O. G.</given-names>
+            <surname>Reid</surname>
+          </string-name>, <string-name>
+            <given-names>J. A. N.</given-names>
+            <surname>Malik</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Latini</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Dayal</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Kopidakis</surname>
+          </string-name>, <string-name>
+            <given-names>C.</given-names>
+            <surname>Silva</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Stingelin</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Rumbles</surname>
+          </string-name>, <source>J. Polym. Sci. Part B, Polym. Phys.</source>
+          <volume><bold>50</bold></volume>, <fpage>27</fpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/polb.22379</pub-id></mixed-citation>
+      </ref>
+      <ref id="c54">
+        <label>54.</label>
+        <mixed-citation publication-type="confproc">
+          <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <string-name>
+            <given-names>J. E.</given-names>
+            <surname>Kroeze</surname>
+          </string-name>, <string-name>
+            <given-names>X.</given-names>
+            <surname>Yang</surname>
+          </string-name>, and <string-name>
+            <given-names>J.</given-names>
+            <surname>Loos</surname>
+          </string-name>, <conf-name>Thin Solid Films</conf-name>
+          <volume><bold>511–512</bold></volume>, <fpage>2</fpage>
+          (<year>2006</year>).</mixed-citation>
+      </ref>
+      <ref id="c55">
+        <label>55.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Saeki</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Tsuji</surname>
+          </string-name>, and <string-name>
+            <given-names>S.</given-names>
+            <surname>Seki</surname>
+          </string-name>, <source>Adv. Energy Mater.</source>
+          <volume><bold>1</bold></volume>, <fpage>661</fpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/aenm.201100143</pub-id></mixed-citation>
+      </ref>
+      <ref id="c56">
+        <label>56.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>A. J.</given-names>
+            <surname>Ferguson</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Kopidakis</surname>
+          </string-name>, <string-name>
+            <given-names>S. E.</given-names>
+            <surname>Shaheen</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Rumbles</surname>
+          </string-name>, <source>J. Phys. Chem. C</source>
+          <volume><bold>112</bold></volume>, <fpage>9865</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp7113412</pub-id></mixed-citation>
+      </ref>
+      <ref id="c57">
+        <label>57.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>Y.</given-names>
+            <surname>Yamada</surname>
+          </string-name>, <string-name>
+            <given-names>T.</given-names>
+            <surname>Nakamura</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Endo</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Wakamiya</surname>
+          </string-name>, and <string-name>
+            <given-names>Y.</given-names>
+            <surname>Kanemitsu</surname>
+          </string-name>, <source>J. Am. Chem. Soc.</source>
+          <volume><bold>136</bold></volume>, <fpage>11610</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja506624n</pub-id></mixed-citation>
+      </ref>
+      <ref id="c58">
+        <label>58.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>V.</given-names>
+            <surname>D'Innocenzo</surname>
+          </string-name>, <string-name>
+            <given-names>A. R.</given-names>
+            <surname>Srimath Kandada</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>De Bastiani</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Gandini</surname>
+          </string-name>, and <string-name>
+            <given-names>A.</given-names>
+            <surname>Petrozza</surname>
+          </string-name>, <source>J. Am. Chem. Soc.</source>
+          <volume><bold>136</bold></volume>, <fpage>17730</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ja511198f</pub-id></mixed-citation>
+      </ref>
+      <ref id="c59">
+        <label>59.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>G.</given-names>
+            <surname>Dicker</surname>
+          </string-name>, <string-name>
+            <given-names>M. P.</given-names>
+            <surname>de Haas</surname>
+          </string-name>, <string-name>
+            <given-names>L. D. A.</given-names>
+            <surname>Siebbeles</surname>
+          </string-name>, and <string-name>
+            <given-names>J. M.</given-names>
+            <surname>Warman</surname>
+          </string-name>, <source>Phys. Rev. B</source>
+          <volume><bold>70</bold></volume>, <fpage>45203</fpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.70.045203</pub-id></mixed-citation>
+      </ref>
+      <ref id="c60">
+        <label>60.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. C.</given-names>
+            <surname>Fravventura</surname>
+          </string-name>, <string-name>
+            <given-names>L. D. A.</given-names>
+            <surname>Siebbeles</surname>
+          </string-name>, and <string-name>
+            <given-names>T. J.</given-names>
+            <surname>Savenije</surname>
+          </string-name>, <source>J. Phys. Chem. C</source>
+          <volume><bold>118</bold></volume>, <fpage>7337</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jp500132w</pub-id></mixed-citation>
+      </ref>
+      <ref id="c61">
+        <label>61.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>R. L.</given-names>
+            <surname>Milot</surname>
+          </string-name>, <string-name>
+            <given-names>G. E.</given-names>
+            <surname>Eperon</surname>
+          </string-name>, <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, <string-name>
+            <given-names>M. B.</given-names>
+            <surname>Johnston</surname>
+          </string-name>, and <string-name>
+            <given-names>L. M.</given-names>
+            <surname>Herz</surname>
+          </string-name>, <source>Adv. Funct. Mater.</source>
+          <volume><bold>25</bold></volume>, <fpage>6218</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/adfm.201502340</pub-id></mixed-citation>
+      </ref>
+      <ref id="c62">
+        <label>62.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>D. W.</given-names>
+            <surname>de Quilettes</surname>
+          </string-name>, <string-name>
+            <given-names>S. M.</given-names>
+            <surname>Vorpahl</surname>
+          </string-name>, <string-name>
+            <given-names>S. D.</given-names>
+            <surname>Stranks</surname>
+          </string-name>, <string-name>
+            <given-names>H.</given-names>
+            <surname>Nagaoka</surname>
+          </string-name>, <string-name>
+            <given-names>G. E.</given-names>
+            <surname>Eperon</surname>
+          </string-name>, <string-name>
+            <given-names>M. E.</given-names>
+            <surname>Ziffer</surname>
+          </string-name>, <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, and <string-name>
+            <given-names>D. S.</given-names>
+            <surname>Ginger</surname>
+          </string-name>, <source>Science</source>
+          <volume><bold>348</bold></volume>, <fpage>683</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.aaa5333</pub-id></mixed-citation>
+      </ref>
+      <ref id="c63">
+        <label>63.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M.</given-names>
+            <surname>Saba</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Cadelano</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Marongiu</surname>
+          </string-name>, <string-name>
+            <given-names>F.</given-names>
+            <surname>Chen</surname>
+          </string-name>, <string-name>
+            <given-names>V.</given-names>
+            <surname>Sarritzu</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Sestu</surname>
+          </string-name>, <string-name>
+            <given-names>C.</given-names>
+            <surname>Figus</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Aresti</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Piras</surname>
+          </string-name>, <string-name>
+            <given-names>A. G.</given-names>
+            <surname>Lehmann</surname>
+          </string-name>, <string-name>
+            <given-names>C.</given-names>
+            <surname>Cannas</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Musinu</surname>
+          </string-name>, <string-name>
+            <given-names>F.</given-names>
+            <surname>Quochi</surname>
+          </string-name>, <string-name>
+            <given-names>A.</given-names>
+            <surname>Mura</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Bongiovanni</surname>
+          </string-name>, <source>Nat. Commun.</source>
+          <volume><bold>5</bold></volume>, <fpage>5049</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/ncomms6049</pub-id></mixed-citation>
+      </ref>
+      <ref id="c64">
+        <label>64.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>G.</given-names>
+            <surname>Xing</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Mathews</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Sun</surname>
+          </string-name>, <string-name>
+            <given-names>S. S.</given-names>
+            <surname>Lim</surname>
+          </string-name>, <string-name>
+            <given-names>Y. M.</given-names>
+            <surname>Lam</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Grätzel</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Mhaisalkar</surname>
+          </string-name>, and <string-name>
+            <given-names>T. C.</given-names>
+            <surname>Sum</surname>
+          </string-name>, <source>Science</source>
+          <volume><bold>342</bold></volume>, <fpage>344</fpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.1243167</pub-id></mixed-citation>
+      </ref>
+      <ref id="c65">
+        <label>65.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>W.</given-names>
+            <surname>Nie</surname>
+          </string-name>, <string-name>
+            <given-names>H.</given-names>
+            <surname>Tsai</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Asadpour</surname>
+          </string-name>, <string-name>
+            <given-names>J.-C.</given-names>
+            <surname>Blancon</surname>
+          </string-name>, <string-name>
+            <given-names>A. J.</given-names>
+            <surname>Neukirch</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Gupta</surname>
+          </string-name>, <string-name>
+            <given-names>J. J.</given-names>
+            <surname>Crochet</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Chhowalla</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Tretiak</surname>
+          </string-name>, <string-name>
+            <given-names>M. A.</given-names>
+            <surname>Alam</surname>
+          </string-name>, <string-name>
+            <given-names>H.-L.</given-names>
+            <surname>Wang</surname>
+          </string-name>, and <string-name>
+            <given-names>A. D.</given-names>
+            <surname>Mohite</surname>
+          </string-name>, <source>Science</source>
+          <volume><bold>347</bold></volume>, <fpage>522</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.aaa0472</pub-id></mixed-citation>
+      </ref>
+      <ref id="c66">
+        <label>66.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. T.</given-names>
+            <surname>Trinh</surname>
+          </string-name>, <string-name>
+            <given-names>X.</given-names>
+            <surname>Wu</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Niesner</surname>
+          </string-name>, and <string-name>
+            <given-names>X.-Y.</given-names>
+            <surname>Zhu</surname>
+          </string-name>, <source>J. Mater. Chem. A</source>
+          <volume><bold>3</bold></volume>, <fpage>9285</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1039/C5TA01093D</pub-id></mixed-citation>
+      </ref>
+      <ref id="c67">
+        <label>67.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>Z.</given-names>
+            <surname>Guo</surname>
+          </string-name>, <string-name>
+            <given-names>J. S.</given-names>
+            <surname>Manser</surname>
+          </string-name>, <string-name>
+            <given-names>Y.</given-names>
+            <surname>Wan</surname>
+          </string-name>, <string-name>
+            <given-names>P. V.</given-names>
+            <surname>Kamat</surname>
+          </string-name>, and <string-name>
+            <given-names>L.</given-names>
+            <surname>Huang</surname>
+          </string-name>, <source>Nat. Commun.</source>
+          <volume><bold>6</bold></volume>, <fpage>7471</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/ncomms8471</pub-id></mixed-citation>
+      </ref>
+      <ref id="c68">
+        <label>68.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J. S.</given-names>
+            <surname>Manser</surname>
+          </string-name> and <string-name>
+            <given-names>P. V.</given-names>
+            <surname>Kamat</surname>
+          </string-name>, <source>Nat. Photonics</source>
+          <volume><bold>8</bold></volume>, <fpage>737</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/nphoton.2014.171</pub-id></mixed-citation>
+      </ref>
+      <ref id="c69">
+        <label>69.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>M. B.</given-names>
+            <surname>Johnston</surname>
+          </string-name> and <string-name>
+            <given-names>L. M.</given-names>
+            <surname>Herz</surname>
+          </string-name>, <source>Acc. Chem. Res.</source>
+          <volume><bold>49</bold></volume>, <fpage>146</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.accounts.5b00411</pub-id></mixed-citation>
+      </ref>
+      <ref id="c70">
+        <label>70.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Kniepert</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Schubert</surname>
+          </string-name>, <string-name>
+            <given-names>J. C.</given-names>
+            <surname>Blakesley</surname>
+          </string-name>, and <string-name>
+            <given-names>D.</given-names>
+            <surname>Neher</surname>
+          </string-name>, <source>J. Phys. Chem. Lett.</source>
+          <volume><bold>2</bold></volume>, <fpage>700</fpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/jz200155b</pub-id></mixed-citation>
+      </ref>
+      <ref id="c71">
+        <label>71.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>C. G.</given-names>
+            <surname>Shuttle</surname>
+          </string-name>, <string-name>
+            <given-names>B.</given-names>
+            <surname>O'Regan</surname>
+          </string-name>, <string-name>
+            <given-names>A. M.</given-names>
+            <surname>Ballantyne</surname>
+          </string-name>, <string-name>
+            <given-names>J.</given-names>
+            <surname>Nelson</surname>
+          </string-name>, <string-name>
+            <given-names>D. D. C.</given-names>
+            <surname>Bradley</surname>
+          </string-name>, and <string-name>
+            <given-names>J. R.</given-names>
+            <surname>Durrant</surname>
+          </string-name>, <source>Phys. Rev. B</source>
+          <volume><bold>78</bold></volume>, <fpage>113201</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.78.113201</pub-id></mixed-citation>
+      </ref>
+      <ref id="c72">
+        <label>72.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>G.</given-names>
+            <surname>Juška</surname>
+          </string-name>, <string-name>
+            <given-names>K.</given-names>
+            <surname>Genevičius</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Nekrašas</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Sliaužys</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Dennler</surname>
+          </string-name>, <source>Appl. Phys. Lett.</source>
+          <volume><bold>93</bold></volume>, <fpage>143303</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.2996588</pub-id></mixed-citation>
+      </ref>
+      <ref id="c73">
+        <label>73.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>O. G.</given-names>
+            <surname>Reid</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Yang</surname>
+          </string-name>, <string-name>
+            <given-names>N.</given-names>
+            <surname>Kopidakis</surname>
+          </string-name>, <string-name>
+            <given-names>K.</given-names>
+            <surname>Zhu</surname>
+          </string-name>, and <string-name>
+            <given-names>G.</given-names>
+            <surname>Rumbles</surname>
+          </string-name>, <source>ACS Energy Lett.</source>
+          <volume><bold>1</bold></volume>, <fpage>561</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acsenergylett.6b00288</pub-id></mixed-citation>
+      </ref>
+      <ref id="c74">
+        <label>74.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>R. L.</given-names>
+            <surname>Milot</surname>
+          </string-name>, <string-name>
+            <given-names>R. J.</given-names>
+            <surname>Sutton</surname>
+          </string-name>, <string-name>
+            <given-names>G. E.</given-names>
+            <surname>Eperon</surname>
+          </string-name>, <string-name>
+            <given-names>A. A.</given-names>
+            <surname>Haghighirad</surname>
+          </string-name>, <string-name>
+            <given-names>J.</given-names>
+            <surname>Martinez Hardigree</surname>
+          </string-name>, <string-name>
+            <given-names>L.</given-names>
+            <surname>Miranda</surname>
+          </string-name>, <string-name>
+            <given-names>H. J.</given-names>
+            <surname>Snaith</surname>
+          </string-name>, <string-name>
+            <given-names>M. B.</given-names>
+            <surname>Johnston</surname>
+          </string-name>, and <string-name>
+            <given-names>L. M.</given-names>
+            <surname>Herz</surname>
+          </string-name>, <source>Nano Lett.</source>
+          <volume><bold>16</bold></volume>, <fpage>7001</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.nanolett.6b03114</pub-id></mixed-citation>
+      </ref>
+      <ref id="c75">
+        <label>75.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>I.</given-names>
+            <surname>Levine</surname>
+          </string-name>, <string-name>
+            <given-names>S.</given-names>
+            <surname>Gupta</surname>
+          </string-name>, <string-name>
+            <given-names>T. M.</given-names>
+            <surname>Brenner</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Azulay</surname>
+          </string-name>, <string-name>
+            <given-names>O.</given-names>
+            <surname>Millo</surname>
+          </string-name>, <string-name>
+            <given-names>G.</given-names>
+            <surname>Hodes</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Cahen</surname>
+          </string-name>, and <string-name>
+            <given-names>I.</given-names>
+            <surname>Balberg</surname>
+          </string-name>, <source>J. Phys. Chem. Lett.</source>
+          <volume><bold>7</bold></volume>, <fpage>5219</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acs.jpclett.6b02287</pub-id></mixed-citation>
+      </ref>
+      <ref id="c76">
+        <label>76.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>G.</given-names>
+            <surname>Horowitz</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Hajlaoui</surname>
+          </string-name>, <string-name>
+            <given-names>D.</given-names>
+            <surname>Fichou</surname>
+          </string-name>, and <string-name>
+            <given-names>A.</given-names>
+            <surname>El Kassmi</surname>
+          </string-name>, <source>J. Appl. Phys.</source>
+          <volume><bold>85</bold></volume>, <fpage>3202</fpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.369661</pub-id></mixed-citation>
+      </ref>
+      <ref id="c77">
+        <label>77.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>C. H.</given-names>
+            <surname>Swartz</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Edirisooriya</surname>
+          </string-name>, <string-name>
+            <given-names>E. G.</given-names>
+            <surname>LeBlanc</surname>
+          </string-name>, <string-name>
+            <given-names>O. C.</given-names>
+            <surname>Noriega</surname>
+          </string-name>, <string-name>
+            <given-names>P. A. R. D.</given-names>
+            <surname>Jayathilaka</surname>
+          </string-name>, <string-name>
+            <given-names>O. S.</given-names>
+            <surname>Ogedengbe</surname>
+          </string-name>, <string-name>
+            <given-names>B. L.</given-names>
+            <surname>Hancock</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Holtz</surname>
+          </string-name>, <string-name>
+            <given-names>T. H.</given-names>
+            <surname>Myers</surname>
+          </string-name>, and <string-name>
+            <given-names>K. N.</given-names>
+            <surname>Zaunbrecher</surname>
+          </string-name>, <source>Appl. Phys. Lett.</source>
+          <volume><bold>105</bold></volume>, <fpage>222107</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4902926</pub-id></mixed-citation>
+      </ref>
+      <ref id="c78">
+        <label>78.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Vaitkus</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Tomašũnas</surname>
+          </string-name>, <string-name>
+            <given-names>J.</given-names>
+            <surname>Kutra</surname>
+          </string-name>, <string-name>
+            <given-names>M.</given-names>
+            <surname>Petrauskas</surname>
+          </string-name>, <string-name>
+            <given-names>R.</given-names>
+            <surname>Rimkũnas</surname>
+          </string-name>, and <string-name>
+            <given-names>A.</given-names>
+            <surname>Žindulis</surname>
+          </string-name>, <source>J. Cryst. Growth</source>
+          <volume><bold>101</bold></volume>, <fpage>826</fpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0022-0248(90)91088-8</pub-id></mixed-citation>
+      </ref>
+      <ref id="c79">
+        <label>79.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>W.</given-names>
+            <surname>Gerlach</surname>
+          </string-name>, <string-name>
+            <given-names>H.</given-names>
+            <surname>Schlangenotto</surname>
+          </string-name>, and <string-name>
+            <given-names>H.</given-names>
+            <surname>Maeder</surname>
+          </string-name>, <source>Phys. Status Solidi A</source>
+          <volume><bold>13</bold></volume>, <fpage>277</fpage> (<year>1972</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/pssa.2210130129</pub-id></mixed-citation>
+      </ref>
+      <ref id="c80">
+        <label>80.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>E.</given-names>
+            <surname>Yablonovitch</surname>
+          </string-name> and <string-name>
+            <given-names>T.</given-names>
+            <surname>Gmitter</surname>
+          </string-name>, <source>Appl. Phys. Lett.</source>
+          <volume><bold>49</bold></volume>, <fpage>587</fpage> (<year>1986</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.97049</pub-id></mixed-citation>
+      </ref>
+      <ref id="c81">
+        <label>81.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Steiauf</surname>
+          </string-name>, <string-name>
+            <given-names>E.</given-names>
+            <surname>Kioupakis</surname>
+          </string-name>, and <string-name>
+            <given-names>C. G.</given-names>
+            <surname>Van de Walle</surname>
+          </string-name>, <source>ACS Photonics</source>
+          <volume><bold>1</bold></volume>, <fpage>643</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/ph500119q</pub-id></mixed-citation>
+      </ref>
+      <ref id="c82">
+        <label>82.</label>
+        <mixed-citation publication-type="journal">
+          <string-name>
+            <given-names>Y. P.</given-names>
+            <surname>Varshni</surname>
+          </string-name>, <source>Phys. Status Solidi B</source>
+          <volume><bold>19</bold></volume>, <fpage>459</fpage> (<year>1967</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/pssb.19670190202</pub-id></mixed-citation>
+      </ref>
+    </ref-list></back></article>

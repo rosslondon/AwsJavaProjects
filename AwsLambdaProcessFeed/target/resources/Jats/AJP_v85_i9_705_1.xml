@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="physics-education" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">AJPIAS</journal-id>
+<journal-title-group>
+<journal-title>American Journal of Physics</journal-title>
+<abbrev-journal-title>Am. J. Phys.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">0002-9505</issn>
+<issn pub-type="epub">1943-2909</issn>
+<publisher>
+<publisher-name>American Association of Physics Teachers</publisher-name>
+<publisher-name specific-use="short-name">AAPT</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1119/1.4991376</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4991376</article-id>
+<article-id pub-id-type="publisher-id:aipid">012708AJP</article-id>
+<article-id pub-id-type="manuscript">28940</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>PHYSICS EDUCATION RESEARCH</subject></subj-group></article-categories>
+<title-group>
+<article-title>Student understanding of electric and magnetic fields in materials</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Mitchem</surname>
+<given-names>Savannah L.</given-names></name><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<aff><institution>Department of Physics, Florida State University</institution>, Tallahassee, Florida 32306</aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Zohrabi Alaee</surname>
+<given-names>Dina</given-names></name><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<contrib contrib-type="author"><name><surname>Sayre</surname>
+<given-names>Eleanor C.</given-names></name><xref ref-type="author-note" rid="n2">b)</xref></contrib>
+<aff><institution>Department of Physics, Kansas State University</institution>, Manhattan, Kansas 66506</aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p>S. L. Mitchem and D. Z. Alaee contributed equally to the work of this manuscript and are listed alphabetically.</p></fn><fn id="n2">
+<label>b)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:esayre@ksu.edu">esayre@ksu.edu</ext-link></p></fn></author-notes>
+<pub-date pub-type="ppub"><month>09</month><year>2017</year></pub-date>
+<volume>85</volume><issue>9</issue><fpage seq="1">705</fpage><lpage>711</lpage>
+<history>
+<date date-type="received"><day>24</day><month>07</month><year>2016</year></date>
+<date date-type="accepted"><day>16</day><month>06</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 American Association of Physics Teachers.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>American Association of Physics Teachers</copyright-holder>
+<license license-type="ccc">
+<license-p>0002-9505/2017/85(9)/705/7/<price>$30.00</price></license-p>
+</license>
+</permissions><abstract>
+<p>We discuss the clusters of resources that emerge when upper-division students write about electromagnetic fields in linear materials. The data analyzed for this paper come from students' written tests in an upper-division electricity and magnetism course. We examine how these clusters change with time and context. The evidence shows that students benefit from activating resources related to the internal structure of the atom when thinking about electric fields and their effect on materials. We argue that facilitating activation of certain resources by the instructor in the classroom can affect the plasticity of those resources in the student, making them more solid and easily activated. We find that the wording of the questions posed to students affects which resources are activated, and that students often fill in resources to link known phenomena to phenomena described by the question when lacking detailed mental models.</p>
+</abstract>
+
+
+<counts>
+<page-count count="7"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>David P.</given-names> <surname>Maloney</surname>
+</string-name>, 
+<string-name>
+<given-names>Thomas L.</given-names> <surname>O'Kuma</surname>
+</string-name>, 
+<string-name>
+<given-names>Curtis J.</given-names> <surname>Hieggelke</surname>
+</string-name>, and 
+<string-name>
+<given-names>Alan</given-names> <surname>Van Heuvelen</surname>
+</string-name>, “
+<article-title>Surveying students' conceptual knowledge of electricity and magnetism</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>69</bold></volume>, <fpage>S12</fpage>–<lpage>S23</lpage> (<year>2001</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.1371296</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Chandralekha</given-names> <surname>Singh</surname>
+</string-name>, “
+<article-title>Student understanding of Symmetry and Gauss's law</article-title>,” in <source><italic>2004 PER Conference Proceedings - AIP Conference Proceedings 790</italic></source>, Physics Education Research Conferences, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Jeffrey</given-names> <surname>Marx</surname>
+</string-name>, 
+<string-name>
+<given-names>Paula</given-names> <surname>Heron</surname>
+</string-name>, and 
+<string-name>
+<given-names>Scott</given-names> <surname>Franklin</surname>
+</string-name></person-group>, American Association of Physics Teachers (
+<publisher-name>American Institute of Physics</publisher-name>, 
+<publisher-loc>Melville, NY, Sacramento, CA</publisher-loc>, <year>2005</year>), pp. <fpage>65</fpage>–<lpage>68</lpage>.</mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Lillian C.</given-names> <surname>Mcdermott</surname>
+</string-name> and 
+<string-name>
+<given-names>Edward F.</given-names> <surname>Redish</surname>
+</string-name>, “
+<article-title>Resource letter PER-1: Physics education research</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>67</bold></volume>, <fpage>755</fpage>–<lpage>767</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.19122</pub-id></mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Ruth</given-names> <surname>Chabay</surname>
+</string-name> and 
+<string-name>
+<given-names>Bruce</given-names> <surname>Sherwood</surname>
+</string-name>, “
+<article-title>Restructuring the introductory electricity and magnetism course</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>74</bold></volume>, <fpage>329</fpage>–<lpage>336</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2165249</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Corinne A.</given-names> <surname>Manogue</surname>
+</string-name>, 
+<string-name>
+<given-names>Kerry</given-names> <surname>Browne</surname>
+</string-name>, 
+<string-name>
+<given-names>Tevian</given-names> <surname>Dray</surname>
+</string-name>, and 
+<string-name>
+<given-names>Barbara</given-names> <surname>Edwards</surname>
+</string-name>, “
+<article-title>Why is Ampère's law so hard?</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>74</bold></volume>, <fpage>344</fpage>–<lpage>350</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2181179</pub-id></mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Joshua</given-names> <surname>Bilak</surname>
+</string-name> and 
+<string-name>
+<given-names>Chandralekha</given-names> <surname>Singh</surname>
+</string-name>, “
+<article-title>Improving students' conceptual understanding of conductors and insulators</article-title>,” in <source><italic>2007 PER Conference Proceedings - AIP Conference Proceedings 951</italic></source>, Physics Education Research Conferences, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Leon</given-names> <surname>Hsu</surname>
+</string-name>, 
+<string-name>
+<given-names>Charles</given-names> <surname>Henderson</surname>
+</string-name>, and 
+<string-name>
+<given-names>Laura</given-names> <surname>McCullough</surname>
+</string-name></person-group>, American Association of Physics Teachers (
+<publisher-name>American Institute of Physics</publisher-name>, 
+<publisher-loc>Melville, NY, Greensboro, NC</publisher-loc>, <year>2007</year>), pp. <fpage>49</fpage>–<lpage>52</lpage>.</mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Thomas J.</given-names> <surname>Bing</surname>
+</string-name> and 
+<string-name>
+<given-names>Edward F.</given-names> <surname>Redish</surname>
+</string-name>, “
+<article-title>The cognitive blending of mathematics and physics knowledge</article-title>,” in <source><italic>2006 PER Conference Proceedings - AIP Conference Proceedings 883</italic></source>, Physics Education Research Conferences, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Laura</given-names> <surname>McCullough</surname>
+</string-name>, 
+<string-name>
+<given-names>Leon</given-names> <surname>Hsu</surname>
+</string-name>, and 
+<string-name>
+<given-names>Paula</given-names> <surname>Heron</surname>
+</string-name></person-group>, American Association of Physics Teachers (
+<publisher-name>American Institute of Physics</publisher-name>, 
+<publisher-loc>Melville, NY, Syracuse, NY</publisher-loc>, <year>2007</year>), pp. <fpage>26</fpage>–<lpage>29</lpage>.</mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Rachel E.</given-names> <surname>Pepper</surname>
+</string-name>, 
+<string-name>
+<given-names>Stephanie V.</given-names> <surname>Chasteen</surname>
+</string-name>, 
+<string-name>
+<given-names>Steven J.</given-names> <surname>Pollock</surname>
+</string-name>, and 
+<string-name>
+<given-names>Katherine K.</given-names> <surname>Perkins</surname>
+</string-name>, “
+<article-title>Our best juniors still struggle with Gauss's Law: Characterizing their difficulties</article-title>,” in <source><italic>2010 PER Conference Proceedings - AIP Conference Proceedings 1289</italic></source>, Physics Education Research Conferences, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Chandralekha</given-names> <surname>Singh</surname>
+</string-name>, 
+<string-name>
+<given-names>N.</given-names> <surname>Sanjay Rebello</surname>
+</string-name>, and 
+<string-name>
+<given-names>Mel</given-names> <surname>Sabella</surname>
+</string-name></person-group>, American Association of Physics Teachers (
+<publisher-name>American Institute of Physics</publisher-name>, 
+<publisher-loc>Melville, NY, Portland, OR</publisher-loc>, <year>2010</year>), pp. <fpage>245</fpage>–<lpage>248</lpage>.</mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Adrienne</given-names> <surname>Traxler</surname>
+</string-name>, 
+<string-name>
+<given-names>Katrina E.</given-names> <surname>Black</surname>
+</string-name>, and 
+<string-name>
+<given-names>John R.</given-names> <surname>Thompson</surname>
+</string-name>, “
+<article-title>Students' use of symmetry with Gauss's law</article-title>,” in <source><italic>2006 PER Conference Proceedings - AIP Conference Proceedings 883</italic></source>, Physics Education Research Conferences, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Laura</given-names> <surname>McCullough</surname>
+</string-name>, 
+<string-name>
+<given-names>Leon</given-names> <surname>Hsu</surname>
+</string-name>, and 
+<string-name>
+<given-names>Paula</given-names> <surname>Heron</surname>
+</string-name></person-group>, American Association of Physics Teachers (
+<publisher-name>American Institute of Physics</publisher-name>, 
+<publisher-loc>Melville, NY, Syracuse, NY</publisher-loc>, <year>2007</year>), pp. <fpage>173</fpage>–<lpage>176</lpage>.</mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Colin S.</given-names> <surname>Wallace</surname>
+</string-name> and 
+<string-name>
+<given-names>Janelle M.</given-names> <surname>Bailey</surname>
+</string-name>, “
+<article-title>Do concept inventories actually measure anything?</article-title>,” <source>Astron. Educ. Rev.</source> 
+<volume><bold>9</bold></volume>, <fpage>010116</fpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.3847/AER2010024</pub-id></mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Charles</given-names> <surname>Baily</surname>
+</string-name>, 
+<string-name>
+<given-names>Michael</given-names> <surname>Dubson</surname>
+</string-name>, and 
+<string-name>
+<given-names>Steven J.</given-names> <surname>Pollock</surname>
+</string-name>, “
+<article-title>Research-based course materials and assessments for upper-division electrodynamics (E&amp;M II)</article-title>,” <source>AIP Conf. Proc.</source> 
+<volume><bold>1513</bold></volume>, <fpage>54</fpage>–<lpage>57</lpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4789650</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="confproc">
+<string-name>
+<given-names>Charles</given-names> <surname>Baily</surname>
+</string-name>, 
+<string-name>
+<given-names>Laurens</given-names> <surname>Bollen</surname>
+</string-name>, 
+<string-name>
+<given-names>Andrew</given-names> <surname>Pattie</surname>
+</string-name>, 
+<string-name>
+<given-names>Paul</given-names> <surname>Van Kampen</surname>
+</string-name>, 
+<string-name>
+<given-names>Mieke</given-names> <surname>De Cock</surname>
+</string-name>, 
+<string-name>
+<given-names>North</given-names> <surname>Haugh</surname>
+</string-name>, 
+<string-name>
+<given-names>St</given-names> <surname>Andrews</surname>
+</string-name>, 
+<string-name>
+<given-names>Fife K Y</given-names> <surname>Scotland</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>van Kampen</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names> <surname>De Cock</surname>
+</string-name>, “
+<article-title>Student thinking about the divergence and curl in mathematics and physics contexts</article-title>,” <conf-name><italic>2015 PERC Proceedings</italic></conf-name> (<year>2015</year>), pp. <fpage>3</fpage>–<lpage>6</lpage>.</mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Bethany R.</given-names> <surname>Wilcox</surname>
+</string-name> and 
+<string-name>
+<given-names>Steven J.</given-names> <surname>Pollock</surname>
+</string-name>, “
+<article-title>Coupled multiple-response versus free-response conceptual assessment: An example from upper-division physics</article-title>,” <source>Phys. Rev. Spec. Top. – Phys. Educ. Res.</source> 
+<volume><bold>10</bold></volume>, <fpage>020124</fpage> (<year>2014</year>); e-print arXiv:arXiv:1407.6310v2.<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevSTPER.10.020124</pub-id></mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Rachel E.</given-names> <surname>Pepper</surname>
+</string-name>, 
+<string-name>
+<given-names>Stephanie V.</given-names> <surname>Chasteen</surname>
+</string-name>, 
+<string-name>
+<given-names>Steven J.</given-names> <surname>Pollock</surname>
+</string-name>, and 
+<string-name>
+<given-names>Katherine K.</given-names> <surname>Perkins</surname>
+</string-name>, “
+<article-title>Observations of student difficulties with mathematics in upper-division electricity and magnetism</article-title>,” <source>Phys. Rev. Spec. Top. – Phys. Educ. Res.</source> 
+<volume><bold>8</bold></volume>, <fpage>010111</fpage> (pp. 1–15) (<year>2012</year>).</mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Eleanor C.</given-names> <surname>Sayre</surname>
+</string-name> and 
+<string-name>
+<given-names>Paul W.</given-names> <surname>Irving</surname>
+</string-name>, “
+<article-title>Brief, embedded, spontaneous metacognitive talk indicates thinking like a physicist</article-title>,” <source>Phys. Rev. Spec. Top. – Phys. Educ. Res.</source> 
+<volume><bold>020121</bold></volume>, <fpage>1</fpage>–<lpage>17</lpage> (<year>2015</year>)<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevSTPER.11.020121</pub-id>.</mixed-citation>
+</ref>
+<ref id="c16">
+<label>16.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Hai D.</given-names> <surname>Nguyen</surname>
+</string-name>, 
+<string-name>
+<given-names>Deepi N.</given-names> <surname>Chari</surname>
+</string-name>, 
+<string-name>
+<given-names>Dean A.</given-names> <surname>Zollman</surname>
+</string-name>, and 
+<string-name>
+<given-names>Eleanor C.</given-names> <surname>Sayre</surname>
+</string-name>, “
+<article-title>Dynamics of students' epistemological framing in group problem solving</article-title>,” <source>Eur. J. Phys.</source> 
+<volume><bold>37</bold></volume>, <fpage>1</fpage>–<lpage>9</lpage> (<year>2016</year>)<pub-id pub-id-type="doi" specific-use="metadata">10.1088/0143-0807/37/6/065706</pub-id>.</mixed-citation>
+</ref>
+<ref id="c17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>David</given-names> <surname>Hammer</surname>
+</string-name>, “
+<article-title>Student resources for learning introductory physics</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>68</bold></volume>, <fpage>S52</fpage>–<lpage>S59</lpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.19520</pub-id></mixed-citation>
+</ref>
+<ref id="c18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. A.</given-names> <surname>DiSessa</surname>
+</string-name>, “
+<article-title>Between brain and behavior: Response to marton</article-title>,” <source>Cogn. Instruct.</source> 
+<volume><bold>10</bold></volume>, <fpage>261</fpage>–<lpage>280</lpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/07370008.1985.9649012</pub-id></mixed-citation>
+</ref>
+<ref id="c19">
+<label>19.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Eleanor C.</given-names> <surname>Sayre</surname>
+</string-name> and 
+<string-name>
+<given-names>Michael C.</given-names> <surname>Wittmann</surname>
+</string-name>, “
+<article-title>Plasticity of intermediate mechanics students' coordinate system choice</article-title>,” <source>Phys. Rev. Spec. Top. – Phys. Educ. Res.</source> 
+<volume><bold>4</bold></volume>, <fpage>20105</fpage> (pp. 1–14) (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevSTPER.4.020105</pub-id></mixed-citation>
+</ref>
+<ref id="c20">
+<label>20.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Michael C.</given-names> <surname>Wittmann</surname>
+</string-name>, “
+<article-title>Using resource graphs to represent conceptual change</article-title>,” <source>Phys. Rev. Spec. Top. – Phys. Educ. Res.</source> 
+<volume><bold>2</bold></volume>, <fpage>20105</fpage> (pp. 1–17) (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevSTPER.2.020105</pub-id></mixed-citation>
+</ref>
+<ref id="c21">
+<label>21.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Eleanor C.</given-names> <surname>Sayre</surname>
+</string-name>, 
+<string-name>
+<given-names>Michael C.</given-names> <surname>Wittmann</surname>
+</string-name>, and 
+<string-name>
+<given-names>John R.</given-names> <surname>Thompson</surname>
+</string-name>, “
+<article-title>Resource selection in nearly-novel situations</article-title>,” in <source><italic>Physics Education Research Conference Proceedings 2003</italic></source>, Physics Education Research Conferences, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Jeffrey</given-names> <surname>Marx</surname>
+</string-name>, 
+<string-name>
+<given-names>Scott</given-names> <surname>Franklin</surname>
+</string-name>, and 
+<string-name>
+<given-names>Karen</given-names> <surname>Cummings</surname>
+</string-name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>New York, LLC, Secaucus, NJ</publisher-loc>, <year>2003</year>), pp. <fpage>101</fpage>–<lpage>104</lpage>.</mixed-citation>
+</ref>
+<ref id="c22">
+<label>22.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Michael C.</given-names> <surname>Wittmann</surname>
+</string-name> and 
+<string-name>
+<given-names>Katrina E.</given-names> <surname>Black</surname>
+</string-name>, “
+<article-title>Mathematical actions as procedural resources: An example from the separation of variables</article-title>,” <source>Phys. Rev. Spec. Top. – Phys. – Res.</source> 
+<volume><bold>11</bold></volume>, <fpage>020114</fpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevSTPER.11.020114</pub-id></mixed-citation>
+</ref>
+<ref id="c23">
+<label>23.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Katrina E.</given-names> <surname>Black</surname>
+</string-name> and 
+<string-name>
+<given-names>Michael C.</given-names> <surname>Wittmann</surname>
+</string-name>, “
+<article-title>Procedural resource creation in intermediate mechanics</article-title>,” in <source><italic>Physics Education Research Conference 2009</italic></source>, Physics Education Research Conferences, Vol. 1179, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Mel</given-names> <surname>Sabella</surname>
+</string-name>, 
+<string-name>
+<given-names>Chandralekha</given-names> <surname>Singh</surname>
+</string-name>, and 
+<string-name>
+<given-names>Charles</given-names> <surname>Henderson</surname>
+</string-name></person-group>, American Association of Physics Teachers (
+<publisher-name>American Institute of Physics</publisher-name>, 
+<publisher-loc>Melville, NY, Ann Arbor, MI</publisher-loc>, <year>2009</year>), pp. <fpage>97</fpage>–<lpage>100</lpage>.</mixed-citation>
+</ref>
+<ref id="c24">
+<label>24.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Elizabeth</given-names> <surname>Gire</surname>
+</string-name> and 
+<string-name>
+<given-names>Corinne A.</given-names> <surname>Manogue</surname>
+</string-name>, “
+<article-title>Resources students use to understand quantum mechanical operators</article-title>,” in <source><italic>2008 Physics Education Research Conference</italic></source>, AIP Conference Proceedings, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>Charles</given-names> <surname>Henderson</surname>
+</string-name>, 
+<string-name>
+<given-names>Mel</given-names> <surname>Sabella</surname>
+</string-name>, and 
+<string-name>
+<given-names>Leon</given-names> <surname>Hsu</surname>
+</string-name></person-group>, American Association of Physics Teachers (
+<publisher-name>American Institute of Physics</publisher-name>, 
+<publisher-loc>Melville, NY, Edmonton, Canada</publisher-loc>, <year>2008</year>), pp. <fpage>115</fpage>–<lpage>118</lpage>.</mixed-citation>
+</ref>
+<ref id="c25">
+<label>25.</label>
+<mixed-citation publication-type="confproc">
+<string-name>
+<given-names>Bahar</given-names> <surname>Modir</surname>
+</string-name> and 
+<string-name>
+<given-names>Eleanor C.</given-names> <surname>Sayre</surname>
+</string-name>, “
+<article-title>‘Pulling out’ as a procedural resource when solving partial differential equations</article-title>,” in <conf-name>Proceedings of the 2016 Physics Education Research Conference</conf-name> (<year>2016</year>).</mixed-citation>
+</ref>
+<ref id="c26">
+<label>26.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>David</given-names> <surname>Hammer</surname>
+</string-name> and 
+<string-name>
+<given-names>Andrew</given-names> <surname>Elby</surname>
+</string-name>, “
+<article-title>Tapping epistemological resources for learning physics</article-title>,” <source>J. Learn. Sci.</source> 
+<volume><bold>12</bold></volume>, <fpage>53</fpage>–<lpage>90</lpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1207/S15327809JLS1201_3</pub-id></mixed-citation>
+</ref>
+<ref id="c27">
+<label>27.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Tarciso Borges</surname>
+</string-name> and 
+<string-name>
+<given-names>John K.</given-names> <surname>Gilbert</surname>
+</string-name>, “
+<article-title>Mental models of electricity</article-title>,” <source>Int. J. Sci. Educ.</source> 
+<volume><bold>21</bold></volume>, <fpage>95</fpage>–<lpage>117</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/095006999290859</pub-id></mixed-citation>
+</ref>
+<ref id="c28">
+<label>28.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Tarciso Borges</surname>
+</string-name>, 
+<string-name>
+<given-names>Colegio</given-names> <surname>Tecnico</surname>
+</string-name>, and 
+<string-name>
+<given-names>John K.</given-names> <surname>Gilbert</surname>
+</string-name>, “
+<article-title>Models of magnetism</article-title>,” <source>Int. J. Sci. Educ.</source> 
+<volume><bold>20</bold></volume>, <fpage>361</fpage>–<lpage>378</lpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/0950069980200308</pub-id></mixed-citation>
+</ref>
+<ref id="c29">
+<label>29.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>David J.</given-names> <surname>Griffiths</surname>
+</string-name>, <source><italic>Introduction to Electrodynamics</italic></source>, Vol. 93 (
+<publisher-name>Prentice Hall</publisher-name>, 
+<publisher-loc>NJ</publisher-loc>, <year>1999</year>), p. <fpage>95</fpage>.</mixed-citation>
+</ref>
+<ref id="c30">
+<label>30.</label>
+<mixed-citation publication-type="other">All student names are pseudonyms.</mixed-citation>
+</ref>
+<ref id="c31">
+<label>31.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Andrew F.</given-names> <surname>Heckler</surname>
+</string-name> and 
+<string-name>
+<given-names>Eleanor C.</given-names> <surname>Sayre</surname>
+</string-name>, “
+<article-title>What happens between pre- and post-tests: Multiple measurements of student understanding during an introductory physics course</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>78</bold></volume>, <fpage>768</fpage>–<lpage>777</lpage> (<year>2010</year>).</mixed-citation>
+</ref>
+<ref id="c32">
+<label>32.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Eleanor C.</given-names> <surname>Sayre</surname>
+</string-name> and 
+<string-name>
+<given-names>Andrew F.</given-names> <surname>Heckler</surname>
+</string-name>, “
+<article-title>Peaks and decays of student knowledge in an introductory E&amp;M course</article-title>,” <source>Phys. Rev. ST Phys. Educ. Res.</source> 
+<volume><bold>5</bold></volume>, <fpage>13101</fpage> (pp. 1–5) (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevSTPER.5.013101</pub-id></mixed-citation>
+</ref>
+<ref id="c33">
+<label>33.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Thomas</given-names> <surname>Scaife</surname>
+</string-name> and 
+<string-name>
+<given-names>Andrew</given-names> <surname>Heckler</surname>
+</string-name>, “
+<article-title>Interference between electric and magnetic concepts in introductory physics</article-title>,” <source>Phys. Rev. Spec. Top. – Phys. Educ. Res.</source> 
+<volume><bold>7</bold></volume>, <fpage>1</fpage>–<lpage>11</lpage> (<year>2011</year>).</mixed-citation>
+</ref>
+<ref id="c34">
+<label>34.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Rosemary S.</given-names> <surname>Russ</surname>
+</string-name>, 
+<string-name>
+<given-names>Rachel E.</given-names> <surname>Scherr</surname>
+</string-name>, 
+<string-name>
+<given-names>David</given-names> <surname>Hammer</surname>
+</string-name>, and 
+<string-name>
+<given-names>Jamie</given-names> <surname>Mikeska</surname>
+</string-name>, “
+<article-title>Recognizing mechanistic reasoning in student scientific inquiry: A framework for discourse analysis developed from philosophy of science</article-title>,” <source>Sci. Educ.</source> 
+<volume><bold>92</bold></volume>, <fpage>499</fpage>–<lpage>525</lpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/sce.20264</pub-id></mixed-citation>
+</ref></ref-list></back></article>

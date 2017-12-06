@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">LTPHEG</journal-id>
+<journal-title-group>
+<journal-title>Low Temperature Physics</journal-title>
+<abbrev-journal-title>Low Temp. Phys.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">1063-777X</issn>
+<issn pub-type="epub">1090-6517</issn>
+<publisher>
+<publisher-name>AIP Publishing LLC</publisher-name>
+<publisher-name specific-use="short-name">AIP Publishing</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1063/1.5001294</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.5001294</article-id>
+<article-id pub-id-type="publisher-id:aipid">029709LTP</article-id>
+<article-id pub-id-type="manuscript">LTP-17-114AUG</article-id>
+<title-group>
+<article-title>Generic features of the primary relaxation in glass-forming materials (Review Article)</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Kokshenev</surname>
+<given-names>Valery B.</given-names></name><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<aff><institution>Departamento de Fisica, Universidade Federal de Minas Gerais, Instituto de Ciências Exatas</institution>, Caixa Postal 702, CEP 30123-970 Belo Horizonte, <country>Brazil</country></aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p>E-mail: <ext-link ext-link-type="email" xlink:href="mailto:valery.kokshenev@gmail.com">valery.kokshenev@gmail.com</ext-link></p></fn></author-notes>
+<pub-date pub-type="ppub"><month>08</month><year>2017</year></pub-date>
+<volume>43</volume><issue>8</issue><fpage seq="1">942</fpage><lpage>954</lpage>
+<history>
+<date date-type="received"><day>02</day><month>01</month><year>2017</year></date>
+<date date-type="accepted"><day>23</day><month>08</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-year>2017</copyright-year>
+<copyright-holder>Author(s)</copyright-holder>
+<license license-type="licensed-commercial-use">
+<license-p>Published by AIP Publishing.</license-p>
+</license>
+<license license-type="ccc">
+<license-p>1063-777X/2017/43(8)/13/<price>$32.00</price></license-p>
+</license>
+</permissions><related-article related-article-type="translation-source" specific-use="metadata"><source>Fiz. Nizk. Temp.</source> 
+<volume>43</volume>, <fpage seq="1">1174</fpage>–<lpage>1188</lpage> (<string-date>August 2017</string-date>)</related-article><abstract>
+<p>We discuss structural relaxation in molecular and polymeric supercooled liquids, metallic alloys and orientational glass crystals. The study stresses especially the relationships between observables raised from underlying constraints imposed on degrees of freedom of vitrification systems. A self-consistent parametrization of the α-timescale on macroscopic level results in the material-and-model independent universal equation, relating three fundamental temperatures, characteristic of the primary relaxation, that is numerically proven in all studied glass formers. During the primary relaxation, the corresponding small and large mesoscopic clusters modify their size and structure in a self-similar way, regardless of underlying microscopic realizations. We show that cluster-shape similarity, instead of cluster-size fictive divergence, gives rise to universal features observed in primary relaxation. In all glass formers with structural disorder, including orientational-glass materials (with the exception of plastic crystals), structural relaxation is shown to be driven by local random fields. Within the dynamic stochastic approach, the universal subdiffusive dynamics corresponds to random walks on small and large fractals.</p>
+</abstract>
+
+
+
+<counts>
+<page-count count="13"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta><notes notes-type="translation-note">
+<p>This article was published in English in the original Russian journal. Reproduced here with stylistic changes by AIP Publishing.</p></notes>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P. G.</given-names> <surname>Debenedetti</surname>
+</string-name> and 
+<string-name>
+<given-names>F. H.</given-names> <surname>Stillinger</surname>
+</string-name>, <source>Nature</source> 
+<volume><bold>410</bold></volume>, <fpage>259</fpage> (<year>2001</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/35065704</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, 
+<string-name>
+<given-names>K. L.</given-names> <surname>Ngai</surname>
+</string-name>, 
+<string-name>
+<given-names>G. B.</given-names> <surname>McKenna</surname>
+</string-name>, 
+<string-name>
+<given-names>P. F.</given-names> <surname>McMillan</surname>
+</string-name>, and 
+<string-name>
+<given-names>S. W.</given-names> <surname>Martin</surname>
+</string-name>, <source>J. Appl. Phys.</source> 
+<volume><bold>88</bold></volume>, <fpage>3113</fpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1286035</pub-id></mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W.</given-names> <surname>Götze</surname>
+</string-name> and 
+<string-name>
+<given-names>L.</given-names> <surname>Sjögen</surname>
+</string-name>, <source>Rep. Prog. Phys.</source> 
+<volume><bold>55</bold></volume>, <fpage>241</fpage> (<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1088/0034-4885/55/3/001</pub-id></mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names> <surname>Binder</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Baschnagel</surname>
+</string-name>, and 
+<string-name>
+<given-names>W.</given-names> <surname>Paul</surname>
+</string-name>, <source>Prog. Polym. Sci.</source> 
+<volume><bold>28</bold></volume>, <fpage>115</fpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0079-6700(02)00030-8</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>K. L.</given-names> <surname>Ngai</surname>
+</string-name>, 
+<string-name>
+<given-names>R. W.</given-names> <surname>Rendell</surname>
+</string-name>, and 
+<string-name>
+<given-names>D. J.</given-names> <surname>Plazek</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>94</bold></volume>, <fpage>3018</fpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.459825</pub-id></mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>K. L.</given-names> <surname>Ngai</surname>
+</string-name>, in <source><italic>Disorder Effects on Relaxation Processes: Glasses, Polymers</italic>, <italic>Proteins</italic></source>, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name> and 
+<string-name>
+<given-names>A.</given-names> <surname>Blumen</surname>
+</string-name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>Berlin</publisher-loc>, <year>1994</year>).</mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>J.</given-names> <surname>Jäckle</surname>
+</string-name>, in <source><italic>Disorder Effects on Relaxation Processes: Glasses, Polymers</italic>, <italic>Proteins</italic></source>, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name> and 
+<string-name>
+<given-names>A.</given-names> <surname>Blumen</surname>
+</string-name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>Berlin</publisher-loc>, <year>1994</year>).</mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Hunt</surname>
+</string-name>, <source>J. Phys.: Condens. Matter</source> 
+<volume><bold>6</bold></volume>, <fpage>8087</fpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1088/0953-8984/6/39/027</pub-id></mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. V.</given-names> <surname>Chamberlin</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>48</bold></volume>, <fpage>15638</fpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.48.15638</pub-id></mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. V.</given-names> <surname>Chamberlin</surname>
+</string-name>, <source>Europhys. Lett.</source> 
+<volume><bold>33</bold></volume>, <fpage>545</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1209/epl/i1996-00376-7</pub-id></mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. C.</given-names> <surname>Phillips</surname>
+</string-name>, <source>Rep. Prog. Phys.</source> 
+<volume><bold>59</bold></volume>, <fpage>1133</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1088/0034-4885/59/9/003</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. T.</given-names> <surname>Bendler</surname>
+</string-name>, 
+<string-name>
+<given-names>J. J.</given-names> <surname>Fontanella</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. F.</given-names> <surname>Shlesinger</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>87</bold></volume>, <fpage>19</fpage> (<year>2001</year>).</mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation id="c13a" publication-type="journal">
+<string-name>
+<given-names>A. S.</given-names> <surname>Bakai</surname>
+</string-name>, <source>Fiz. Nizk. Temp.</source> 
+<volume><bold>20</bold></volume>, <fpage>469</fpage>, 477 (<year>1994</year>)</mixed-citation>
+<mixed-citation id="c13b" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>A. S.</given-names> <surname>Bakai</surname>
+</string-name></person-group>, [<source>Low Temp. Phys.</source> 
+<volume><bold>20</bold></volume>, <fpage>373</fpage>, 379 (<year>1994</year>)].</mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation id="c14a" publication-type="journal">
+<string-name>
+<given-names>A. S.</given-names> <surname>Bakai</surname>
+</string-name>, <source>Fiz. Nizk. Temp.</source> 
+<volume><bold>22</bold></volume>, <fpage>956</fpage> (<year>1996</year>)</mixed-citation>
+<mixed-citation id="c14b" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>A. S.</given-names> <surname>Bakai</surname>
+</string-name></person-group>, [<source>Low Temp. Phys.</source> 
+<volume><bold>22</bold></volume>, <fpage>733</fpage> (<year>1996</year>)];</mixed-citation>
+<mixed-citation id="c14c" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>A. S.</given-names> <surname>Bakai</surname>
+</string-name></person-group>, <source content-type="ibid" specific-use="web-only">Fiz. Nizk. Temp.</source> 
+<volume><bold>24</bold></volume>, <fpage>27</fpage> (<year>1998</year>)</mixed-citation>
+<mixed-citation id="c14d" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>A. S.</given-names> <surname>Bakai</surname>
+</string-name></person-group>, <source specific-use="web-only">Fiz. Nizk. Temp.</source> [
+<volume><bold>24</bold></volume>, <fpage>20</fpage> (<year>1998</year>)].</mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. S.</given-names> <surname>Bakai</surname>
+</string-name> and 
+<string-name>
+<given-names>E. W.</given-names> <surname>Fischer</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>120</bold></volume>, <fpage>5235</fpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1648300</pub-id></mixed-citation>
+</ref>
+<ref id="c16">
+<label>16.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Solid State Commun.</source> 
+<volume><bold>119</bold></volume>, <fpage>429</fpage> (<year>2001</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0038-1098(01)00270-8</pub-id></mixed-citation>
+</ref>
+<ref id="c17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, 
+<string-name>
+<given-names>P. D.</given-names> <surname>Borges</surname>
+</string-name>, and 
+<string-name>
+<given-names>N. S.</given-names> <surname>Sullivan</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>122</bold></volume>, <fpage>114510</fpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1855877</pub-id></mixed-citation>
+</ref>
+<ref id="c18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Phys. Rev. E</source> 
+<volume><bold>57</bold></volume>, <fpage>1187</fpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.57.1187</pub-id></mixed-citation>
+</ref>
+<ref id="c19">
+<label>19.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. H.</given-names> <surname>Gibbs</surname>
+</string-name> and 
+<string-name>
+<given-names>G.</given-names> <surname>Adam</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>43</bold></volume>, <fpage>139</fpage> (<year>1965</year>).</mixed-citation>
+</ref>
+<ref id="c20">
+<label>20.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W.</given-names> <surname>Kauzmann</surname>
+</string-name>, <source>Chem. Rev.</source> 
+<volume><bold>43</bold></volume>, <fpage>219</fpage> (<year>1948</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/cr60135a002</pub-id></mixed-citation>
+</ref>
+<ref id="c21">
+<label>21.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name> and 
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>108</bold></volume>, <fpage>9016</fpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.476348</pub-id></mixed-citation>
+</ref>
+<ref id="c22">
+<label>22.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>J. Non-Cryst. Solids</source> 
+<volume><bold>131–133</bold></volume>, <fpage>13</fpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0022-3093(91)90266-9</pub-id></mixed-citation>
+</ref>
+<ref id="c23">
+<label>23.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Wolfgardt</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Baschnagel</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names> <surname>Paul</surname>
+</string-name>, and 
+<string-name>
+<given-names>K.</given-names> <surname>Binder</surname>
+</string-name>, <source>Phys. Rev. E</source> 
+<volume><bold>54</bold></volume>, <fpage>1535</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.54.1535</pub-id></mixed-citation>
+</ref>
+<ref id="c24">
+<label>24.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>Physica D</source> 
+<volume><bold>107</bold></volume>, <fpage>122</fpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0167-2789(97)00077-8</pub-id></mixed-citation>
+</ref>
+<ref id="c25">
+<label>25.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>T.</given-names> <surname>Odagaki</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>75</bold></volume>, <fpage>37</fpage> (<year>1995</year>).</mixed-citation>
+</ref>
+<ref id="c26">
+<label>26.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>U.</given-names> <surname>Mohanty</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Diezemann</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. T.</given-names> <surname>Fourkas</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>113</bold></volume>, <fpage>3719</fpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1287736</pub-id></mixed-citation>
+</ref>
+<ref id="c27">
+<label>27.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. N.</given-names> <surname>Novikov</surname>
+</string-name> and 
+<string-name>
+<given-names>A. P.</given-names> <surname>Sokolov</surname>
+</string-name>, <source>Phys. Rev. E</source> 
+<volume><bold>67</bold></volume>, <fpage>031507</fpage>–<lpage>1</lpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.67.031507</pub-id></mixed-citation>
+</ref>
+<ref id="c28">
+<label>28.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Goldstein</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>51</bold></volume>, <fpage>3728</fpage> (<year>1969</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1672587</pub-id></mixed-citation>
+</ref>
+<ref id="c29">
+<label>29.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Rössler</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>65</bold></volume>, <fpage>1595</fpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.65.1595</pub-id></mixed-citation>
+</ref>
+<ref id="c30">
+<label>30.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names> <surname>Hansen</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names> <surname>Stickel</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Berger</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name>, and 
+<string-name>
+<given-names>E. W.</given-names> <surname>Ficher</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>107</bold></volume>, <fpage>1086</fpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.474456</pub-id></mixed-citation>
+</ref>
+<ref id="c31">
+<label>31.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>R.</given-names> <surname>Schilling</surname>
+</string-name>, in <source><italic>Disorder Effects on Relaxation Processes: Glasses, Polymers, Proteins</italic></source>, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name> and 
+<string-name>
+<given-names>A.</given-names> <surname>Blumen</surname>
+</string-name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>Berlin</publisher-loc>, <year>1994</year>).</mixed-citation>
+</ref>
+<ref id="c32">
+<label>32.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Stickel</surname>
+</string-name>, 
+<string-name>
+<given-names>E. W.</given-names> <surname>Fischer</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>102</bold></volume>, <fpage>6251</fpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.469071</pub-id></mixed-citation>
+</ref>
+<ref id="c33">
+<label>33.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F.</given-names> <surname>Stickel</surname>
+</string-name>, 
+<string-name>
+<given-names>E. W.</given-names> <surname>Fischer</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>104</bold></volume>, <fpage>2043</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.470961</pub-id></mixed-citation>
+</ref>
+<ref id="c34">
+<label>34.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>E.</given-names> <surname>Rössler</surname>
+</string-name> and 
+<string-name>
+<given-names>A. P.</given-names> <surname>Sokolov</surname>
+</string-name>, <source>Chem. Geol.</source> 
+<volume><bold>128</bold></volume>, <fpage>143</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0009-2541(95)00169-7</pub-id></mixed-citation>
+</ref>
+<ref id="c35">
+<label>35.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>49</bold></volume>, <fpage>863</fpage> (<year>1988</year>).</mixed-citation>
+</ref>
+<ref id="c36">
+<label>36.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>Science</source> 
+<volume><bold>267</bold></volume>, <fpage>1924</fpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.267.5206.1924</pub-id></mixed-citation>
+</ref>
+<ref id="c37">
+<label>37.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. P.</given-names> <surname>Sokolov</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names> <surname>Steffen</surname>
+</string-name>, and 
+<string-name>
+<given-names>E.</given-names> <surname>Rössler</surname>
+</string-name>, <source>J. Phys.: Condens. Matter</source> 
+<volume><bold>8</bold></volume>, <fpage>9587</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1088/0953-8984/8/47/067</pub-id></mixed-citation>
+</ref>
+<ref id="c38">
+<label>38.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Fuchs</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names> <surname>Götze</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Hidebrand</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Latz</surname>
+</string-name>, <source>J. Phys.: Condens. Matter</source> 
+<volume><bold>4</bold></volume>, <fpage>7707</fpage> (<year>1992</year>).</mixed-citation>
+</ref>
+<ref id="c39">
+<label>39.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. T.</given-names> <surname>Bendler</surname>
+</string-name> and 
+<string-name>
+<given-names>M. F.</given-names> <surname>Shlesinger</surname>
+</string-name>, <source>J. Stat. Phys.</source> 
+<volume><bold>53</bold></volume>, <fpage>531</fpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/BF01011571</pub-id></mixed-citation>
+</ref>
+<ref id="c40">
+<label>40.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Souletie</surname>
+</string-name>, <source>J. Phys. Fr.</source> 
+<volume><bold>51</bold></volume>, <fpage>883</fpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1051/jphys:01990005109088300</pub-id></mixed-citation>
+</ref>
+<ref id="c41">
+<label>41.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. V.</given-names> <surname>Chamberlin</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>82</bold></volume>, <fpage>2520</fpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.82.2520</pub-id></mixed-citation>
+</ref>
+<ref id="c42">
+<label>42.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Mézard</surname>
+</string-name> and 
+<string-name>
+<given-names>G.</given-names> <surname>Parisi</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>82</bold></volume>, <fpage>747</fpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.82.747</pub-id></mixed-citation>
+</ref>
+<ref id="c43">
+<label>43.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name> and 
+<string-name>
+<given-names>N. S.</given-names> <surname>Sullivan</surname>
+</string-name>, <source>J. Low Temp. Phys.</source> 
+<volume><bold>122</bold></volume>, <fpage>413</fpage> (<year>2001</year>).</mixed-citation>
+</ref>
+<ref id="c44">
+<label>44.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. H.</given-names> <surname>Colby</surname>
+</string-name>, <source>Phys. Rev. E</source> 
+<volume><bold>61</bold></volume>, <fpage>1783</fpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.61.1783</pub-id></mixed-citation>
+</ref>
+<ref id="c45">
+<label>45.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Kivelson</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Tarjus</surname>
+</string-name>, 
+<string-name>
+<given-names>X.</given-names> <surname>Zhao</surname>
+</string-name>, and 
+<string-name>
+<given-names>S. A.</given-names> <surname>Kivelson</surname>
+</string-name>, <source>Phys. Rev. E</source> 
+<volume><bold>53</bold></volume>, <fpage>751</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.53.751</pub-id></mixed-citation>
+</ref>
+<ref id="c46">
+<label>46.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, in <source><italic>Atomic and Molecular Cluster Research</italic></source>, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>F.</given-names> <surname>Columbus</surname>
+</string-name></person-group> (
+<publisher-name>Nova Science Publishers Inc</publisher-name>., 
+<publisher-loc>NY</publisher-loc>, <year>2006</year>).</mixed-citation>
+</ref>
+<ref id="c47">
+<label>47.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Physica A</source> 
+<volume><bold>262</bold></volume>, <fpage>88</fpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0378-4371(98)00411-7</pub-id></mixed-citation>
+</ref>
+<ref id="c48">
+<label>48.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Böhmer</surname>
+</string-name> and 
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>48</bold></volume>, <fpage>5857</fpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.48.5857</pub-id></mixed-citation>
+</ref>
+<ref id="c49">
+<label>49.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Böhmer</surname>
+</string-name>, 
+<string-name>
+<given-names>K. L.</given-names> <surname>Ngai</surname>
+</string-name>, 
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, and 
+<string-name>
+<given-names>D. J.</given-names> <surname>Plazek</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>99</bold></volume>, <fpage>4201</fpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.466117</pub-id></mixed-citation>
+</ref>
+<ref id="c50">
+<label>50.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Tatsumisago</surname>
+</string-name>, 
+<string-name>
+<given-names>B. L.</given-names> <surname>Halfpap</surname>
+</string-name>, 
+<string-name>
+<given-names>J. L.</given-names> <surname>Green</surname>
+</string-name>, 
+<string-name>
+<given-names>S. M.</given-names> <surname>Lindsay</surname>
+</string-name>, and 
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>64</bold></volume>, <fpage>1549</fpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.64.1549</pub-id></mixed-citation>
+</ref>
+<ref id="c51">
+<label>51.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Böhmer</surname>
+</string-name> and 
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>45</bold></volume>, <fpage>10091</fpage> (<year>1992</year>).</mixed-citation>
+</ref>
+<ref id="c52">
+<label>52.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y.</given-names> <surname>Zhao</surname>
+</string-name>, 
+<string-name>
+<given-names>X.</given-names> <surname>Bian</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Yin</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Zhou</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Zhang</surname>
+</string-name>, and 
+<string-name>
+<given-names>X.</given-names> <surname>Hou</surname>
+</string-name>, <source>Physica B</source> 
+<volume><bold>349</bold></volume>, <fpage>327</fpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.physb.2004.04.044</pub-id></mixed-citation>
+</ref>
+<ref id="c53">
+<label>53.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. V.</given-names> <surname>Chamberlin</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Böhmer</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>Sanchez</surname>
+</string-name>, and 
+<string-name>
+<given-names>C. A.</given-names> <surname>Angell</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>46</bold></volume>, <fpage>5787</fpage> (<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.46.5787</pub-id></mixed-citation>
+</ref>
+<ref id="c54">
+<label>54.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Gerardin</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Mohanty</surname>
+</string-name>, and 
+<string-name>
+<given-names>U.</given-names> <surname>Mohanty</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>119</bold></volume>, <fpage>4473</fpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1593019</pub-id></mixed-citation>
+</ref>
+<ref id="c55">
+<label>55.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. N.</given-names> <surname>Novikov</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>Rössler</surname>
+</string-name>, 
+<string-name>
+<given-names>V. K.</given-names> <surname>Malinovsky</surname>
+</string-name>, and 
+<string-name>
+<given-names>N. V.</given-names> <surname>Surovtsev</surname>
+</string-name>, <source>Europhys. Lett.</source> 
+<volume><bold>35</bold></volume>, <fpage>289</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1209/epl/i1996-00568-7</pub-id></mixed-citation>
+</ref>
+<ref id="c56">
+<label>56.</label>
+<mixed-citation id="c56a" publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Fiz. Nizk. Temp.</source> 
+<volume><bold>33</bold></volume>, <fpage>805</fpage> (<year>2007</year>)</mixed-citation>
+<mixed-citation id="c56b" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name></person-group>, [<source>Low Temp. Phys.</source> 
+<volume><bold>33</bold></volume>, <fpage>617</fpage> (<year>2007</year>).</mixed-citation>
+</ref>
+<ref id="c57">
+<label>57.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B. I.</given-names> <surname>Halperin</surname>
+</string-name> and 
+<string-name>
+<given-names>P. C.</given-names> <surname>Hohenberg</surname>
+</string-name>, <source>Phys. Rev.</source> 
+<volume><bold>117</bold></volume>, <fpage>952</fpage> (<year>1969</year>).</mixed-citation>
+</ref>
+<ref id="c58">
+<label>58.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>H. E.</given-names> <surname>Stanley</surname>
+</string-name>, in <source><italic>Scaling Phenomena in Disordered Systems</italic></source>, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>R.</given-names> <surname>Pynn</surname>
+</string-name> and 
+<string-name>
+<given-names>A.</given-names> <surname>Skjeltorp</surname>
+</string-name></person-group> (
+<publisher-name>Plenum Press</publisher-name>, 
+<publisher-loc>New York/London</publisher-loc>, <year>1985</year>).</mixed-citation>
+</ref>
+<ref id="c59">
+<label>59.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. J.</given-names> <surname>Bray</surname>
+</string-name>, <source>Adv. Phys.</source> 
+<volume><bold>43</bold></volume>, <fpage>357</fpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/00018739400101505</pub-id></mixed-citation>
+</ref>
+<ref id="c60">
+<label>60.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P. K.</given-names> <surname>Dixon</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Wu</surname>
+</string-name>, 
+<string-name>
+<given-names>S. R.</given-names> <surname>Nagel</surname>
+</string-name>, 
+<string-name>
+<given-names>B. D.</given-names> <surname>Williams</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. P.</given-names> <surname>Carini</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>65</bold></volume>, <fpage>1108</fpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.65.1108</pub-id></mixed-citation>
+</ref>
+<ref id="c61">
+<label>61.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>D.</given-names> <surname>Stauffer</surname>
+</string-name> and 
+<string-name>
+<given-names>A.</given-names> <surname>Aharony</surname>
+</string-name>, <source><italic>Introduction to Percolation Theory</italic></source> (
+<publisher-name>Taylor and Francis</publisher-name>, 
+<publisher-loc>London</publisher-loc>, <year>1992</year>).</mixed-citation>
+</ref>
+<ref id="c62">
+<label>62.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. B.</given-names> <surname>Isichenko</surname>
+</string-name>, <source>Rev. Mod. Phys.</source> 
+<volume><bold>64</bold></volume>, <fpage>961</fpage>(<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/RevModPhys.64.961</pub-id></mixed-citation>
+</ref>
+<ref id="c63">
+<label>63.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>G.</given-names> <surname>Zumofen</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Klafter</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Blumen</surname>
+</string-name>, in <source><italic>Disorder Effects on Relaxation Processes: Glasses, Polymers, Proteins</italic></source>, edited <person-group person-group-type="editor">
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name> and 
+<string-name>
+<given-names>A.</given-names> <surname>Blumen</surname>
+</string-name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>Berlin</publisher-loc>, <year>1994</year>).</mixed-citation>
+</ref>
+<ref id="c64">
+<label>64.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. E.</given-names> <surname>Fisher</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>44</bold></volume>, <fpage>616</fpage> (<year>1966</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1726734</pub-id></mixed-citation>
+</ref>
+<ref id="c65">
+<label>65.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name> and 
+<string-name>
+<given-names>N. S.</given-names> <surname>Sullivan</surname>
+</string-name>, <source>Phys. Lett. A</source> 
+<volume><bold>208</bold></volume>, <fpage>97</fpage> (<year>2001</year>).</mixed-citation>
+</ref>
+<ref id="c66">
+<label>66.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Colmenero</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Alegria</surname>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Arbe</surname>
+</string-name>, and 
+<string-name>
+<given-names>B.</given-names> <surname>Frick</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>69</bold></volume>, <fpage>478</fpage> (<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.69.478</pub-id></mixed-citation>
+</ref>
+<ref id="c67">
+<label>67.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Colmenero</surname>
+</string-name>, <source>Physica A</source> 
+<volume><bold>201</bold></volume>, <fpage>38</fpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0378-4371(93)90398-N</pub-id></mixed-citation>
+</ref>
+<ref id="c68">
+<label>68.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. T.</given-names> <surname>Bendler</surname>
+</string-name>, 
+<string-name>
+<given-names>J. J.</given-names> <surname>Fontanella</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. F.</given-names> <surname>Shlesinger</surname>
+</string-name>, <source>Chem. Phys.</source> 
+<volume><bold>284</bold></volume>, <fpage>311</fpage> (<year>2002</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0301-0104(02)00554-2</pub-id></mixed-citation>
+</ref>
+<ref id="c69">
+<label>69.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Alexander</surname>
+</string-name> and 
+<string-name>
+<given-names>R.</given-names> <surname>Orbach</surname>
+</string-name>, <source>J. Phys. Lett.</source> 
+<volume><bold>43</bold></volume>, <fpage>625</fpage> (<year>1982</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1051/jphyslet:019820043017062500</pub-id></mixed-citation>
+</ref>
+<ref id="c70">
+<label>70.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R. M. C.</given-names> <surname>Almeida</surname>
+</string-name>, 
+<string-name>
+<given-names>N.</given-names> <surname>Lemke</surname>
+</string-name>, and 
+<string-name>
+<given-names>I. A.</given-names> <surname>Campbell</surname>
+</string-name>, <source>J. Magn. Magn. Matter</source> 
+<volume><bold>226</bold></volume>, <fpage>1296</fpage> (<year>2001</year>).</mixed-citation>
+</ref>
+<ref id="c71">
+<label>71.</label>
+<mixed-citation publication-type="confproc">
+<string-name>
+<given-names>J.</given-names> <surname>Habasaki</surname>
+</string-name> and 
+<string-name>
+<given-names>Y.</given-names> <surname>Hiwatari</surname>
+</string-name>, “
+<article-title>Slow dynamics in complex systems</article-title>,” in <conf-name><italic>Eighth Tohwa University International Symposium</italic></conf-name>, Oppenheim, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>M.</given-names> <surname>Tokuama</surname>
+</string-name></person-group> (
+<publisher-name>AIP</publisher-name>, <year>1999</year>), Vol. 
+<volume>I</volume>.</mixed-citation>
+</ref>
+<ref id="c72">
+<label>72.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>I. A.</given-names> <surname>Campbell</surname>
+</string-name> and 
+<string-name>
+<given-names>L.</given-names> <surname>Bernardi</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>50</bold></volume>, <fpage>12643</fpage> (<year>1999</year>).</mixed-citation>
+</ref>
+<ref id="c73">
+<label>73.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A.</given-names> <surname>Alegra</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Colmenero</surname>
+</string-name>, 
+<string-name>
+<given-names>P. O.</given-names> <surname>Mari</surname>
+</string-name>, and 
+<string-name>
+<given-names>I. C.</given-names> <surname>Campbell</surname>
+</string-name>, <source>Phys. Rev. E</source> 
+<volume><bold>59</bold></volume>, <fpage>6888</fpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.59.6888</pub-id></mixed-citation>
+</ref>
+<ref id="c74">
+<label>74.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Blinc</surname>
+</string-name>, 
+<string-name>
+<given-names>T.</given-names> <surname>Apih</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Dolinšek</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Šprogar</surname>
+</string-name>, and 
+<string-name>
+<given-names>B.</given-names> <surname>Zalar</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>52</bold></volume>, <fpage>15217</fpage> (<year>1995</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.52.15217</pub-id></mixed-citation>
+</ref>
+<ref id="c75">
+<label>75.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F. F.</given-names> <surname>Haas</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Volmayr</surname>
+</string-name>, and 
+<string-name>
+<given-names>K.</given-names> <surname>Binder</surname>
+</string-name>, <source>Z. Phys. B</source> 
+<volume><bold>99</bold></volume>, <fpage>393</fpage> (<year>1996</year>).</mixed-citation>
+</ref>
+<ref id="c76">
+<label>76.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>53</bold></volume>, <fpage>2191</fpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.53.2191</pub-id></mixed-citation>
+</ref>
+<ref id="c77">
+<label>77.</label>
+<mixed-citation id="c77a" publication-type="journal">
+<string-name>
+<given-names>D. L.</given-names> <surname>Leslie-Pelecky</surname>
+</string-name> and 
+<string-name>
+<given-names>O. P.</given-names> <surname>Birge</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>72</bold></volume>, <fpage>1232</fpage> (<year>1994</year>); <pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.72.1232</pub-id></mixed-citation>
+<mixed-citation id="c77b" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>D. L.</given-names> <surname>Leslie-Pelecky</surname>
+</string-name> and 
+<string-name>
+<given-names>O. P.</given-names> <surname>Birge</surname>
+</string-name></person-group>, <source>Phys. Rev. B</source> 
+<volume><bold>18</bold></volume>, <fpage>13250</fpage> (<year>1994</year>).</mixed-citation>
+</ref>
+<ref id="c78">
+<label>78.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Brand</surname>
+</string-name>, 
+<string-name>
+<given-names>P.</given-names> <surname>Lukenheimer</surname>
+</string-name>, 
+<string-name>
+<given-names>U.</given-names> <surname>Schneider</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Loidl</surname>
+</string-name>, <source>Phys. Rev. Lett.</source> 
+<volume><bold>82</bold></volume>, <fpage>1951</fpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.82.1951</pub-id></mixed-citation>
+</ref>
+<ref id="c79">
+<label>79.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>U. T.</given-names> <surname>Höchli</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Knorr</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Loidl</surname>
+</string-name>, <source>Adv. Phys.</source> 
+<volume><bold>39</bold></volume>, <fpage>405</fpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/00018739000101521</pub-id></mixed-citation>
+</ref>
+<ref id="c80">
+<label>80.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>A.</given-names> <surname>Loidl</surname>
+</string-name> and 
+<string-name>
+<given-names>R.</given-names> <surname>Böhmer</surname>
+</string-name>, in <source><italic>Disorder Effects on Relaxational Processes: Glasses, Polymers</italic>, <italic>Proteins</italic></source>, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>R.</given-names> <surname>Richert</surname>
+</string-name> and 
+<string-name>
+<given-names>A.</given-names> <surname>Blumen</surname>
+</string-name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>Berlin</publisher-loc>, <year>1994</year>).</mixed-citation>
+</ref>
+<ref id="c81">
+<label>81.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>A. B.</given-names> <surname>Harris</surname>
+</string-name> and 
+<string-name>
+<given-names>H.</given-names> <surname>Meyer</surname>
+</string-name>, <source>Can. J. Phys.</source> 
+<volume><bold>63</bold></volume>, <fpage>3</fpage> (<year>1985</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1139/p85-002</pub-id></mixed-citation>
+</ref>
+<ref id="c82">
+<label>82.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names> <surname>Binder</surname>
+</string-name> and 
+<string-name>
+<given-names>J. D.</given-names> <surname>Reger</surname>
+</string-name>, <source>Adv. Phys.</source> 
+<volume><bold>41</bold></volume>, <fpage>547</fpage> (<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/00018739200101553</pub-id></mixed-citation>
+</ref>
+<ref id="c83">
+<label>83.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names> <surname>Bostoen</surname>
+</string-name> and 
+<string-name>
+<given-names>K. H.</given-names> <surname>Michel</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>43</bold></volume>, <fpage>4415</fpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.43.4415</pub-id></mixed-citation>
+</ref>
+<ref id="c84">
+<label>84.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names> <surname>Tadc</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Pirc</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names> <surname>Blinc</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>55</bold></volume>, <fpage>816</fpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.55.816</pub-id></mixed-citation>
+</ref>
+<ref id="c85">
+<label>85.</label>
+<mixed-citation id="c85a" publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Pirc</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Tadc</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names> <surname>Blinc</surname>
+</string-name>, <source>Physica A</source> 
+<volume><bold>185</bold></volume>, <fpage>322</fpage> (<year>1992</year>); <pub-id pub-id-type="doi" specific-use="metadata">10.1016/0378-4371(92)90471-2</pub-id></mixed-citation>
+<mixed-citation id="c85b" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>R.</given-names> <surname>Pirc</surname>
+</string-name>, 
+<string-name>
+<given-names>B.</given-names> <surname>Tadc</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names> <surname>Blinc</surname>
+</string-name></person-group>, <source>Phys. Rev. B</source> 
+<volume><bold>36</bold></volume>, <fpage>8607</fpage> (<year>1987</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.36.8607</pub-id></mixed-citation>
+</ref>
+<ref id="c86">
+<label>86.</label>
+<mixed-citation id="c86a" publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Solid State Commun.</source> 
+<volume><bold>55</bold></volume>, <fpage>143</fpage> (<year>1985</year>); <pub-id pub-id-type="doi" specific-use="metadata">10.1016/0038-1098(85)90266-2</pub-id></mixed-citation>
+<mixed-citation id="c86b" publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name> and 
+<string-name>
+<given-names>A. A.</given-names> <surname>Litvin</surname>
+</string-name>, <source>Fiz. Nizk. Temp.</source> 
+<volume><bold>13</bold></volume>, <fpage>430</fpage> (<year>1987</year>)</mixed-citation>
+<mixed-citation id="c86c" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name></person-group>, [<source>Sov. J. Low Temp. Phys.</source> 
+<volume><bold>13</bold></volume>, <fpage>195</fpage> (<year>1987</year>)].</mixed-citation>
+</ref>
+<ref id="c87">
+<label>87.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>I. A.</given-names> <surname>Campbell</surname>
+</string-name>, 
+<string-name>
+<given-names>J. M.</given-names> <surname>Flesselles</surname>
+</string-name>, 
+<string-name>
+<given-names>R.</given-names> <surname>Jullien</surname>
+</string-name>, and 
+<string-name>
+<given-names>R.</given-names> <surname>Botet</surname>
+</string-name>, <source>Phys. Rev. B</source> 
+<volume><bold>37</bold></volume>, <fpage>3825</fpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevB.37.3825</pub-id></mixed-citation>
+</ref>
+<ref id="c88">
+<label>88.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>L. M.</given-names> <surname>Wang</surname>
+</string-name>, 
+<string-name>
+<given-names>V.</given-names> <surname>Velikov</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. J.</given-names> <surname>Angell</surname>
+</string-name>, <source>J. Chem. Phys.</source> 
+<volume><bold>117</bold></volume>, <fpage>10184</fpage> (<year>2002</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1517607</pub-id></mixed-citation>
+</ref>
+<ref id="c89">
+<label>89.</label>
+<mixed-citation id="c89a" publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Fiz. Nizk. Temp.</source> 
+<volume><bold>37</bold></volume>, <fpage>551</fpage> (<year>2011</year>)</mixed-citation>
+<mixed-citation id="c89b" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name></person-group>, [<source>Low Temp. Phys.</source> 
+<volume><bold>37</bold></volume>, <fpage>439</fpage> (<year>2011</year>)].</mixed-citation>
+</ref>
+<ref id="c90">
+<label>90.</label>
+<mixed-citation id="c90a" publication-type="journal">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name>, <source>Fiz. Nizk. Temp.</source> 
+<volume><bold>35</bold></volume>, <fpage>371</fpage> (<year>2009</year>)</mixed-citation>
+<mixed-citation id="c90b" publication-type="journal"><person-group specific-use="web-only">
+<string-name>
+<given-names>V. B.</given-names> <surname>Kokshenev</surname>
+</string-name></person-group>, [<source>Low Temp. Phys.</source> 
+<volume><bold>35</bold></volume>, <fpage>282</fpage> (<year>2009</year>)].</mixed-citation>
+</ref></ref-list></back></article>

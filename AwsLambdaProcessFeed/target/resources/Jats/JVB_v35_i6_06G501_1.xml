@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">JVTBD9</journal-id>
+<journal-title-group>
+<journal-title>Journal of Vacuum Science &amp; Technology B, Nanotechnology and Microelectronics: Materials, Processing, Measurement, and Phenomena</journal-title>
+<abbrev-journal-title>J. Vac. Sci. Technol. B</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">2166-2746</issn>
+<issn pub-type="epub">2166-2754</issn>
+<publisher>
+<publisher-name>American Vacuum Society</publisher-name>
+<publisher-name specific-use="short-name">AVS</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1116/1.4993724</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4993724</article-id>
+<article-id pub-id-type="publisher-id:aipid">303706JVB</article-id>
+<article-id pub-id-type="manuscript">EIPBN2017JVSTB-A-17-170R</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>PAPERS FROM THE 61st INTERNATIONAL CONFERENCE ON ELECTRON, ION, AND PHOTON BEAM TECHNOLOGY AND NANOFABRICATION</subject><subj-group><subject>Electron Beam Lithography</subject></subj-group></subj-group></article-categories>
+<title-group>
+<article-title>Adjustable sidewall slopes by electron-beam exposure layout</article-title>
+<alt-title alt-title-type="short-title">Adjustable sidewall slopes</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Kaspar</surname>
+<given-names>Corinna</given-names></name><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<contrib contrib-type="author"><name><surname>Butschke</surname>
+<given-names>Jörg</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Irmscher</surname>
+<given-names>Mathias</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Martens</surname>
+<given-names>Stephan</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Sailer</surname>
+<given-names>Holger</given-names></name></contrib>
+<aff><institution>Institut für Mikroelektronik Stuttgart (IMS CHIPS)</institution>, Allmandring 30a, 70569 Stuttgart, <country>Germany</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Kirchner</surname>
+<given-names>Robert</given-names></name></contrib>
+<aff><institution>Technische Universität Dresden, Institute of Semiconductors and Microsystems</institution>, 01062 Dresden, <country>Germany</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Guzenko</surname>
+<given-names>Vitaliy A.</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Schift</surname>
+<given-names>Helmut</given-names></name></contrib>
+<aff><institution>Paul Scherrer Institute, Laboratory for Micro- and Nanotechnology</institution>, 5232 Villigen PSI, <country>Switzerland</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Burghartz</surname>
+<given-names>Joachim N.</given-names></name></contrib>
+<aff><institution>Institut für Mikroelektronik Stuttgart (IMS CHIPS)</institution>, Allmandring 30a, 70569 Stuttgart, <country>Germany</country></aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:kaspar@ims-chips.de">kaspar@ims-chips.de</ext-link></p></fn></author-notes>
+<pub-date pub-type="ppub"><month>11</month><year>2017</year></pub-date>
+<volume>35</volume><issue>6</issue><elocation-id seq="1">06G501</elocation-id>
+<history>
+<date date-type="received"><day>30</day><month>06</month><year>2017</year></date>
+<date date-type="revised"><day>08</day><month>08</month><year>2017</year></date>
+<date date-type="accepted"><day>08</day><month>08</month><year>2017</year></date>
+<date date-type="published"><day>18</day><month>08</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 American Vacuum Society.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>American Vacuum Society</copyright-holder>
+<license license-type="ccc">
+<license-p>2166-2746/2017/35(6)/06G501/6/<price>$30.00</price></license-p>
+</license>
+</permissions><abstract>
+<p>Resist sidewall slopes frequently need to be adjusted in micro- and nanofabrication. In this paper, the authors present a straightforward approach to adjust sidewall slopes by using electron beam lithography and applying a background dose in addition to the feature dose. The underlying effect is attributed to an inhomogeneous energy deposition along the resist depth, for which a three-dimensional point spread function is necessary to correctly describe the energy deposition in the resist even for large acceleration voltages and thin resist films. This enables adjacent features with different positive or different negative slopes within a single lithographic step. Corresponding experimental results obtained with the two positive tone resists poly(methyl methacrylate) and ZEP520A are shown, and their opposed sidewall behavior is explained. Moreover, a customized contrast curve is discussed that can, in theory, be used to achieve resist profiles with positive and negative slopes for the same resist. Therefore, a full range tuning on the same substrate becomes feasible.</p>
+</abstract>
+
+
+
+
+<counts>
+<page-count count="6"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Schift</surname>
+</string-name>, <source>J. Vac. Sci. Technol., B</source> 
+<volume><bold>26</bold></volume>, <fpage>458</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1116/1.2890972</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Y.</given-names> <surname>Chen</surname>
+</string-name>, 
+<string-name>
+<given-names>K.</given-names> <surname>Peng</surname>
+</string-name>, and 
+<string-name>
+<given-names>Z.</given-names> <surname>Cui</surname>
+</string-name>, <source>Microelectron. Eng.</source> 
+<volume><bold><bold>73</bold>–74</bold></volume>, <fpage>278</fpage> (<year>2004</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0167-9317(04)00111-X</pub-id></mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S.</given-names> <surname>Zheng</surname>
+</string-name>, 
+<string-name>
+<given-names>R. K.</given-names> <surname>Dey</surname>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names> <surname>Aydinoglu</surname>
+</string-name>, and 
+<string-name>
+<given-names>B.</given-names> <surname>Cui</surname>
+</string-name>, <source>J. Vac. Sci. Technol., B</source> 
+<volume><bold>34</bold></volume>, <fpage>06K603</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1116/1.4967932</pub-id></mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C.</given-names> <surname>Kaspar</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Butschke</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Irmscher</surname>
+</string-name>, 
+<string-name>
+<given-names>S.</given-names> <surname>Martens</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. N.</given-names> <surname>Burghartz</surname>
+</string-name>, <source>Microelectron. Eng.</source> 
+<volume><bold>176</bold></volume>, <fpage>79</fpage> (<year>2017</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.mee.2017.01.034</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M.</given-names> <surname>Sarkar</surname>
+</string-name> and 
+<string-name>
+<given-names>Y. N.</given-names> <surname>Mohapatra</surname>
+</string-name>, <source>Microelectron. Eng.</source> 
+<volume><bold>130</bold></volume>, <fpage>1</fpage> (<year>2014</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.mee.2014.08.006</pub-id></mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. M.</given-names> <surname>Pavkovich</surname>
+</string-name>, <source>J. Vac. Sci. Technol., B</source> 
+<volume><bold>4</bold></volume>, <fpage>159</fpage> (<year>1986</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1116/1.583369</pub-id></mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>S. Y.</given-names> <surname>Lee</surname>
+</string-name> and 
+<string-name>
+<given-names>K.</given-names> <surname>Anbumony</surname>
+</string-name>, <source>Microelectron. Eng.</source> 
+<volume><bold>83</bold></volume>, <fpage>336</fpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.mee.2005.09.009</pub-id></mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names> <surname>Anbumony</surname>
+</string-name> and 
+<string-name>
+<given-names>S.-Y.</given-names> <surname>Lee</surname>
+</string-name>, <source>J. Vac. Sci. Technol., B</source> 
+<volume><bold>24</bold></volume>, <fpage>3115</fpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1116/1.2388960</pub-id></mixed-citation>
+</ref></ref-list></back></article>

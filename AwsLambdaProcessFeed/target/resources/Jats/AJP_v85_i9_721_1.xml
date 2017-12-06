@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="book-review" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">AJPIAS</journal-id>
+<journal-title-group>
+<journal-title>American Journal of Physics</journal-title>
+<abbrev-journal-title>Am. J. Phys.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">0002-9505</issn>
+<issn pub-type="epub">1943-2909</issn>
+<publisher>
+<publisher-name>American Association of Physics Teachers</publisher-name>
+<publisher-name specific-use="short-name">AAPT</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1119/1.4991394</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4991394</article-id>
+<article-id pub-id-type="publisher-id:aipid">014708AJP</article-id>
+<article-id pub-id-type="manuscript">29717</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>BOOK REVIEWS</subject></subj-group></article-categories>
+<title-group>
+<article-title><italic>Inventing Atmospheric Science: Bjerknes, Rossby, Wexler, and the Foundations of Modern Meteorology</italic></article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="reviewer"><name><surname>Majumdar</surname>
+<given-names>Sharanya J.</given-names></name><role>Reviewer.</role></contrib></contrib-group>
+<pub-date pub-type="ppub"><month>09</month><year>2017</year></pub-date>
+<volume>85</volume><issue>9</issue><fpage seq="1">721</fpage><lpage>722</lpage><product><source><bold>Inventing Atmospheric Science: Bjerknes, Rossby, Wexler, and the Foundations of Modern Meteorology.</bold></source><name name-style="western"><surname>Fleming</surname> 
+<given-names>James Rodger</given-names></name> 306 pp. 
+<publisher-name>MIT Press</publisher-name>, Cambridge, MA, 2017. Price: <price>$31</price> (hardcover). ISBN <isbn>978-0-262-03394-7</isbn>.</product>
+<history>
+<date date-type="received"><day>24</day><month>03</month><year>2017</year></date>
+<date date-type="accepted"><day>16</day><month>06</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 American Association of Physics Teachers.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>American Association of Physics Teachers</copyright-holder>
+<license license-type="ccc">
+<license-p>0002-9505/2017/85(9)/721/2/<price>$30.00</price></license-p>
+</license>
+
+<license license-type="free"><license-p/></license></permissions>
+
+<counts>
+<page-count count="2"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front></article>

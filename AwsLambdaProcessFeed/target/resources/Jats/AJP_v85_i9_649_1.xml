@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">AJPIAS</journal-id>
+<journal-title-group>
+<journal-title>American Journal of Physics</journal-title>
+<abbrev-journal-title>Am. J. Phys.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">0002-9505</issn>
+<issn pub-type="epub">1943-2909</issn>
+<publisher>
+<publisher-name>American Association of Physics Teachers</publisher-name>
+<publisher-name specific-use="short-name">AAPT</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1119/1.4979657</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4979657</article-id>
+<article-id pub-id-type="publisher-id:aipid">011705AJP</article-id>
+<article-id pub-id-type="manuscript">28494</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>PAPERS</subject></subj-group></article-categories>
+<title-group>
+<article-title>Dripping faucet in extreme spatial and temporal resolution</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Sack</surname>
+<given-names>Achim</given-names></name></contrib>
+<contrib contrib-type="author"><name><surname>Pöschel</surname>
+<given-names>Thorsten</given-names></name></contrib>
+<aff>Institute for Multiscale Simulations, <institution>Friedrich-Alexander-Universität Erlangen-Nürnberg</institution>, Erlangen 91052, <country>Germany</country></aff></contrib-group>
+<pub-date pub-type="ppub"><month>09</month><year>2017</year></pub-date>
+<volume>85</volume><issue>9</issue><fpage seq="1">649</fpage><lpage>654</lpage>
+<history>
+<date date-type="received"><day>05</day><month>02</month><year>2016</year></date>
+<date date-type="accepted"><day>22</day><month>03</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 American Association of Physics Teachers.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>American Association of Physics Teachers</copyright-holder>
+<license license-type="ccc">
+<license-p>0002-9505/2017/85(9)/649/6/<price>$30.00</price></license-p>
+</license>
+</permissions>
+<abstract>
+<media id="v1" mime-subtype="mp4" mimetype="video" orientation="portrait" position="anchor" specific-use="original-format" xlink:href="v1"><object-id pub-id-type="doi" specific-use="metadata">10.1119/1.4979657.1</object-id></media>
+<p>Besides its importance for science and engineering, the process of drop formation from a homogeneous jet or at a nozzle is of great aesthetic appeal. In this paper, we introduce a low-cost setup for classroom use to produce quasi-high-speed recordings with high temporal and spatial resolution of the formation of drops at a nozzle. The visualization of the process can be used for quantitative analysis of the underlying physical phenomena.</p>
+</abstract>
+
+
+
+<counts>
+<page-count count="6"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Philipp</given-names> <surname>Lenard</surname>
+</string-name>, “
+<article-title>Ueber die Schwingungen fallender Tropfen</article-title>,” <source>Ann. Phys. Chem.</source> 
+<volume><bold>30</bold></volume>, <fpage>209</fpage>–<lpage>243</lpage> (<year>1887</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/andp.18872660202</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Edme</given-names> <surname>Mariotte</surname>
+</string-name>, <source><italic>Traité du Mouvement des Eaux, des Autres Corps Fluides</italic></source> (
+<publisher-name>E. Michallet</publisher-name>, 
+<publisher-loc>Paris</publisher-loc>, <year>1686</year>).</mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Pierre-Simon</given-names> <surname>de Laplace</surname>
+</string-name>, <source><italic>Méchanique Celeste, Supplément au Xieme Livre</italic></source> (
+<publisher-name>Courcier</publisher-name>, 
+<publisher-loc>Paris</publisher-loc>, <year>1805</year>).</mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Thomas</given-names> <surname>Young</surname>
+</string-name>, “
+<article-title>An essay on the cohesion of fluids</article-title>,” <source>Philos. Trans. R. Soc. London</source> 
+<volume><bold>95</bold></volume>, <fpage>65</fpage>–<lpage>87</lpage> (<year>1805</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rstl.1805.0005</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal"><collab>Joseph Antoine Ferdinand Plateau</collab>, “
+<article-title>Recherches exp érimentales et théorique sur les figures d'équilibre d'une masse liquide sans pesanteur</article-title>,” <source>Mém. Acad. R. Sci., Lett., Beaux-Arts de Belg.</source> 
+<volume><bold>23</bold></volume>, <fpage>1</fpage>–<lpage>151</lpage> (<year>1849</year>).</mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="book"><collab>Joseph Antoine Ferdinand Plateau</collab>, <source><italic>Statique Exp érimentale, Théorique des Liquides Soumis Aux Seules Forces Moléculaires</italic></source> (
+<publisher-name>Gauthier-Villars</publisher-name>, 
+<publisher-loc>Paris</publisher-loc>, <year>1873</year>), Vol. 
+<volume>1</volume>.</mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Félix</given-names> <surname>Savart</surname>
+</string-name>, “
+<article-title>Mémoire sur la constitution des veines liquides lancées par des orifices circulaires en mince paroi</article-title>,” <source>Ann. Chim. Phys.</source> 
+<volume><bold>53</bold></volume>, <fpage>337</fpage>–<lpage>386</lpage> (<year>1833</year>).</mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Gotthilf Heinrich</given-names> <surname>Ludwig Hagen</surname>
+</string-name>, “
+<article-title>Ueber die Scheiben, welche sich beim Zusammenstoßen von zwei gleichen Wasserstrahlen bilden und über die Auflösung einzelner Wasserstrahlen in Tropfen</article-title>,” <source>Ann. Phys.</source> 
+<volume><bold>154</bold></volume>, <fpage>451</fpage>–<lpage>476</lpage> (<year>1849</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/andp.18491541203</pub-id></mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Gotthilf</given-names> <surname>Heinrich Ludwig Hagen</surname>
+</string-name>, “
+<article-title>Ueber die Auflösung flüssiger Cylinder in Tropfen</article-title>,” <source>Ann. Phys.</source> 
+<volume><bold>156</bold></volume>, <fpage>559</fpage>–<lpage>566</lpage> (<year>1850</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/andp.18501560807</pub-id></mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Heinrich</given-names> <surname>Gustav Magnus</surname>
+</string-name>, “
+<article-title>Hydraulische Untersuchungen</article-title>,” <source>Ann. Phys. Chem.</source> 
+<volume><bold>95</bold></volume>, <fpage>1</fpage>–<lpage>61</lpage> (<year>1855</year>).</mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>John</given-names> <surname>William Strutt</surname>
+</string-name> and 
+<string-name>
+<given-names>Lord</given-names> <surname>Rayleigh</surname>
+</string-name>, “
+<article-title>On the capillary phenomena of jets</article-title>,” <source>Proc. R. Soc. London</source> 
+<volume><bold>29</bold></volume>, <fpage>71</fpage>–<lpage>97</lpage> (<year>1879</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspl.1879.0015</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>John</given-names> <surname>William Strutt</surname>
+</string-name> and 
+<string-name>
+<given-names>Lord</given-names> <surname>Rayleigh</surname>
+</string-name>, “
+<article-title>Further observations upon liquid jets, in continuation of those recorded in the Royal Society's ‘proceedings' for March and May</article-title>, 1879,” <source>Proc. R. Soc. London</source> 
+<volume><bold>34</bold></volume>, <fpage>130</fpage>–<lpage>145</lpage> (<year>1882</year>).</mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>John</given-names> <surname>William Strutt</surname>
+</string-name> and 
+<string-name>
+<given-names>Lord</given-names> <surname>Rayleigh</surname>
+</string-name>, “
+<article-title>On the instability of jets</article-title>,” <source>Proc. London Math. Soc.</source> 
+<volume><bold>10</bold></volume>, <fpage>4</fpage>–<lpage>12</lpage> (<year>1879</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1112/plms/s1-10.1.4</pub-id></mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Arthur</given-names> <surname>Mason Worthington</surname>
+</string-name>, “
+<article-title>On pendent drops</article-title>,” <source>Proc. R. Soc. London</source> 
+<volume><bold>32</bold></volume>, <fpage>362</fpage>–<lpage>377</lpage> (<year>1881</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspl.1881.0032</pub-id></mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Frederick</given-names> <surname>Guthrie</surname>
+</string-name>, “
+<article-title>On drops</article-title>,” <source>Proc. R. Soc. London</source> 
+<volume><bold>13</bold></volume>, <fpage>444</fpage>–<lpage>457</lpage> (<year>1863</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspl.1863.0090</pub-id></mixed-citation>
+</ref>
+<ref id="c16">
+<label>16.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Frederick</given-names> <surname>Guthrie</surname>
+</string-name>, “
+<article-title>On drops–Part II</article-title>,” <source>Proc. R. Soc. London</source> 
+<volume><bold>13</bold></volume>, <fpage>457</fpage>–<lpage>483</lpage> (<year>1863</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspl.1863.0091</pub-id></mixed-citation>
+</ref>
+<ref id="c17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Jens</given-names> <surname>Eggers</surname>
+</string-name>, “
+<article-title>Universal pinching of 3D axisymmetric free-surface flow</article-title>,” <source>Phys. Rev. Lett.</source> 
+<volume><bold>71</bold></volume>, <fpage>3458</fpage>–<lpage>3461</lpage> (<year>1993</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevLett.71.3458</pub-id></mixed-citation>
+</ref>
+<ref id="c18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Jens</given-names> <surname>Eggers</surname>
+</string-name> and 
+<string-name>
+<given-names>Todd F.</given-names> <surname>Dupont</surname>
+</string-name>, “
+<article-title>Drop formation in a one-dimensional approximation of the Navier-Stokes equation</article-title>,” <source>J. Fluid Mech.</source> 
+<volume><bold>262</bold></volume>, <fpage>205</fpage>–<lpage>221</lpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1017/S0022112094000480</pub-id></mixed-citation>
+</ref>
+<ref id="c19">
+<label>19.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Tomasz A.</given-names> <surname>Kowalewski</surname>
+</string-name>, “
+<article-title>On the separation of droplets from a liquid jet</article-title>,” <source>Fluid Dyn. Res.</source> 
+<volume><bold>17</bold></volume>, <fpage>121</fpage>–<lpage>145</lpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0169-5983(95)00028-3</pub-id></mixed-citation>
+</ref>
+<ref id="c20">
+<label>20.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Xiangdong</given-names> <surname>Shi</surname>
+</string-name>, 
+<string-name>
+<given-names>Michael P.</given-names> <surname>Brenner</surname>
+</string-name>, and 
+<string-name>
+<given-names>Sidney R.</given-names> <surname>Nagel</surname>
+</string-name>, “
+<article-title>A cascade of structure in a drop falling from a faucet</article-title>,” <source>Science</source> 
+<volume><bold>265</bold></volume>, <fpage>219</fpage>–<lpage>222</lpage> (<year>1994</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1126/science.265.5169.219</pub-id></mixed-citation>
+</ref>
+<ref id="c21">
+<label>21.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Mahari</given-names> <surname>Tjahjadi</surname>
+</string-name>, 
+<string-name>
+<given-names>Howard A.</given-names> <surname>Stone</surname>
+</string-name>, and 
+<string-name>
+<given-names>Julio M.</given-names> <surname>Ottino</surname>
+</string-name>, “
+<article-title>Satellite and subsatellite formation in capillary breakup</article-title>,” <source>J. Fluid Mech.</source> 
+<volume><bold>243</bold></volume>, <fpage>297</fpage>–<lpage>317</lpage> (<year>1992</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1017/S0022112092002738</pub-id></mixed-citation>
+</ref>
+<ref id="c22">
+<label>22.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Jens</given-names> <surname>Eggers</surname>
+</string-name>, “
+<article-title>Nonlinear dynamics and breakup of free-surface flows</article-title>,” <source>Rev. Mod. Phys.</source> 
+<volume><bold>69</bold></volume>, <fpage>865</fpage>–<lpage>930</lpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/RevModPhys.69.865</pub-id></mixed-citation>
+</ref>
+<ref id="c23">
+<label>23.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Jens</given-names> <surname>Eggers</surname>
+</string-name>, “
+<article-title>Drop formation—An overview</article-title>,” <source>Z. Angew. Math. Mech.</source> 
+<volume><bold>85</bold></volume>, <fpage>400</fpage>–<lpage>410</lpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/zamm.200410193</pub-id></mixed-citation>
+</ref>
+<ref id="c24">
+<label>24.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Jens</given-names> <surname>Eggers</surname>
+</string-name>, “
+<article-title>A brief history of drop formation</article-title>,” in <source><italic>Nonsmooth Mechanics and Analysis</italic></source>, Advances in Mechanics and Mathematics, edited by <person-group person-group-type="editor">
+<string-name>
+<given-names>P.</given-names> <surname>Alart</surname>
+</string-name>, 
+<string-name>
+<given-names>O.</given-names> <surname>Maisonneuve</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. T.</given-names> <surname>Rockafellar</surname>
+</string-name></person-group> (
+<publisher-name>Springer</publisher-name>, 
+<publisher-loc>Berlin</publisher-loc>, <year>2006</year>), Vol. 
+<volume>12</volume>, pp. <fpage>163</fpage>–<lpage>172</lpage>.</mixed-citation>
+</ref>
+<ref id="c25">
+<label>25.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Sidney R.</given-names> <surname>Nagel</surname>
+</string-name>, “
+<article-title>Klopsteg Memorial Lecture (August, 1998): Physics at the breakfast table–or waking up to physics</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>67</bold></volume>, <fpage>17</fpage>–<lpage>25</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.19186</pub-id></mixed-citation>
+</ref>
+<ref id="c26">
+<label>26.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Arthur</given-names> <surname>Mason Worthington</surname>
+</string-name>, “
+<article-title>On the forms assumed by drops of liquids falling vertically on a horizontal plate</article-title>,” <source>Proc. R. Soc. London</source> 
+<volume><bold>25</bold></volume>, <fpage>261</fpage>–<lpage>272</lpage> (<year>1876</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspl.1876.0048</pub-id></mixed-citation>
+</ref>
+<ref id="c27">
+<label>27.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Arthur</given-names> <surname>Mason Worthington</surname>
+</string-name>, “
+<article-title>On impact with a liquid surface</article-title>,” <source>Proc. R. Soc. London</source> 
+<volume><bold>34</bold></volume>, <fpage>217</fpage>–<lpage>230</lpage> (<year>1882</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspl.1882.0035</pub-id></mixed-citation>
+</ref>
+<ref id="c28">
+<label>28.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Arthur</given-names> <surname>Mason Worthington</surname>
+</string-name> and 
+<string-name>
+<given-names>Reginald</given-names> <surname>Sorrè Cole</surname>
+</string-name>, “
+<article-title>Impact with a liquid surface studied by the aid of instantaneous photography</article-title>,” <source>Philos. Trans. R. Soc. London, Ser. A</source> 
+<volume><bold>189</bold></volume>, <fpage>137</fpage>–<lpage>148</lpage> (<year>1897</year>), Plates 1–8.<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rsta.1897.0005</pub-id></mixed-citation>
+</ref>
+<ref id="c29">
+<label>29.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Arthur</given-names> <surname>Mason Worthington</surname>
+</string-name> and 
+<string-name>
+<given-names>Reginald</given-names> <surname>Sorrè Cole</surname>
+</string-name>, “
+<article-title>Impact with a liquid surface studied by the aid of instantaneous photography. Paper II</article-title>,” <source>Proc. R. Soc. London, Ser. A</source> 
+<volume><bold>194</bold></volume>, <fpage>175</fpage>–<lpage>199</lpage> (<year>1900</year>), Plates 2–3.<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rsta.1900.0016</pub-id></mixed-citation>
+</ref>
+<ref id="c30">
+<label>30.</label>
+<mixed-citation publication-type="book">
+<string-name>
+<given-names>Arthur</given-names> <surname>Mason Worthington</surname>
+</string-name>, <source><italic>A Study of Splashes</italic></source> (
+<publisher-name>Longmans, Green &amp; Co.</publisher-name>, 
+<publisher-loc>London</publisher-loc>, <year>1908</year>).</mixed-citation>
+</ref>
+<ref id="c31">
+<label>31.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Christophe</given-names> <surname>Josserand</surname>
+</string-name> and 
+<string-name>
+<given-names>Sigurdur T.</given-names> <surname>Thoroddsen</surname>
+</string-name>, “
+<article-title>Drop impact on a solid surface</article-title>,” <source>Ann. Rev. Fluid Mech.</source> 
+<volume><bold>48</bold></volume>, <fpage>365</fpage>–<lpage>391</lpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1146/annurev-fluid-122414-034401</pub-id></mixed-citation>
+</ref>
+<ref id="c32">
+<label>32.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Devaraj</given-names> <surname>van der Meer</surname>
+</string-name>, “
+<article-title>Wrapping up a century of splashes</article-title>,” <source>J. Fluid Mech.</source> 
+<volume><bold>800</bold></volume>, <fpage>1</fpage>–<lpage>4</lpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1017/jfm.2016.328</pub-id></mixed-citation>
+</ref>
+<ref id="c33">
+<label>33.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Jeremy O.</given-names> <surname>Marston</surname>
+</string-name>, 
+<string-name>
+<given-names>Tadd T.</given-names> <surname>Truscott</surname>
+</string-name>, 
+<string-name>
+<given-names>Nathan B.</given-names> <surname>Speirs</surname>
+</string-name>, 
+<string-name>
+<given-names>Mohammad M.</given-names> <surname>Mansoor</surname>
+</string-name>, and 
+<string-name>
+<given-names>Sigurdur T.</given-names> <surname>Thoroddsen</surname>
+</string-name>, “
+<article-title>Crown sealing and buckling instability during water entry of spheres</article-title>,” <source>J. Fluid Mech.</source> 
+<volume><bold>794</bold></volume>, <fpage>506</fpage>–<lpage>529</lpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1017/jfm.2016.165</pub-id></mixed-citation>
+</ref>
+<ref id="c34">
+<label>34.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Harold E.</given-names> <surname>Edgerton</surname>
+</string-name>, “
+<article-title>Stroboscopic and slow-motion moving pictures by means of intermittent light</article-title>,” <source>J. Soc. Motion Pictures Eng.</source> 
+<volume><bold>18</bold></volume>, <fpage>356</fpage>–<lpage>364</lpage> (<year>1932</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.5594/J05547</pub-id></mixed-citation>
+</ref>
+<ref id="c35">
+<label>35.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Harold E.</given-names> <surname>Edgerton</surname>
+</string-name>, 
+<string-name>
+<given-names>Ernst</given-names> <surname>Alfred Hauser</surname>
+</string-name>, and 
+<string-name>
+<given-names>W. B.</given-names> <surname>Tucker</surname>
+</string-name>, “
+<article-title>Studies in drop formation as revealed by the high-speed motion camera</article-title>,” <source>J. Phys. Chem.</source> 
+<volume><bold>41</bold></volume>, <fpage>1017</fpage>–<lpage>1028</lpage> (<year>1937</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/j150385a012</pub-id></mixed-citation>
+</ref>
+<ref id="c36">
+<label>36.</label>
+<mixed-citation publication-type="website">
+<string-name>
+<given-names>Ernst</given-names> <surname>Alfred Hauser</surname>
+</string-name>, 
+<string-name>
+<given-names>Harold E.</given-names> <surname>Edgerton</surname>
+</string-name>, 
+<string-name>
+<given-names>J. T.</given-names> <surname>Cox</surname>, <suffix>Jr.</suffix>
+</string-name>, and 
+<string-name>
+<given-names>B. M.</given-names> <surname>Holt</surname>
+</string-name>, “
+<article-title>Motion pictures of surface tension measurements</article-title>,” movie, &lt;<ext-link ext-link-type="uri" xlink:href="http://edgerton-digital-collections.org/videos/hee-fv-165">http://edgerton-digital-collections.org/videos/hee-fv-165</ext-link>&gt; (MIT, Cambridge, MA, <year>1936</year>).</mixed-citation>
+</ref>
+<ref id="c37">
+<label>37.</label>
+<mixed-citation publication-type="website">
+<string-name>
+<given-names>Harold E.</given-names> <surname>Edgerton</surname>
+</string-name>, 
+<string-name>
+<given-names>Kenneth J.</given-names> <surname>Germeshauser</surname>
+</string-name>, and 
+<string-name>
+<given-names>Herbert E.</given-names> <surname>Grier</surname>
+</string-name>, “
+<article-title>MIT presents high speed motion pictures taken with stroboscopic lights</article-title>,” movie, &lt;<ext-link ext-link-type="uri" xlink:href="http://edgerton-digital-collections.org/videos/hee-fv-018">http://edgerton-digital-collections.org/videos/hee-fv-018</ext-link>&gt; (MIT, Department of Electrical Engineering, Cambridge, MA, <year>1930</year>).</mixed-citation>
+</ref>
+<ref id="c38">
+<label>38.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Howell Peregrine</surname>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Shoker</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Symon</surname>
+</string-name>. “
+<article-title>The bifurcation of liquid bridges</article-title>,” <source>J. Fluid Mech.</source> 
+<volume><bold>212</bold></volume>, <fpage>25</fpage>–<lpage>39</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1017/S0022112090001835</pub-id></mixed-citation>
+</ref>
+<ref id="c39">
+<label>39.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Rafa Castrejón-Pita</surname>
+</string-name>, 
+<string-name>
+<given-names>Alfonso A.</given-names> <surname>Castrejón-Pita</surname>
+</string-name>, 
+<string-name>
+<given-names>E.</given-names> <surname>John Hinch</surname>
+</string-name>, 
+<string-name>
+<given-names>John R.</given-names> <surname>Lister</surname>
+</string-name>, and 
+<string-name>
+<given-names>Ian M.</given-names> <surname>Hutchings</surname>
+</string-name>, “
+<article-title>Self-similar breakup of near-inviscid liquids</article-title>,” <source>Phys. Rev. E</source> 
+<volume><bold>86</bold></volume>, <fpage>015301</fpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.86.015301</pub-id></mixed-citation>
+</ref>
+<ref id="c40">
+<label>40.</label>
+<mixed-citation publication-type="thesis">
+<string-name>
+<given-names>A.</given-names> <surname>Sack</surname>
+</string-name>, “<article-title>Dielektrische GitterinstabilitŁat in einem cholesterischen FlŁussigkristall</article-title>,” Diploma thesis (<publisher-name>University Bayreuth</publisher-name>, Erlangen, Germany, <year>2008</year>).</mixed-citation>
+</ref>
+<ref id="c41">
+<label>41.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Kevin</given-names> <surname>Dreyer</surname>
+</string-name> and 
+<string-name>
+<given-names>F.</given-names> <surname>Roger Hickey</surname>
+</string-name>, “
+<article-title>The route to chaos in a dripping water faucet</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>59</bold></volume>, <fpage>619</fpage>–<lpage>627</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.16783</pub-id></mixed-citation>
+</ref>
+<ref id="c42">
+<label>42.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Ariel</given-names> <surname>Shemesh</surname>
+</string-name>, 
+<string-name>
+<given-names>Solange</given-names> <surname>Akselrod</surname>
+</string-name>, 
+<string-name>
+<given-names>Ziv</given-names> <surname>Reich</surname>
+</string-name>, 
+<string-name>
+<given-names>Dan</given-names> <surname>Shahar</surname>
+</string-name>, and 
+<string-name>
+<given-names>Ruti</given-names> <surname>Kapon</surname>
+</string-name>, “
+<article-title>Dripping faucet dynamics is determined by synchronization of drop oscillations and detachment</article-title>,” <source>Phys. Rev. E</source> 
+<volume><bold>86</bold></volume>, <fpage>026209</fpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.86.026209</pub-id></mixed-citation>
+</ref>
+<ref id="c43">
+<label>43.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Willi H.</given-names> <surname>Hager</surname>
+</string-name>, “
+<article-title>Wilfrid Noel Bond and the Bond number</article-title>,” <source>J. Hydraulic Res.</source> 
+<volume><bold>50</bold></volume>, <fpage>3</fpage>–<lpage>9</lpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1080/00221686.2011.649839</pub-id></mixed-citation>
+</ref>
+<ref id="c44">
+<label>44.</label>
+<mixed-citation publication-type="website">“The engineering toolbox,” &lt;<ext-link ext-link-type="uri" xlink:href="http://www.engineeringtoolbox.com/water-surface-tension-d_597.html">http://www.engineeringtoolbox.com/water-surface-tension-d_597.html</ext-link>&gt;.</mixed-citation>
+</ref>
+<ref id="c45">
+<label>45.</label>
+<mixed-citation publication-type="book"><source><italic>Physical Properties of Clycerine and Its Solutions</italic></source> (
+<publisher-name>Glycerine Producers Association</publisher-name>, 
+<publisher-loc>New York</publisher-loc>, <year>1963</year>); A library entry can be found here: <ext-link ext-link-type="uri" xlink:href="https://openlibrary.org/books/OL19332489M/Physical_properties_of_glycerine_and_its_solutions">https://openlibrary.org/books/OL19332489M/Physical_properties_of_glycerine_and_its_solutions</ext-link>. A pdf is available at <ext-link ext-link-type="uri" xlink:href="http://www.aciscience.org/docs/physical_properties_of_glycerine_and_its_solutions.pdf">http://www.aciscience.org/docs/physical_properties_of_glycerine_and_its_solutions.pdf</ext-link>.</mixed-citation>
+</ref></ref-list></back></article>

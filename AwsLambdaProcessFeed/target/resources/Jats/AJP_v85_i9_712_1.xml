@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="apparat-demo" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">AJPIAS</journal-id>
+<journal-title-group>
+<journal-title>American Journal of Physics</journal-title>
+<abbrev-journal-title>Am. J. Phys.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">0002-9505</issn>
+<issn pub-type="epub">1943-2909</issn>
+<publisher>
+<publisher-name>American Association of Physics Teachers</publisher-name>
+<publisher-name specific-use="short-name">AAPT</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1119/1.4985728</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4985728</article-id>
+<article-id pub-id-type="publisher-id:aipid">006708AJP</article-id>
+<article-id pub-id-type="manuscript">29156</article-id>
+<article-categories><subj-group subj-group-type="toc-heading"><subject>APPARATUS AND DEMONSTRATION NOTES</subject></subj-group></article-categories>
+<title-group>
+<article-title>An extraordinary tabletop speed of light apparatus</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Pegna</surname>
+<given-names>Guido</given-names></name><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<aff><institution>Department of Physics, University of Cagliari, Cittá Universitaria</institution>, 09042 Monserrato, <country>Italy</country></aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p>Electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:pegna@unica.it">pegna@unica.it</ext-link>; Permanent address: Department of Physics, University of Cagliari, Citta Universitaria, 09042 Monserrato (Ca), Italy.</p></fn></author-notes>
+<pub-date pub-type="ppub"><month>09</month><year>2017</year></pub-date>
+<volume>85</volume><issue>9</issue><fpage seq="1">712</fpage><lpage>720</lpage>
+<history>
+<date date-type="received"><day>11</day><month>04</month><year>2012</year></date>
+<date date-type="accepted"><day>30</day><month>05</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 American Association of Physics Teachers.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>American Association of Physics Teachers</copyright-holder>
+<license license-type="ccc">
+<license-p>0002-9505/2017/85(9)/712/9/<price>$30.00</price></license-p>
+</license>
+</permissions><abstract>
+<p>A compact, low-cost, pre-aligned apparatus of the modulation type is described. The apparatus allows accurate determination of the speed of light in free propagation with an accuracy on the order of one part in 10<sup>4</sup>. Due to the 433.92 MHz radio frequency (rf) modulation of its laser diode, determination of the speed of light is possible within a sub-meter measuring base and in small volumes (some cm<sup>3</sup>) of transparent solids or liquids. No oscilloscope is necessary, while the required function generators, power supplies, and optical components are incorporated into the design of the apparatus and its receiver can slide along the optical bench while maintaining alignment with the laser beam. Measurement of the velocity factor of coaxial cables is also easily performed. The apparatus detects the phase difference between the rf modulation of the laser diode by further modulating the rf signal with an audio frequency signal; the phase difference between these signals is then observed as the loudness of the audio signal. In this way, the positions at which the minima of the audio signal are found determine where the rf signals are completely out of phase. This phase detection method yields a much increased sensitivity with respect to the display of coincidence of two signals of questionable arrival time and somewhat distorted shape on an oscilloscope. The displaying technique is also particularly suitable for large audiences as well as in unattended exhibits in museums and science centers. In addition, the apparatus can be set up in less than one minute.</p>
+</abstract>
+
+
+
+<counts>
+<page-count count="9"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>W. C.</given-names> <surname>Anderson</surname>
+</string-name>, “
+<article-title>A measurement of the velocity of light</article-title>,” <source>Rev. Sci. Instrum.</source> 
+<volume><bold>8</bold></volume>, <fpage>239</fpage>–<lpage>247</lpage> (<year>1937</year>)<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.1752300</pub-id>.</mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>P. F.</given-names> <surname>Hinrichsen</surname>
+</string-name> and 
+<string-name>
+<given-names>J. C.</given-names> <surname>Crawford</surname>
+</string-name>, “
+<article-title>An improved metrologic speed of light apparatus</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>13</bold></volume>, <fpage>504</fpage>–<lpage>506</lpage> (<year>1975</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2339245</pub-id></mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. E.</given-names> <surname>Carloson</surname>
+</string-name>, “
+<article-title>Speed of light measurement with the laser pointer</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>34</bold></volume>, <fpage>176</fpage>–<lpage>177</lpage> (<year>1996</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2344390</pub-id></mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>B.</given-names> <surname>Brody</surname>
+</string-name>, “
+<article-title>The speed of light: Making an easy time of it</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>41</bold></volume>, <fpage>276</fpage>–<lpage>277</lpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.1571262</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Cooke</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Martin</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>McCartney</surname>
+</string-name>, and 
+<string-name>
+<given-names>B.</given-names> <surname>Wilf</surname>
+</string-name>, “
+<article-title>Direct determination of the speed of light as a general physics laboratory experiment</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>36</bold></volume>, <fpage>847</fpage>–<lpage>848</lpage> (<year>1968</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.1975166</pub-id></mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>C. E.</given-names> <surname>Tyler</surname>
+</string-name>, “
+<article-title>A pedagogical measurement of the velocity of light</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>37</bold></volume>, <fpage>1154</fpage>–<lpage>1156</lpage> (<year>1969</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.1975233</pub-id></mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Vanderkooy</surname>
+</string-name> and 
+<string-name>
+<given-names>M. J.</given-names> <surname>Beccario</surname>
+</string-name>, “
+<article-title>An inexpensive, accurate laboratory determination of the velocity of light</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>41</bold></volume>, <fpage>272</fpage>–<lpage>275</lpage> (<year>1973</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.1987190</pub-id></mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>F. D.</given-names> <surname>Becchetti</surname>
+</string-name>, 
+<string-name>
+<given-names>K. C.</given-names> <surname>Harvey</surname>
+</string-name>, 
+<string-name>
+<given-names>B. J.</given-names> <surname>Schwartz</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. L.</given-names> <surname>Shapiro</surname>
+</string-name>, “
+<article-title>Time-of-flight measurement of the speed of light using a laser and a low-voltage Pockels-cell modulator</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>55</bold></volume>, <fpage>632</fpage>–<lpage>634</lpage> (<year>1987</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.15079</pub-id></mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. A.</given-names> <surname>Deblaqiere</surname>
+</string-name>, 
+<string-name>
+<given-names>K. C.</given-names> <surname>Harvey</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. K.</given-names> <surname>Hermann</surname>
+</string-name>, “
+<article-title>Time-of-flight measurement of the speed of light using an acousto-optic modulator</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>59</bold></volume>, <fpage>443</fpage>–<lpage>447</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.16526</pub-id></mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. B.</given-names> <surname>James</surname>
+</string-name>, 
+<string-name>
+<given-names>R. B.</given-names> <surname>Ormond</surname>
+</string-name>, and 
+<string-name>
+<given-names>A. J.</given-names> <surname>Stasch</surname>
+</string-name>, “
+<article-title>Speed of light measurement for the myriad</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>67</bold></volume>, <fpage>681</fpage>–<lpage>684</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.19352</pub-id></mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>K.</given-names> <surname>Aoki</surname>
+</string-name> and 
+<string-name>
+<given-names>T.</given-names> <surname>Mitsui</surname>
+</string-name>, “
+<article-title>A tabletop experiment for the direct measurement of the speed of light</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>76</bold></volume>, <fpage>812</fpage>–<lpage>815</lpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2919743</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names> <surname>Pegna</surname>
+</string-name>, “
+<article-title>Un esperimento didattico per la determinazione diretta della velocit della luce con il laser</article-title>,” <source>Giornale di Fisica</source> 
+<volume><bold>XVII</bold></volume>(<issue>4</issue>), <fpage>274</fpage>–<lpage>279</lpage> (<year>1976</year>).</mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names> <surname>Brickner</surname>
+</string-name>, 
+<string-name>
+<given-names>L. A.</given-names> <surname>Kappers</surname>
+</string-name>, and 
+<string-name>
+<given-names>F. P.</given-names> <surname>Lipschultz</surname>
+</string-name>, “
+<article-title>Determination of the speed of light by measurement of the beat frequency of internal laser modes</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>47</bold></volume>(<issue>12</issue>), <fpage>1086</fpage>–<lpage>1087</lpage> (<year>1979</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.11980</pub-id></mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D. J.</given-names> <surname>D'Orazio</surname>
+</string-name>, 
+<string-name>
+<given-names>M. J.</given-names> <surname>Pearson</surname>
+</string-name>, 
+<string-name>
+<given-names>J. T.</given-names> <surname>Schultz</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Sidor</surname>
+</string-name>, 
+<string-name>
+<given-names>M. W.</given-names> <surname>Best</surname>
+</string-name>, 
+<string-name>
+<given-names>K. M.</given-names> <surname>Goodfellow</surname>
+</string-name>, 
+<string-name>
+<given-names>R. E.</given-names> <surname>Scholten</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. D.</given-names> <surname>White</surname>
+</string-name>, “
+<article-title>Measuring the speed of light using beating longitudinal modes in an open-cavity HeNe laser</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>78</bold></volume>(<issue>5</issue>), <fpage>524</fpage>–<lpage>528</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.3299281</pub-id></mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>R.</given-names> <surname>Cohen</surname>
+</string-name>, 
+<string-name>
+<given-names>H.</given-names> <surname>Goldring</surname>
+</string-name>, and 
+<string-name>
+<given-names>M.</given-names> <surname>Harrap</surname>
+</string-name>, “
+<article-title>Measuring speed of light with two dollar rotators</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>18</bold></volume>, <fpage>226</fpage>–<lpage>229</lpage> (<year>1980</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2340481</pub-id></mixed-citation>
+</ref>
+<ref id="c16">
+<label>16.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J.</given-names> <surname>Brody</surname>
+</string-name>, 
+<string-name>
+<given-names>L.</given-names> <surname>Griffin</surname>
+</string-name>, and 
+<string-name>
+<given-names>P.</given-names> <surname>Segre</surname>
+</string-name>, “
+<article-title>Measurements of the speed of light in water using Foucault's technique</article-title>,” <source>Am. J. Phys.</source> 
+<volume><bold>78</bold></volume>(<issue>6</issue>), <fpage>650</fpage>–<lpage>653</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.3373942</pub-id></mixed-citation>
+</ref>
+<ref id="c17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names> <surname>Pegna</surname>
+</string-name>, “
+<article-title>Proposta di un metodo per la misura della velocit di un segnale elettrico in un conduttore</article-title>,” <source>Giornale di Fisica</source> 
+<volume><bold>14</bold></volume>, <fpage>184</fpage>–<lpage>186</lpage> (<year>1973</year>).</mixed-citation>
+</ref>
+<ref id="c18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>Se-Yeuen</given-names> <surname>Mak</surname>
+</string-name>, “
+<article-title>Speed of electromagnetic signal along a coaxial cable</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>41</bold></volume>, <fpage>46</fpage>–<lpage>49</lpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.1533966</pub-id></mixed-citation>
+</ref>
+<ref id="c19">
+<label>19.</label>
+<mixed-citation publication-type="journal">All commercial microwave apparatuses in use in undergraduate laboratories allow the interferometric determination of <italic>c</italic> by measuring the wavelength of an electromagnetic wave of known frequency. The literature on this subject is very wide; for an example of a precision measurement, see 
+<string-name>
+<given-names>W.</given-names> <surname>Culshaw</surname>
+</string-name>, “
+<article-title>High resolution millimeter wave Fabry-Perot interferometer</article-title>,” <source>IRE Trans. Microwave Theory Tech. MTT</source> 
+<volume><bold>8</bold></volume>(<issue>2</issue>), <fpage>182</fpage>–<lpage>189</lpage> (<year>1960</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1109/TMTT.1960.1124721</pub-id></mixed-citation>
+</ref>
+<ref id="c20">
+<label>20.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>G.</given-names> <surname>Pegna</surname>
+</string-name> and 
+<string-name>
+<given-names>P.</given-names> <surname>Grosso</surname>
+</string-name>, “
+<article-title>Esperimenti con il Forno a Microonde</article-title>,” <source>Giornale di Fisica</source> 
+<volume><bold><bold>46</bold>(3)</bold></volume>, <fpage>183</fpage>–<lpage>196</lpage> (<year>2005</year>).</mixed-citation>
+</ref>
+<ref id="c21">
+<label>21.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. C.</given-names> <surname>Schroeder</surname>
+</string-name> and 
+<string-name>
+<given-names>C. W.</given-names> <surname>Smith</surname>
+</string-name>, “
+<article-title>Estimating the speed of light with a TV set</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>23</bold></volume>, <fpage>360</fpage> (<year>1985</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2341847</pub-id></mixed-citation>
+</ref>
+<ref id="c22">
+<label>22.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>D.</given-names> <surname>Keeports</surname>
+</string-name>, “
+<article-title>Looking for ghosts to measure the speed of light</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>28</bold></volume>, <fpage>398</fpage>–<lpage>399</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.2343083</pub-id></mixed-citation>
+</ref>
+<ref id="c23">
+<label>23.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>J. E.</given-names> <surname>Beaver</surname>
+</string-name>, “
+<article-title>The speed of light with a shortwave radio</article-title>,” <source>Phys. Teach.</source> 
+<volume><bold>38</bold></volume>, <fpage>172</fpage>–<lpage>174</lpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1119/1.880488</pub-id></mixed-citation>
+</ref>
+<ref id="c24">
+<label>24.</label>
+<mixed-citation publication-type="eprint">
+<string-name>
+<given-names>J.</given-names> <surname>Lepak</surname>
+</string-name> and 
+<string-name>
+<given-names>M.</given-names> <surname>Crescimanno</surname>
+</string-name>, “
+<article-title>Speed of light measurement using ping</article-title>,” e-print <ext-link ext-link-type="arxiv" xlink:href="http://arxiv.org/abs/arXiv:physics/0201053">arXiv:physics/0201053</ext-link>.</mixed-citation>
+</ref>
+<ref id="c25">
+<label>25.</label>
+<mixed-citation publication-type="other">Aurel TX-4MDIL (Farnell code 1699488), with a cost of under [dollar]5. Many other types are available, e.g., on Ebay, as wireless data transmitting modules for Arduino.</mixed-citation>
+</ref>
+<ref id="c26">
+<label>26.</label>
+<mixed-citation publication-type="other">Centronic AEPX65 photodiode (Farnell code 548777).</mixed-citation>
+</ref>
+<ref id="c27">
+<label>27.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>H.</given-names> <surname>Fizeau</surname>
+</string-name>, “
+<article-title>Sur les hypotheses relatives a l'ether lumineux</article-title>,” <source>Comptes Rendus</source> 
+<volume><bold>33</bold></volume>, <fpage>349</fpage>–<lpage>355</lpage> (<year>1851</year>).</mixed-citation>
+</ref>
+<ref id="c28">
+<label>28.</label>
+<mixed-citation publication-type="supplementary-material">See supplementary material at <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1119/1.4985728">http://dx.doi.org/10.1119/1.4985728</ext-link> <ext-link ext-link-type="epaps" specific-use="metadata" xlink:href="ftp://ftp.aip.org/epaps/am_j_phys/E-AJPIAS-85-006708">E-AJPIAS-85-006708</ext-link> for the Gerber files for the printed circuit boards for the transmitter, receiver, and control unit. Because of the relatively high frequency used, printed circuit boards are recommended for proper functioning of the circuits.</mixed-citation>
+</ref>
+<ref id="c29">
+<label>29.</label>
+<mixed-citation publication-type="journal">A somewhat different treatment of the displacement of fringes in an interferometer due to the Doppler effect can be found in 
+<string-name>
+<given-names>D.</given-names> <surname>Malacara</surname>
+</string-name>, 
+<string-name>
+<given-names>I.</given-names> <surname>Rizo</surname>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Morales</surname>
+</string-name>, “
+<article-title>Interferometry and the Doppler Effect</article-title>,” <source>Appl. Opt.</source> 
+<volume><bold>8</bold></volume>(<issue>8</issue>), <fpage>1746</fpage>–<lpage>1747</lpage> (<year>1969</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1364/AO.8.001746</pub-id></mixed-citation>
+</ref></ref-list></back></article>

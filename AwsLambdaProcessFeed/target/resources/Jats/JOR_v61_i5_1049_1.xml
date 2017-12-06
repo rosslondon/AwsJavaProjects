@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" ".\resources\Jats\JATS-archivearticle1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" article-type="article" dtd-version="1.0" specific-use="syndication"><front>
+<journal-meta>
+<journal-id journal-id-type="coden">JORHD2</journal-id>
+<journal-title-group>
+<journal-title>Journal of Rheology</journal-title>
+<abbrev-journal-title>J. Rheol.</abbrev-journal-title></journal-title-group>
+<issn pub-type="ppub">0148-6055</issn>
+<issn pub-type="epub">1520-8516</issn>
+<publisher>
+<publisher-name>The Society of Rheology</publisher-name>
+<publisher-name specific-use="short-name">SOR</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="doi">10.1122/1.4998175</article-id>
+<article-id pub-id-type="publisher-id:aipkey">1.4998175</article-id>
+<article-id pub-id-type="publisher-id:aipid">015705JOR</article-id>
+<article-id pub-id-type="manuscript">JOR-17-037RRR</article-id>
+<title-group>
+<article-title>A differential pressure extensional rheometer on a chip with fully developed elongational flow</article-title>
+<alt-title alt-title-type="short-title">DIFFERENTIAL PRESSURE EXTENSIONAL RHEOMETER</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Lee</surname>
+<given-names>Heon Sang</given-names></name><xref ref-type="author-note" rid="n1">a)</xref></contrib>
+<aff><institution>Department of Chemical and Biomolecular Engineering, University of California</institution>, Berkeley, California 94720 and <institution>Department of Chemical Engineering, Dong-A University</institution>, Busan 604-714, <country>South Korea</country></aff></contrib-group>
+<contrib-group>
+<contrib contrib-type="author"><name><surname>Muller</surname>
+<given-names>Susan J.</given-names></name></contrib>
+<aff><institution>Department of Chemical and Biomolecular Engineering, University of California</institution>, Berkeley, California 94720</aff></contrib-group>
+<author-notes><fn id="n1">
+<label>a)</label>
+<p>Author to whom correspondence should be addressed; electronic mail: <ext-link ext-link-type="email" xlink:href="mailto:heonlee@dau.ac.kr">heonlee@dau.ac.kr</ext-link></p></fn></author-notes>
+<pub-date pub-type="ppub"><month>09</month><year>2017</year></pub-date>
+<volume>61</volume><issue>5</issue><fpage seq="1">1049</fpage><lpage>1059</lpage>
+<history>
+<date date-type="received"><day>04</day><month>02</month><year>2017</year></date>
+<date date-type="revised"><day>26</day><month>07</month><year>2017</year></date>
+<date date-type="accepted"><day>27</day><month>07</month><year>2017</year></date>
+<date date-type="published"><day>18</day><month>08</month><year>2017</year></date>
+</history>
+<permissions>
+<copyright-statement>© 2017 The Society of Rheology.</copyright-statement>
+<copyright-year>2017</copyright-year>
+<copyright-holder>The Society of Rheology</copyright-holder>
+<license license-type="ccc">
+<license-p>0148-6055/2017/61(5)/1049/11/<price>$30.00</price></license-p>
+</license>
+</permissions><abstract>
+<p>A method is presented to construct a fully developed elongational flow at a nearly constant extension rate in a converging microchannel. For a Giesekus–Leonov fluid, we show that under appropriate conditions, the first normal stress difference in a fluid element flowing along the channel centerline reaches its steady-state value early in the converging region, so that the time-averaged normal stress difference is approximately equal to the spatially averaged normal stress along the converging section. We demonstrate that the averaged normal stress in the converging region (with contraction ratios of 4.9 or 10.343) maintains greater than 90% of the steady value up to an extension rate of 100 s<sup>−1</sup>. At higher extension rates, the averaged normal stress becomes significantly smaller than the steady value. A differential pressure elongational rheometer is proposed where the pressure difference between the converging channel and a reference channel can be monitored. The reference channel is a straight channel geometry in which the viscous contribution to the pressure drop equals that in the converging channel.</p>
+</abstract>
+
+
+
+
+<kwd-group kwd-group-type="sor">
+<title>Keywords</title><kwd>Elongational flow</kwd><kwd>Pressure difference</kwd><kwd>Rheometer on a chip</kwd><kwd>Giesekus–Leonov model</kwd><kwd>Fully developed flow</kwd><kwd>Transient flow</kwd>
+</kwd-group>
+<funding-group specific-use="FundRef">
+<award-group>
+<funding-source>
+<named-content content-type="funder_name">Dong-A University (DAU)</named-content>
+<named-content content-type="funder_identifier">http://dx.doi.org/10.13039/501100002468</named-content>
+</funding-source>
+<award-id award-type="contract">2016</award-id>
+</award-group>
+</funding-group>
+<counts>
+<page-count count="11"/>
+</counts>
+<custom-meta-group><custom-meta><meta-name>crossmark</meta-name><meta-value/></custom-meta></custom-meta-group></article-meta>
+</front><back><ref-list>
+<title>References</title>
+<ref id="c1">
+<label>1.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Keshavarz</surname>, 
+<given-names>B.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, “
+<article-title>Micro-scale extensional rheometry using hyperbolic converging/diverging channels and jet breakup</article-title>,” <source>Biomicrofluidics</source> 
+<volume><bold>10</bold></volume>, <fpage>043502</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4948235</pub-id></mixed-citation>
+</ref>
+<ref id="c2">
+<label>2.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Nystrom</surname>, 
+<given-names>M.</given-names>
+</string-name>, 
+<string-name>
+<given-names>H. R. T.</given-names> <surname>Jahromi</surname>
+</string-name>, 
+<string-name>
+<given-names>M.</given-names> <surname>Stading</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. F.</given-names> <surname>Webster</surname>
+</string-name>, “
+<article-title>Extracting extensional properties through excess pressure drop estimation in axisymmetric contraction and expansion flows for constant shear viscosity, extension strain-hardening fluids</article-title>,” <source>Rheol. Acta</source> 
+<volume><bold>55</bold></volume>, <fpage>373</fpage>–<lpage>396</lpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s00397-016-0924-9</pub-id></mixed-citation>
+</ref>
+<ref id="c3">
+<label>3.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Dinic</surname>, 
+<given-names>J.</given-names>
+</string-name>, 
+<string-name>
+<given-names>Y.</given-names> <surname>Zhang</surname>
+</string-name>, 
+<string-name>
+<given-names>L. N.</given-names> <surname>Jimenez</surname>
+</string-name>, and 
+<string-name>
+<given-names>V.</given-names> <surname>Sharma</surname>
+</string-name>, “
+<article-title>Extensional relaxation times of dilute, aqueous polymer solutions</article-title>,” <source>ACS Macro Lett.</source> 
+<volume><bold>4</bold></volume>, <fpage>804</fpage>–<lpage>808</lpage> (<year>2015</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1021/acsmacrolett.5b00393</pub-id></mixed-citation>
+</ref>
+<ref id="c4">
+<label>4.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Vadillo</surname>, 
+<given-names>D. C.</given-names>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names> <surname>Mathues</surname>
+</string-name>, and 
+<string-name>
+<given-names>C.</given-names> <surname>Clasen</surname>
+</string-name>, “
+<article-title>Microsecond relaxation processes in shear and extensional flows of weakly elastic polymer solutions</article-title>,” <source>Rheol. Acta</source> 
+<volume><bold>51</bold></volume>, <fpage>755</fpage>–<lpage>769</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s00397-012-0640-z</pub-id></mixed-citation>
+</ref>
+<ref id="c5">
+<label>5.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Afonso</surname>, 
+<given-names>A. M.</given-names>
+</string-name>, 
+<string-name>
+<given-names>P. J.</given-names> <surname>Oliveira</surname>
+</string-name>, 
+<string-name>
+<given-names>F. T.</given-names> <surname>Pinho</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. A.</given-names> <surname>Alves</surname>
+</string-name>, “
+<article-title>Dynamics of high-Deborah-number entry flows: A numerical study</article-title>,” <source>J. Fluid Mech.</source> 
+<volume><bold>677</bold></volume>, <fpage>272</fpage>–<lpage>304</lpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1017/jfm.2011.84</pub-id></mixed-citation>
+</ref>
+<ref id="c6">
+<label>6.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Arnolds</surname>, 
+<given-names>O.</given-names>
+</string-name>, 
+<string-name>
+<given-names>A. H.</given-names> <surname>Buggisch</surname>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Sachsenheimer</surname>
+</string-name>, and 
+<string-name>
+<given-names>N.</given-names> <surname>Willenbacher</surname>
+</string-name>, “
+<article-title>Capillary breakup extensional rheometry (CaBER) on semi-dilute and concentrated polyethyleneoxide (PEO) solutions</article-title>,” <source>Rheol. Acta</source> 
+<volume><bold>49</bold></volume>, <fpage>1207</fpage>–<lpage>1217</lpage> (<year>2010</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s00397-010-0500-7</pub-id></mixed-citation>
+</ref>
+<ref id="c7">
+<label>7.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Ebagninin</surname>, 
+<given-names>K. W.</given-names>
+</string-name>, 
+<string-name>
+<given-names>A.</given-names> <surname>Benchabane</surname>
+</string-name>, and 
+<string-name>
+<given-names>K.</given-names> <surname>Bekkour</surname>
+</string-name>, “
+<article-title>Rheological characterization of poly(ethylene oxide) solutions of different molecular weights</article-title>,” <source>J. Colloid Interface Sci.</source> 
+<volume><bold>336</bold></volume>, <fpage>360</fpage>–<lpage>367</lpage> (<year>2009</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jcis.2009.03.014</pub-id></mixed-citation>
+</ref>
+<ref id="c8">
+<label>8.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Tirtaatmadja</surname>, 
+<given-names>V.</given-names>
+</string-name>, 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. J.</given-names> <surname>Cooper-White</surname>
+</string-name>, “
+<article-title>Drop formation and breakup of low viscosity elastic fluids: Effect of molecular weight and concentration</article-title>,” <source>Phys. Fluid</source> 
+<volume><bold>18</bold></volume>, <fpage>043101</fpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.2190469</pub-id></mixed-citation>
+</ref>
+<ref id="c9">
+<label>9.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>McKinley</surname>, 
+<given-names>G. H.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>T.</given-names> <surname>Sridhar</surname>
+</string-name>, “
+<article-title>Filament-stretching rheometry of complex fluids</article-title>,” <source>Annu. Rev. Fluid Mech.</source> 
+<volume><bold>34</bold></volume>, <fpage>375</fpage>–<lpage>415</lpage> (<year>2002</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1146/annurev.fluid.34.083001.125207</pub-id></mixed-citation>
+</ref>
+<ref id="c10">
+<label>10.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>McKinley</surname>, 
+<given-names>G. H.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>A.</given-names> <surname>Tripathi</surname>
+</string-name>, “
+<article-title>How to extract the Newtonian viscosity from capillary breakup measurements in a filament rheometer</article-title>,” <source>J. Rheol.</source> 
+<volume><bold>44</bold></volume>, <fpage>653</fpage>–<lpage>670</lpage> (<year>2000</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1122/1.551105</pub-id></mixed-citation>
+</ref>
+<ref id="c11">
+<label>11.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Doyle</surname>, 
+<given-names>P. S.</given-names>
+</string-name>, 
+<string-name>
+<given-names>E. S. G.</given-names> <surname>Shaqfeh</surname>
+</string-name>, 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, and 
+<string-name>
+<given-names>S. H.</given-names> <surname>Spiegelberg</surname>
+</string-name>, “
+<article-title>Relaxation of dilute polymer solutions following extensional flow</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>76</bold></volume>, <fpage>79</fpage>–<lpage>110</lpage> (<year>1998</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0377-0257(97)00113-4</pub-id></mixed-citation>
+</ref>
+<ref id="c12">
+<label>12.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Padmanabhan</surname>, 
+<given-names>M.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>C. W.</given-names> <surname>Macosko</surname>
+</string-name>, “
+<article-title>Extensional viscosity from entrance pressure drop measurements</article-title>,” <source>Rheol. Acta</source> 
+<volume><bold>36</bold></volume>, <fpage>144</fpage>–<lpage>151</lpage> (<year>1997</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/BF00366820</pub-id></mixed-citation>
+</ref>
+<ref id="c13">
+<label>13.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Cogswell</surname>, 
+<given-names>F. N.</given-names>
+</string-name>, “
+<article-title>Tensile deformations in molten polymers</article-title>,” <source>Rheol. Acta</source> 
+<volume><bold>8</bold></volume>, <fpage>187</fpage>–<lpage>194</lpage> (<year>1969</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/BF01984657</pub-id></mixed-citation>
+</ref>
+<ref id="c14">
+<label>14.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Cogswell</surname>, 
+<given-names>F. N.</given-names>
+</string-name>, “
+<article-title>Converging flow of polymer melts in extrusion dies</article-title>,” <source>Polym. Eng. Sci.</source> 
+<volume><bold>12</bold></volume>, <fpage>64</fpage>–<lpage>73</lpage> (<year>1972</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1002/pen.760120111</pub-id></mixed-citation>
+</ref>
+<ref id="c15">
+<label>15.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Everage</surname>, <suffix>Jr</suffix>, 
+<given-names>A. E.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>R. L.</given-names> <surname>Ballman</surname>
+</string-name>, “
+<article-title>The extensional flow capillary as a new method for extensional viscosity measurement</article-title>,” <source>Nature</source> 
+<volume><bold>278</bold></volume>, <fpage>213</fpage>–<lpage>215</lpage> (<year>1978</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1038/273213a0</pub-id></mixed-citation>
+</ref>
+<ref id="c16">
+<label>16.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Binding</surname>, 
+<given-names>D. M.</given-names>
+</string-name>, “
+<article-title>An approximate analysis for contraction and conversing flows</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>27</bold></volume>, <fpage>173</fpage>–<lpage>189</lpage> (<year>1988</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(88)85012-2</pub-id></mixed-citation>
+</ref>
+<ref id="c17">
+<label>17.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Binding</surname>, 
+<given-names>D. M.</given-names>
+</string-name>, 
+<string-name>
+<given-names>D. M.</given-names> <surname>Jones</surname>
+</string-name>, and 
+<string-name>
+<given-names>K.</given-names> <surname>Walters</surname>
+</string-name>, “
+<article-title>The shear and extensional flow properties of M1</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>35</bold></volume>, <fpage>121</fpage>–<lpage>135</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(90)85042-W</pub-id></mixed-citation>
+</ref>
+<ref id="c18">
+<label>18.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Binding</surname>, 
+<given-names>D. M.</given-names>
+</string-name>, “
+<article-title>Further considerations of axisymmetric contraction flows</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>41</bold></volume>, <fpage>27</fpage>–<lpage>42</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(91)87034-U</pub-id></mixed-citation>
+</ref>
+<ref id="c19">
+<label>19.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>James</surname>, 
+<given-names>D. F.</given-names>
+</string-name>, 
+<string-name>
+<given-names>G. M.</given-names> <surname>Chandler</surname>
+</string-name>, and 
+<string-name>
+<given-names>S. J.</given-names> <surname>Armour</surname>
+</string-name>, “
+<article-title>A converging channel rheometer for the measurement of extensional viscosity</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>35</bold></volume>, <fpage>421</fpage>–<lpage>443</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(90)85063-5</pub-id></mixed-citation>
+</ref>
+<ref id="c20">
+<label>20.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>James</surname>, 
+<given-names>D. F.</given-names>
+</string-name>, 
+<string-name>
+<given-names>G. M.</given-names> <surname>Chandler</surname>
+</string-name>, and 
+<string-name>
+<given-names>S. J.</given-names> <surname>Armour</surname>
+</string-name>, “
+<article-title>Measurement of the extensional viscosity of M1 in a conversing channel rheometer</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>35</bold></volume>, <fpage>445</fpage>–<lpage>458</lpage> (<year>1990</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(90)85064-6</pub-id></mixed-citation>
+</ref>
+<ref id="c21">
+<label>21.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Dealy</surname>, 
+<given-names>J. M.</given-names>
+</string-name>, “
+<article-title>Extensional rheometers for molten polymers: A review</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>4</bold></volume>, <fpage>9</fpage>–<lpage>21</lpage> (<year>1978</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(78)85003-4</pub-id></mixed-citation>
+</ref>
+<ref id="c22">
+<label>22.</label>
+<mixed-citation publication-type="book">
+<string-name><surname>Macosko</surname>, 
+<given-names>C. W.</given-names>
+</string-name>, <source><italic>Rheology: Principles, Measurements, and Applications</italic></source> (
+<publisher-name>Wiley-VCH, Inc.</publisher-name>, 
+<publisher-loc>New York</publisher-loc>, <year>1994</year>).</mixed-citation>
+</ref>
+<ref id="c23">
+<label>23.</label>
+<mixed-citation publication-type="book">
+<string-name><surname>Morrison</surname>, 
+<given-names>F. A.</given-names>
+</string-name>, <source><italic>Understanding Rheology</italic></source> (
+<publisher-name>Oxford University</publisher-name>, 
+<publisher-loc>New York</publisher-loc>, <year>2001</year>).</mixed-citation>
+</ref>
+<ref id="c24">
+<label>24.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Galindo-Rosales</surname>, 
+<given-names>F. J.</given-names>
+</string-name>, 
+<string-name>
+<given-names>M. A.</given-names> <surname>Alves</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. S. N.</given-names> <surname>Oliveira</surname>
+</string-name>, “
+<article-title>Microdevices for extensional rheometry of low viscosity elastic liquid: A review</article-title>,” <source>Microfluid. Nanofluid.</source> 
+<volume><bold>14</bold></volume>, <fpage>1</fpage>–<lpage>19</lpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s10404-012-1028-1</pub-id></mixed-citation>
+</ref>
+<ref id="c25">
+<label>25.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Ober</surname>, 
+<given-names>T. J.</given-names>
+</string-name>, 
+<string-name>
+<given-names>S. J.</given-names> <surname>Haward</surname>
+</string-name>, 
+<string-name>
+<given-names>C. J.</given-names> <surname>Pipe</surname>
+</string-name>, 
+<string-name>
+<given-names>J.</given-names> <surname>Soulages</surname>
+</string-name>, and 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, “
+<article-title>Microfluidic extensional rheometry using a hyperbolic contraction geometry</article-title>,” <source>Rheol. Acta</source> 
+<volume><bold>52</bold></volume>, <fpage>529</fpage>–<lpage>546</lpage> (<year>2013</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s00397-013-0701-y</pub-id></mixed-citation>
+</ref>
+<ref id="c26">
+<label>26.</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<given-names>M. S. N.</given-names> <surname>Oliveira</surname>
+</string-name>, 
+<string-name>
+<given-names>M. A.</given-names> <surname>Alves</surname>
+</string-name>, 
+<string-name>
+<given-names>F. T.</given-names> <surname>Pinho</surname>
+</string-name>, and 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, “
+<article-title>Viscous flow through microfabricated hyperbolic contractions</article-title>,” <source>Exp. Fluids</source> 
+<volume><bold>43</bold></volume>, <fpage>437</fpage>–<lpage>451</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/s00348-007-0306-2</pub-id></mixed-citation>
+</ref>
+<ref id="c27">
+<label>27.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Wang</surname>, 
+<given-names>J.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>D. F.</given-names> <surname>James</surname>
+</string-name>, “
+<article-title>Lubricated extensional flow of viscoelastic fluids in a convergent microchannel</article-title>,” <source>J. Rheol.</source> 
+<volume><bold>55</bold></volume>(<issue>5</issue>), <fpage>1103</fpage>–<lpage>1126</lpage> (<year>2011</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1122/1.3613948</pub-id></mixed-citation>
+</ref>
+<ref id="c28">
+<label>28.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Arratia</surname>, 
+<given-names>P. E.</given-names>
+</string-name>, 
+<string-name><surname>Gollub</surname>, 
+<given-names>J. P.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>D. J.</given-names> <surname>Durian</surname>
+</string-name>, “
+<article-title>Polymeric filament thinning and breakup in microchannels</article-title>,” <source>Phys. Rev. E</source> 
+<volume><bold>77</bold></volume>, <fpage>036309</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.77.036309</pub-id></mixed-citation>
+</ref>
+<ref id="c29">
+<label>29.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Zografos</surname>, 
+<given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<given-names>F.</given-names> <surname>Pimenta</surname>
+</string-name>, 
+<string-name>
+<given-names>M. A.</given-names> <surname>Alves</surname>
+</string-name>, and 
+<string-name>
+<given-names>M. S. N.</given-names> <surname>Oliveira</surname>
+</string-name>, “
+<article-title>Microfluidic converging/diverging channels optimized for homogeneous extensional deformation</article-title>,” <source>Biomicrofluidics</source> 
+<volume><bold>10</bold></volume>, <fpage>043508</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4954814</pub-id></mixed-citation>
+</ref>
+<ref id="c30">
+<label>30.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Haward</surname>, 
+<given-names>S. J.</given-names>
+</string-name>, “
+<article-title>Microfluidic extensional rheometry using stagnation point flow</article-title>,” <source>Biomicrofluidics</source> 
+<volume><bold>10</bold></volume>, <fpage>043401</fpage> (<year>2016</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1063/1.4945604</pub-id></mixed-citation>
+</ref>
+<ref id="c31">
+<label>31.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Gulati</surname>, 
+<given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<given-names>S. J.</given-names> <surname>Muller</surname>
+</string-name>, and 
+<string-name>
+<given-names>D.</given-names> <surname>Liepmann</surname>
+</string-name>, “
+<article-title>Direct measurements of viscoelastic flows of DNA in a 2:1 abrupt planar micro-contraction</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>155</bold></volume>, <fpage>51</fpage>–<lpage>66</lpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jnnfm.2008.05.005</pub-id></mixed-citation>
+</ref>
+<ref id="c32">
+<label>32.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Kwon</surname>, 
+<given-names>Y.</given-names>
+</string-name>, “
+<article-title>Numerical description of elastic flow instability and its dependence on liquid viscoelasticity in planar contraction</article-title>,” <source>J. Rheol.</source> 
+<volume><bold>56</bold></volume>, <fpage>1335</fpage>–<lpage>1362</lpage> (<year>2012</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1122/1.4739926</pub-id></mixed-citation>
+</ref>
+<ref id="c33">
+<label>33.</label>
+<mixed-citation publication-type="confproc">
+<string-name><surname>Campo-Deano</surname>, 
+<given-names>L.</given-names>
+</string-name>, 
+<string-name>
+<given-names>F. J.</given-names> <surname>Gallindo-Rosales</surname>
+</string-name>, 
+<string-name>
+<given-names>M. S. N.</given-names> <surname>Oliveira</surname>
+</string-name>, 
+<string-name>
+<given-names>M. A.</given-names> <surname>Alves</surname>
+</string-name>, and 
+<string-name>
+<given-names>F. T.</given-names> <surname>Pinho</surname>
+</string-name>, “
+<article-title>Boger fluid flow through hyperbolic contraction microchannels</article-title>,” in <conf-name>3rd Micro and Nano Flows Conference</conf-name>, <conf-loc>Thessaloniki, Greece</conf-loc>, <fpage>22</fpage>–<lpage>24</lpage> August (<year>2011</year>).</mixed-citation>
+</ref>
+<ref id="c34">
+<label>34.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Rodd</surname>, 
+<given-names>L. E.</given-names>
+</string-name>, 
+<string-name>
+<given-names>J. J.</given-names> <surname>Cooper-White</surname>
+</string-name>, 
+<string-name>
+<given-names>D. V.</given-names> <surname>Boger</surname>
+</string-name>, and 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, “
+<article-title>Role of the elasticity number in the entry flow of dilute polymer solution in micro-fabricated contraction geometries</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>143</bold></volume>, <fpage>170</fpage>–<lpage>191</lpage> (<year>2007</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jnnfm.2007.02.006</pub-id></mixed-citation>
+</ref>
+<ref id="c35">
+<label>35.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Rodd</surname>, 
+<given-names>L. E.</given-names>
+</string-name>, 
+<string-name>
+<given-names>T. P.</given-names> <surname>Scott</surname>
+</string-name>, 
+<string-name>
+<given-names>D. V.</given-names> <surname>Boger</surname>
+</string-name>, 
+<string-name>
+<given-names>J. J.</given-names> <surname>Cooper-White</surname>
+</string-name>, and 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, “
+<article-title>The inertia-elastic planar entry flow of low-viscosity elastic fluids in micro-fabricated geometries</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>129</bold></volume>, <fpage>1</fpage>–<lpage>22</lpage> (<year>2005</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jnnfm.2005.04.006</pub-id></mixed-citation>
+</ref>
+<ref id="c36">
+<label>36.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Gulati</surname>, 
+<given-names>S.</given-names>
+</string-name>, 
+<string-name>
+<given-names>D.</given-names> <surname>Liepmann</surname>
+</string-name>, and 
+<string-name>
+<given-names>S. J.</given-names> <surname>Muller</surname>
+</string-name>, “
+<article-title>Elastic secondary flows of semidilute DNA solutions in abrupt 90 microbends</article-title>,” <source>Phys. Rev. E</source> 
+<volume><bold>78</bold></volume>, <fpage>036314</fpage> (<year>2008</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1103/PhysRevE.78.036314</pub-id></mixed-citation>
+</ref>
+<ref id="c37">
+<label>37.</label>
+<mixed-citation publication-type="book">
+<string-name><surname>Denn</surname>, 
+<given-names>M. M.</given-names>
+</string-name>, <source><italic>Process Fluid Mechanics</italic></source> (
+<publisher-name>Prentice-Hall Inc.</publisher-name>, London, 
+<publisher-loc>NJ</publisher-loc>, <year>1980</year>).</mixed-citation>
+</ref>
+<ref id="c38">
+<label>38.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Feigl</surname>, 
+<given-names>K.</given-names>
+</string-name>, 
+<string-name>
+<given-names>F. X.</given-names> <surname>Tanner</surname>
+</string-name>, 
+<string-name>
+<given-names>B. J.</given-names> <surname>Edwards</surname>
+</string-name>, and 
+<string-name>
+<given-names>J. R.</given-names> <surname>Collier</surname>
+</string-name>, “
+<article-title>A numerical study of the measurement of elongational viscosity of polymeric fluids in a semihyperbolically converging die</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>115</bold></volume>, <fpage>191</fpage>–<lpage>215</lpage> (<year>2003</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jnnfm.2003.08.002</pub-id></mixed-citation>
+</ref>
+<ref id="c39">
+<label>39.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Oldroyd</surname>, 
+<given-names>J. G.</given-names>
+</string-name>, “
+<article-title>On the formulation of rheological equations of state</article-title>,” <source>Proc. R. Soc. London</source> 
+<volume><bold>200</bold></volume>, <fpage>523</fpage>–<lpage>541</lpage> (<year>1950</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1098/rspa.1950.0035</pub-id></mixed-citation>
+</ref>
+<ref id="c40">
+<label>40.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Wedgewood</surname>, 
+<given-names>L. E.</given-names>
+</string-name>, 
+<string-name>
+<given-names>D. N.</given-names> <surname>Ostrov</surname>
+</string-name>, and 
+<string-name>
+<given-names>R. B.</given-names> <surname>Bird</surname>
+</string-name>, “
+<article-title>A finitely extensible bead-spring chain model for dilute polymer solutions</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>40</bold></volume>, <fpage>119</fpage>–<lpage>139</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(91)87029-W</pub-id></mixed-citation>
+</ref>
+<ref id="c41">
+<label>41.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Giesekus</surname>, 
+<given-names>H.</given-names>
+</string-name>, “
+<article-title>Simple constitutive equation for polymer fluids based on the concept of deformation-dependent tensorial mobility</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>11</bold></volume>, <fpage>69</fpage>–<lpage>109</lpage> (<year>1982</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(82)85016-7</pub-id></mixed-citation>
+</ref>
+<ref id="c42">
+<label>42.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Leonov</surname>, 
+<given-names>A. I.</given-names>
+</string-name>, “
+<article-title>Nonequilibrium thermodynamics and rheology of viscoelastic polymer media</article-title>,” <source>Rheol. Acta</source> 
+<volume><bold>15</bold></volume>, <fpage>85</fpage>–<lpage>98</lpage> (<year>1976</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1007/BF01517499</pub-id></mixed-citation>
+</ref>
+<ref id="c43">
+<label>43.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Phan-Thien</surname>, 
+<given-names>N.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>R. I.</given-names> <surname>Tanner</surname>
+</string-name>, “
+<article-title>A new constitutive equation derived from network theory</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>2</bold></volume>, <fpage>353</fpage>–<lpage>365</lpage> (<year>1977</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(77)80021-9</pub-id></mixed-citation>
+</ref>
+<ref id="c44">
+<label>44.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Mu</surname>, 
+<given-names>Y.</given-names>
+</string-name>, 
+<string-name>
+<given-names>G.</given-names> <surname>Zhao</surname>
+</string-name>, 
+<string-name>
+<given-names>W.</given-names> <surname>Wu</surname>
+</string-name>, and 
+<string-name>
+<given-names>J.</given-names> <surname>Zhai</surname>
+</string-name>, “
+<article-title>Modeling and simulation of three-dimensional planar contraction flow of viscoelastic fluids with PTT, Giesekus and FENE-P constitutive models</article-title>,” <source>Appl. Math. Comput.</source> 
+<volume><bold>218</bold></volume>, <fpage>8429</fpage>–<lpage>8443</lpage> (<year>2012</year>)<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.amc.2012.01.067</pub-id>.</mixed-citation>
+</ref>
+<ref id="c45">
+<label>45.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Yesilata</surname>, 
+<given-names>G.</given-names>
+</string-name>, 
+<string-name>
+<given-names>C.</given-names> <surname>Clasen</surname>
+</string-name>, and 
+<string-name>
+<given-names>G. H.</given-names> <surname>McKinley</surname>
+</string-name>, “
+<article-title>Nonlinear shear and extensional flow dynamics of wormlike surfactant solutions</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>133</bold></volume>, <fpage>73</fpage>–<lpage>90</lpage> (<year>2006</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/j.jnnfm.2005.10.009</pub-id></mixed-citation>
+</ref>
+<ref id="c46">
+<label>46.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Peters</surname>, 
+<given-names>G. W. M.</given-names>
+</string-name>, 
+<string-name>
+<given-names>J. F. M.</given-names> <surname>Schoonen</surname>
+</string-name>, 
+<string-name>
+<given-names>F. P. T.</given-names> <surname>Baaijens</surname>
+</string-name>, and 
+<string-name>
+<given-names>H. E. H.</given-names> <surname>Meijer</surname>
+</string-name>, “
+<article-title>On the performance of enhanced constitutive models for polymer melts in a cross-slot flow</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>82</bold></volume>, <fpage>387</fpage>–<lpage>427</lpage> (<year>1999</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/S0377-0257(98)00173-6</pub-id></mixed-citation>
+</ref>
+<ref id="c47">
+<label>47.</label>
+<mixed-citation publication-type="journal">
+<string-name><surname>Hulsen</surname>, 
+<given-names>M. A.</given-names>
+</string-name>, and 
+<string-name>
+<given-names>J. V. D.</given-names> <surname>Zanden</surname>
+</string-name>, “
+<article-title>Numerical simulation of contraction flows using a multi-mode Giesekus model</article-title>,” <source>J. Non-Newtonian Fluid Mech.</source> 
+<volume><bold>38</bold></volume>, <fpage>183</fpage>–<lpage>221</lpage> (<year>1991</year>).<pub-id pub-id-type="doi" specific-use="metadata">10.1016/0377-0257(91)83005-O</pub-id></mixed-citation>
+</ref>
+<ref id="c48">
+<label>48.</label>
+<mixed-citation publication-type="book">
+<string-name><surname>White</surname>, 
+<given-names>F. M.</given-names>
+</string-name>, <source><italic>Viscous Fluid Flow</italic></source>, <edition>3rd ed.</edition> (
+<publisher-name>McGraw-Hill</publisher-name>, 
+<publisher-loc>New York</publisher-loc>, <year>2006</year>).</mixed-citation>
+</ref></ref-list></back></article>
